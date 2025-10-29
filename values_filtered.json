@@ -1,0 +1,6973 @@
+{
+  "codes": [
+    {
+      "value": "1,1,1,2-Tetrachloroethane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,1,1-Trichloroethane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,1,2,2-Tetrachloroethane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,1,2-Trichloroethane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,1-Dichloroethane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,1-Dichloroethene",
+      "providers": "NWIS"
+    },
+    {
+      "value": "1,1-Dichloroethylene",
+      "providers": "STORET"
+    },
+    {
+      "value": "1,1-Dichloropropene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2,3,4,5,6-Hexachlorocyclohexane",
+      "providers": "STORET"
+    },
+    {
+      "value": "1,2,3,4,6,7,8,9-Octachlorodibenzofuran",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2,3,4,6,7,8,9-Octachlorodibenzo-p-dioxin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2,3,4,6,7,8-Heptachlorodibenzofuran",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2,3,4,6,7,8-Heptachlorodibenzofuran-C13",
+      "providers": "STORET"
+    },
+    {
+      "value": "1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin-C13",
+      "providers": "STORET"
+    },
+    {
+      "value": "1,2,3,4,7,8,9-Heptachlorodibenzofuran",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2,3,4,7,8-Hexachlorodibenzofuran",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2,3,4,7,8-Hexachlorodibenzofuran-C13",
+      "providers": "STORET"
+    },
+    {
+      "value": "1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin-C13",
+      "providers": "STORET"
+    },
+    {
+      "value": "1,2,3,4-Tetrachlorodibenzo-p-dioxin-C13",
+      "providers": "STORET"
+    },
+    {
+      "value": "1,2,3,6,7,8-Hexachlorodibenzofuran",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2,3,6,7,8-Hexachlorodibenzofuran-C13",
+      "providers": "STORET"
+    },
+    {
+      "value": "1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin-C13",
+      "providers": "STORET"
+    },
+    {
+      "value": "1,2,3,7,8,9-Hexachlorodibenzofuran",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2,3,7,8,9-Hexachlorodibenzofuran-C13",
+      "providers": "STORET"
+    },
+    {
+      "value": "1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin-C13",
+      "providers": "STORET"
+    },
+    {
+      "value": "1,2,3,7,8-Pentachlorodibenzofuran",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2,3,7,8-Pentachlorodibenzofuran-C13",
+      "providers": "STORET"
+    },
+    {
+      "value": "1,2,3,7,8-Pentachlorodibenzo-p-dioxin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2,3,7,8-Pentachlorodibenzo-p-dioxin-C13",
+      "providers": "STORET"
+    },
+    {
+      "value": "1,2,3-Trichlorobenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2,3-Trichloropropane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2,3-Trimethylbenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2,4,5-Tetrachlorobenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2,4-Trichlorobenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2,4-Trimethylbenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2-Benzenedicarboxamide, N2-[1,1-dimethyl-2-(methylsulfonyl)ethyl]-3-iodo-N1-[2-methyl-4-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]phenyl]-",
+      "providers": "NWIS"
+    },
+    {
+      "value": "1,2-Dibromo-3-chloropropane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2-Dibromoethylene",
+      "providers": "NWIS"
+    },
+    {
+      "value": "1,2-Dichloroethane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2-Dichloroethane-d4",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2-Dichloropropane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2-Dimethylnaphthalene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,2-Diphenylhydrazine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,3,4,6,7,8-Hexahydro-4,6,6,7,8,8-hexamethylcyclopenta[g]-2-benzopyran",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1-(3,4-dichlorophenyl)-3-methyl urea",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,3,5-Trimethylbenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,3,5-Trinitrobenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,3-Dichlorobenzene",
+      "providers": "NWIS"
+    },
+    {
+      "value": "1,3-Dichloropropane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,3-Dichloropropene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,4-Dibromobenzene",
+      "providers": "NWIS"
+    },
+    {
+      "value": "1,4-Dioxane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,4-Naphthoquinone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,6,7-Trimethylnaphthalene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1,6-Dimethylnaphthalene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "16-Epiestriol-d2",
+      "providers": "NWIS"
+    },
+    {
+      "value": "17.beta.-Estradiol-13,14,15,16,17,18-13C6",
+      "providers": "NWIS"
+    },
+    {
+      "value": "1,7-Dimethylxanthine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1-Bromo-3-chloropropane-d6",
+      "providers": "NWIS"
+    },
+    {
+      "value": "1-Chloronaphthalene",
+      "providers": "STORET"
+    },
+    {
+      "value": "1-Decanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heneicosafluoro-",
+      "providers": "STORET"
+    },
+    {
+      "value": "1H-1,2,4-Triazole",
+      "providers": "NWIS"
+    },
+    {
+      "value": "1H-Pyrazole-3-carboxamide, 5-amino-1-[2,6-dichloro-4-(trifluoromethyl)phenyl]-4-[(trifluoromethyl)sulfinyl]-",
+      "providers": "NWIS"
+    },
+    {
+      "value": "1-Methylfluorene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1-Methylnaphthalene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1-Methylphenanthrene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1-Methylpyrene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1-Naphthalenamine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1-Naphthol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "(1R,2S,5R)-Menthol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "1rs Cis-Permethrin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',4,4',5,5',6-Nonachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',4,4',5,5'-Octachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',4,4',5,6,6'-Nonachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',4,4',5,6-Octachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',4,4',5,6'-Octachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',4,4',5-Heptachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',4,4',6,6'-Octachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',4,4'-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',4,5,5',6,6'-Nonachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',4,5,5',6-Octachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',4,5,5'-Heptachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',4,5,6,6'-Octachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',4,5',6,6'-Octachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',4,5,6'-Heptachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',4,5',6-Heptachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',4,5',6'-Heptachlorobiphenyl",
+      "providers": "STORET"
+    },
+    {
+      "value": "2,2',3,3',4',5,6-Heptachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',4,5'-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',4,6,6'-Heptachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',4,6-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',4,6'-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',4-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',5,5',6,6'-Octachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',5,5',6,6'-Octachlorobiphenyl-C13",
+      "providers": "NWIS"
+    },
+    {
+      "value": "2,2',3,3',5,5',6-Heptachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',5,5'-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',5,6,6'-Heptachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',6,6'-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,3',6-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4,4',5,5',6-Octachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4,4',5,5'-Heptachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4,4',5,6,6'-Octachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4,4',5',6-Heptabromodiphenyl ether",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4,4',5,6-Heptachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4,4',5,6'-Heptachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4,4',5',6-Heptachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4,4',5-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4,4',5'-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4,4',6,6'-Heptachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4,5,5',6-Heptachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4',5,5',6-Heptachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4,5,5'-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4',5,5'-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4',5,6,6'-Heptachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4,5',6-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4',5,6'-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4',5',6-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4,5'-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4',5'-Pentachlorobiphenyl",
+      "providers": "STORET"
+    },
+    {
+      "value": "2,2',3,4',6,6'-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4,6'-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,4'-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,5,5',6-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,5,5'-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,5,6,6'-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,5,6'-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,5',6-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,5-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,5'-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,6,6'-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3,6'-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',3-Trichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2-[2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethoxy]ethanol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',4,4',5,5'-Hexabromobiphenyl",
+      "providers": "STORET"
+    },
+    {
+      "value": "2,2',4,4',5,5'-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',4,4',5,6'-Hexachlorobiphenyl",
+      "providers": "STORET"
+    },
+    {
+      "value": "2,2',4,4',5',6-HXBDE",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',4,4',5-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',4,4',6,6'-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',4,4',6,6'-HXBDE",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',4,4',6-pentabrominated diphenyl ether",
+      "providers": "NWIS"
+    },
+    {
+      "value": "2,2',4,4'-tetrabrominated diphenyl ether",
+      "providers": "NWIS"
+    },
+    {
+      "value": "2,2',4,4'-tetrabrominated diphenyl ether***retired***use 2,2',4,4'-Tetrabromodiphenyl ether",
+      "providers": "STORET"
+    },
+    {
+      "value": "2,2',4,4'-Tetrabromodiphenyl ether",
+      "providers": "STORET"
+    },
+    {
+      "value": "2,2',4,5,5'-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2,4,5,6,7,8,8-Octachloro-2,3,3a,4,7,7a-hexahydro-4,7-methano-1H-indene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',4,5',6-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',4,5'-TEBDE",
+      "providers": "STORET"
+    },
+    {
+      "value": "2,2',4,5-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',4,5'-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',4,6,6'-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',4,6'-Tetrabromodiphenyl ether",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',4-Trichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',5,5'-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',5-Trichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',6,6'-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2',6-Trichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2'-Biquinoline",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2'-Dichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,2-Dichloropropane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2-(2H-Benzotriazol-2-yl)-4,6-di-tert-pentylphenol",
+      "providers": "STORET"
+    },
+    {
+      "value": "2,3,3',4,4',5,5',6-Octachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,3',4,4',5,5'-Heptachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,3',4,4',5,6-Heptachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,3',4,4',5',6-Heptachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,3',4,4',5-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,3',4,4',6-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,3',4,4'-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,3',4,5,5',6-Heptachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,3',4,5,5'-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,3',4',5,5'-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,3',4',5',6-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,3',4',5-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,3',4',5'-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,3',4,6-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,3',4',6-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,3',4-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,3',4'-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,3',5,5',6-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,3',5,5'-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,3',5,6-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,3',5-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,3',5'-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3',4,4',5,5'-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3',4,4',5',6-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,4,4',5-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3',4,4',5-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3',4,4',5'-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3',4,4'-tetrabrominated diphenyl ether",
+      "providers": "NWIS"
+    },
+    {
+      "value": "2,3,4,4'-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3',4,4'-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3',4,5,5'-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3',4,5',6-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,4',5-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3',4,5-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3',4,5'-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,4,6,7,8-Hexachlorodibenzofuran",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,4,6,7,8-Hexachlorodibenzofuran-C13",
+      "providers": "STORET"
+    },
+    {
+      "value": "2,3',4',6-TEBDE",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,4',6-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,4,6-Tetrachlorophenol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,4,7,8-Pentachlorodibenzofuran",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,4,7,8-Pentachlorodibenzofuran-C13",
+      "providers": "STORET"
+    },
+    {
+      "value": "2,3,4'-Trichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3',4-Trichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3',5,5'-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3',5',6-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,5-Trichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3',5'-Trichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,5-Trimethylnaphthalene***retired***use 1,6,7-Trimethylnaphthalene",
+      "providers": "STORET"
+    },
+    {
+      "value": "2,3,6-Trichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3',6-Trichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,6-Trimethylnaphthalene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,7,8-Tetrachlorodibenzofuran",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3,7,8-Tetrachlorodibenzofuran-C13",
+      "providers": "STORET"
+    },
+    {
+      "value": "2,3,7,8-Tetrachlorodibenzo-p-dioxin",
+      "providers": "STORET"
+    },
+    {
+      "value": "2,3,7,8-Tetrachlorodibenzo-p-dioxin-C13",
+      "providers": "STORET"
+    },
+    {
+      "value": "2,3,7,8-Tetrachlorodibenzo-p-dioxin-Cl37",
+      "providers": "STORET"
+    },
+    {
+      "value": "2,3-Dichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,3'-Dichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2-[4-(1,1,3,3-Tetramethylbutyl)phenoxy]ethanol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,4,4',5-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,4,4'-Trichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,4,5-T",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,4',5-Trichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,4,5-Trichlorophenol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,4,5-T + Silvex",
+      "providers": "STORET"
+    },
+    {
+      "value": "2,4,6-Tribromophenol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,4,6-Trichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,4',6-Trichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,4,6-Trichlorophenol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,4-D",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,4-DB",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,4-D-d3",
+      "providers": "NWIS"
+    },
+    {
+      "value": "2,4-Dichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,4'-Dichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,4-Dichlorophenol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,4-Dimethylphenol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,4-Dinitrophenol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,4-Dinitrotoluene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,4-D methyl ester",
+      "providers": "NWIS"
+    },
+    {
+      "value": "2,4-D, salts and esters",
+      "providers": "NWIS"
+    },
+    {
+      "value": "2,5-Dichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,6-Dichloro-4-methylphenol",
+      "providers": "STORET"
+    },
+    {
+      "value": "2,6-Dichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,6-Dichlorophenol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,6-Diethylaniline",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,6-Dimethylnaphthalene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2,6-Dinitrotoluene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2-Acetylaminofluorene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2-Aminobenzimidazole",
+      "providers": "NWIS"
+    },
+    {
+      "value": "2-Bromo-1-chloropropane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2-Chloro-2',6'-diethylacetanilide",
+      "providers": "NWIS"
+    },
+    {
+      "value": "2-Chloro-4,6-diamino-s-triazine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2-Chloro-4-isopropylamino-6-amino-s-triazine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2-Chlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2-Chloroethyl vinyl ether",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2-Chloro-N-(2-ethyl-6-methylphenyl)acetamide",
+      "providers": "NWIS"
+    },
+    {
+      "value": "2-Chloronaphthalene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2-(Dimethylamino)-N-hydroxy-2-oxoethanimidothioic acid methyl ester",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2-Ethyl-6-methylaniline",
+      "providers": "NWIS"
+    },
+    {
+      "value": "2-ethylhexyl-2,3,4,5-tetrabromobenzoate",
+      "providers": "STORET"
+    },
+    {
+      "value": "2-Ethylnaphthalene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2-Fluorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2-Hexanone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2-Hydroxy-4-methoxybenzophenone",
+      "providers": "STORET"
+    },
+    {
+      "value": "2-Hydroxyatrazine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2-Isopropyl-6-methyl-4-pyrimidinol",
+      "providers": "NWIS"
+    },
+    {
+      "value": "2-Methyl-5-nitroaniline",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2-Methylanthracene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2-Methylisoborneol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2-Methylnaphthalene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2-Methylpyridine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "2-Naphthalenamine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "3,3',4,4',5,5'-Hexachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "3,3',4,4',5-PEBDE",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "3,3',4,4',5-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "3,3',4,4'-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "3,3',4,5,5'-Pentachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "3,3',4,5'-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "3,3'-Dichlorobenzidine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "3,3'-Dichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "3,3'-Dimethoxybenzidine",
+      "providers": "STORET"
+    },
+    {
+      "value": "3,4,4',5-Tetrachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "3,4,4'-TRBDE",
+      "providers": "STORET"
+    },
+    {
+      "value": "3,4,4'-Trichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "3,4,5-Trichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "3,4',5-Trichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "3,4-Dichloroaniline",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "3,4-Dichlorophenyl isocyanate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "3,4-Dichlorophenylurea",
+      "providers": "NWIS"
+    },
+    {
+      "value": "3,5-Dichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "3,5-Dimethylphenol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "3-Chlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "3-Hydroxycarbofuran",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "3-Methylcholanthrene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "3-Methylindole",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "3-Phenoxybenzoic acid-13C6",
+      "providers": "NWIS"
+    },
+    {
+      "value": "4,4'-Dibromo-2,2',3,3',5,5',6,6'-octafluorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "4,4'-Dichlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "4,4'-Isopropylidenediphenol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "4,4'-Methylenebis(2-chloroaniline)",
+      "providers": "STORET"
+    },
+    {
+      "value": "4,6-Dinitro-o-cresol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "4-Aminobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "4-Bromo-3,5-dimethylphenyl N-Methylcarbamate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "4-Chloro-2-methylphenol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "4-Chloro-3,5-dimethylphenol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "4-Chlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "4-Dimethylaminoazobenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "4H-Cyclopenta[def]phenanthrene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "4-Hydroxychlorothalonil",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "4-Hydroxyhexazinone A",
+      "providers": "NWIS"
+    },
+    {
+      "value": "4-Nonylphenol diethoxylate",
+      "providers": "NWIS"
+    },
+    {
+      "value": "4-Nonylphenol monoethoxylates",
+      "providers": "NWIS"
+    },
+    {
+      "value": "4-Nonylphenols",
+      "providers": "NWIS"
+    },
+    {
+      "value": "5-Tolyltriazole",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "7,12-Dimethylbenz[a]anthracene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Ablabesmyia janta",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Ablabesmyia mallochi",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Absorbance at 280 nanometers",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Absorbance at 280 nm",
+      "providers": "STORET"
+    },
+    {
+      "value": "Absorbance at 412 nm",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Acenaphthene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Acenaphthene-d10",
+      "providers": "STORET"
+    },
+    {
+      "value": "Acenaphthylene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Acephate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Acesulfame",
+      "providers": "STORET"
+    },
+    {
+      "value": "Acetaminophen",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Acetaminophen-d3",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Acetamiprid",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Acetochlor",
+      "providers": "NWIS STEWARDS STORET"
+    },
+    {
+      "value": "Acetochlor-d11",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Acetochlor ESA",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Acetochlor OA",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Acetochlor sulfinylacetic acid",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Acetone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Acetophenone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Acidity, hydrogen ion (H+) as CaCO3",
+      "providers": "STORET"
+    },
+    {
+      "value": "Acifluorfen",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Acridine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Acrolein",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Acrylonitrile",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Actinomycetes",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Aerobic endospores",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Afidopyropen",
+      "providers": "STORET"
+    },
+    {
+      "value": "Age",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "AHTN",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Alachlor",
+      "providers": "NWIS STEWARDS STORET"
+    },
+    {
+      "value": "Alachlor-d13",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Alachlor ESA",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Alachlor OA",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Albuterol-d9",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Aldicarb",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Aldicarb sulfone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Aldicarb sulfoxide",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Aldrin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Algae, all groups, density",
+      "providers": "STORET"
+    },
+    {
+      "value": "Algae, blue-green (phylum cyanophyta) density",
+      "providers": "STORET"
+    },
+    {
+      "value": "Algae, green (phylum chlorophyta) density",
+      "providers": "STORET"
+    },
+    {
+      "value": "Algal growth potential",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Alkaline phosphatase",
+      "providers": "STORET"
+    },
+    {
+      "value": "Alkalinity, bicarbonate",
+      "providers": "STORET"
+    },
+    {
+      "value": "Alkalinity, Bicarbonate as CaCO3",
+      "providers": "STORET"
+    },
+    {
+      "value": "Alkalinity, borate",
+      "providers": "STORET"
+    },
+    {
+      "value": "Alkalinity, carbonate",
+      "providers": "STORET"
+    },
+    {
+      "value": "Alkalinity, Carbonate as CaCO3",
+      "providers": "STORET"
+    },
+    {
+      "value": "Alkalinity, Hydroxide",
+      "providers": "STORET"
+    },
+    {
+      "value": "Alkalinity, Hydroxide as CaCO3",
+      "providers": "STORET"
+    },
+    {
+      "value": "Alkalinity, Phenolphthalein (total hydroxide+1/2 carbonate)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Alkalinity, total",
+      "providers": "STORET"
+    },
+    {
+      "value": ".alpha.-1,2,3,4,5,6-Hexachlorocyclohexane-D6 or alpha-HCH D6",
+      "providers": "NWIS"
+    },
+    {
+      "value": ".alpha.,.alpha.-Dimethylphenethylamine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Alpha emitting radium isotopes",
+      "providers": "NWIS"
+    },
+    {
+      "value": ".alpha.-Endosulfan",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": ".alpha.-Hexachlorocyclohexane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Alpha particle",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Altitude",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Ametryn",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Aminomethylphosphonic acid",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Ammonia",
+      "providers": "NWIS STEWARDS STORET"
+    },
+    {
+      "value": "Ammonia and ammonium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Ammonia as NH3",
+      "providers": "STORET"
+    },
+    {
+      "value": "Ammonia-nitrogen",
+      "providers": "STORET"
+    },
+    {
+      "value": "Ammonia-nitrogen as N",
+      "providers": "STORET"
+    },
+    {
+      "value": "Ammonium",
+      "providers": "STEWARDS STORET"
+    },
+    {
+      "value": "Ammonium as N",
+      "providers": "STORET"
+    },
+    {
+      "value": "Ammonium as NH4",
+      "providers": "STORET"
+    },
+    {
+      "value": "Amphetamine-d6",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Amphipoda",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Anatoxin-A",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Anhydroerthromycin",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Aniline",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Anion deficit",
+      "providers": "STORET"
+    },
+    {
+      "value": "Anthracene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Anthraquinone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Antimony",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Antocha saxicola",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Apparent color",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Argon",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Argon-40/Argon-36 error",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Argon-40/Argon-36 ratio",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Aroclor 1016",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Aroclor 1016 mixt. with Aroclor 1242",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Aroclor 1221",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Aroclor 1232",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Aroclor 1242",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Aroclor 1248",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Aroclor 1254",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Aroclor 1260",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Arsenate",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Arsenic",
+      "providers": "NWIS STEWARDS STORET"
+    },
+    {
+      "value": "Arsenite",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Asbestos",
+      "providers": "STORET"
+    },
+    {
+      "value": "Ash Free Dry Mass",
+      "providers": "STORET"
+    },
+    {
+      "value": "Atmospheric deposition, wet fall",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Atraton",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Atrazine",
+      "providers": "NWIS STEWARDS STORET"
+    },
+    {
+      "value": "Avobenzone",
+      "providers": "STORET"
+    },
+    {
+      "value": "Azide",
+      "providers": "STORET"
+    },
+    {
+      "value": "Azinphos-ethyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Azinphos-methyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Azithromycin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Azobenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Azobenzene/1,2-Diphenylhydrazine",
+      "providers": "STORET"
+    },
+    {
+      "value": "Azoxystrobin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "BacCow DNA marker",
+      "providers": "STORET"
+    },
+    {
+      "value": "BacR DNA marker",
+      "providers": "STORET"
+    },
+    {
+      "value": "BacR DNA marker (purified)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Barban",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Barium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Barometric pressure",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "BDE-003",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "BDE-066",
+      "providers": "STORET"
+    },
+    {
+      "value": "BDE-075",
+      "providers": "STORET"
+    },
+    {
+      "value": "BDE-079",
+      "providers": "STORET"
+    },
+    {
+      "value": "BDE-085",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "BDE-099",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "BDE-100",
+      "providers": "STORET"
+    },
+    {
+      "value": "BDE-119/120",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "BDE-153",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "BDE-154",
+      "providers": "STORET"
+    },
+    {
+      "value": "BDE-155",
+      "providers": "STORET"
+    },
+    {
+      "value": "BDE-17/25",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "BDE-208",
+      "providers": "STORET"
+    },
+    {
+      "value": "BDE-28/33",
+      "providers": "STORET"
+    },
+    {
+      "value": "Bedload sediment particle size",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Bed sediment particle size",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Benfluralin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Benomyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Bensulfuron-methyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Bentazon",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Benthic invertebrate density",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Benz[a]anthracene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Benzamide, 2-amino-N-(1-methylethyl)-",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Benzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Benzene, 1,1'-[1,2-ethanediylbis(oxy)]bis[2,4,6-tribromo-",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Benzene, 1,1-oxybis[3,4-dibromo-",
+      "providers": "STORET"
+    },
+    {
+      "value": "Benzene, 1,2,3,4,5-pentabromo-6-(2,3,4,6-tetrabromophenoxy)-***retired***use BDE-207",
+      "providers": "STORET"
+    },
+    {
+      "value": "Benzene, 1,2,3-tribromo-4-(2,3,4-tribromophenoxy)-",
+      "providers": "STORET"
+    },
+    {
+      "value": "Benzene, 1,2,4-tribromo-5-(2,4-dibromophenoxy)-***retired***use BDE-099",
+      "providers": "STORET"
+    },
+    {
+      "value": "Benzeneacetic acid, .alpha.-methyl-4-(2-methylpropyl)-",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Benzenepropanenitrile, .alpha.-(cyclopropylcarbonyl)- 2-(methylsulfonyl)-.beta.- oxo-4-(trifluoromethyl)-",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Benzidine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Benzo[a]pyrene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Benzo[a]pyrene-d12",
+      "providers": "STORET"
+    },
+    {
+      "value": "Benzo(b)fluoranthene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Benzo[e]pyrene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Benzofuran",
+      "providers": "STORET"
+    },
+    {
+      "value": "Benzo[g,h,i]perylene",
+      "providers": "STORET"
+    },
+    {
+      "value": "Benzo[ghi]perylene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Benzoic acid",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Benzo[k]fluoranthene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Benzophenone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Benzovindiflupyr",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Benzyl alcohol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Beta Cypermethrin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": ".beta.-Endosulfan",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": ".beta.-Hexachlorocyclohexane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Beta particle",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": ".beta.-Sitosterol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Bicarbonate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Bifenthrin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Biochemical oxygen demand, non-standard conditions",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Biochemical oxygen demand, standard conditions",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Biomass",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Biomass, benthic",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Biomass/chlorophyll ratio",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Biomass, periphyton",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Biomass, phytoplankton",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Biomass, plankton",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Biphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Bis(2-chloroethoxy)methane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Bis(2-chloroethyl) ether",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Bis(2-chloroisopropyl) ether",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Bis(hexachlorocyclopentadieno)cyclooctane",
+      "providers": "STORET"
+    },
+    {
+      "value": "Bis(hexachlorocyclopentadieno) cyclooctane",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Bismuth",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Bisphenol A-d14",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Bisphenol A-d16",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Bisphenol A-d3",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Bisphenol F-d10",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Boron",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Bromacil",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Bromine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Bromoacetic acid",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Bromobenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Bromochloromethane",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Bromoxynil",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Butachlor ESA",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Butane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Butylate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Butyl benzyl phthalate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "C1-Benzopyrenes/perylenes",
+      "providers": "NWIS"
+    },
+    {
+      "value": "C1-C3 Fluorenes",
+      "providers": "STORET"
+    },
+    {
+      "value": "C1-C4 Chrysenes",
+      "providers": "STORET"
+    },
+    {
+      "value": "C1-C4 Fluoranthenes",
+      "providers": "STORET"
+    },
+    {
+      "value": "C1-C4 Phenanthrenes",
+      "providers": "STORET"
+    },
+    {
+      "value": "C1-Fluoranthenes/pyrenes",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "C1-MW 228 PAH",
+      "providers": "NWIS"
+    },
+    {
+      "value": "C1-Phenanthrenes/anthracenes",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "C23-C32 Hydrocarbons",
+      "providers": "NWIS"
+    },
+    {
+      "value": "C2-Benzopyrenes/perylenes",
+      "providers": "NWIS"
+    },
+    {
+      "value": "C2-Chrysenes",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "C2-Dibenzothiophenes",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "C2-Fluoranthenes/pyrenes",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "C2-Fluorenes",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "C2-Naphthalenes",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "C2-Phenanthrenes/anthracenes",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "C3-Chrysenes",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "C3-Dibenzothiophenes",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "C3-Fluoranthenes/pyrenes",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "C3-Fluorenes",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "C3-Phenanthrenes/anthracenes",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "C4-Chrysenes",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "C4-Dibenzothiophenes",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "C4-Naphthalenes",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "C5-Naphthalenes",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Cacodylic acid",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Caffeine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Caffeine-d9",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Caffeine-trimethyl-13C3",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Calcium",
+      "providers": "NWIS STEWARDS STORET"
+    },
+    {
+      "value": "Calcium as CaCO3",
+      "providers": "STORET"
+    },
+    {
+      "value": "Calcium carbonate",
+      "providers": "STEWARDS STORET"
+    },
+    {
+      "value": "Camphor",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Canopy Measure Center Down",
+      "providers": "STORET"
+    },
+    {
+      "value": "Canopy Measure Center Upstream",
+      "providers": "STORET"
+    },
+    {
+      "value": "Canopy Measure Left Bank",
+      "providers": "STORET"
+    },
+    {
+      "value": "Canopy Measure Right Bank",
+      "providers": "STORET"
+    },
+    {
+      "value": "Caprolactam",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Captan",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Carbamazepine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Carbamazepine-d10",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Carbaryl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Carbaryl-d7",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Carbazole",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Carbendazim",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Carbendazim-d4",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Carbofuran",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Carbofuran-D3",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Carbon",
+      "providers": "NWIS STEWARDS STORET"
+    },
+    {
+      "value": "Carbon-13/Carbon-12 ratio",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Carbon-14",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Carbonaceous biochemical oxygen demand, non-standard conditions",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Carbonaceous biochemical oxygen demand, standard conditions",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Carbon dioxide",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Carbon Dioxide Fugacity",
+      "providers": "STORET"
+    },
+    {
+      "value": "Carbon disulfide",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Carbon, isotope of mass 13",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Carbon tetrachloride",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Carbophenothion-methyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Carfentrazone-ethyl",
+      "providers": "STORET"
+    },
+    {
+      "value": "Catchment basin area",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Ceratopogonidae",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Cerium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Cesium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Cesium-137",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "CFC-11",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "CFC-113",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "CFC-12",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chaoborus",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Chemical oxygen demand",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chemical oxygen demand, (high level)",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chemical oxygen demand, (low level)",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Chironomidae",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Chlorbenside",
+      "providers": "STORET"
+    },
+    {
+      "value": "Chlordane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chlordane, technical",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chlordane, technical, and/or chlordane metabolites",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chlordecone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chlorfenapyr",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chlorfenvinphos",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chlorimuron-ethyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chlorinated naphthalenes",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chlorine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chloroacetic acid",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chlorobenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chlorobenzilate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chlorodibromomethane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chloroethane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chloroform",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chloromethane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chlorophenol",
+      "providers": "STORET"
+    },
+    {
+      "value": "Chlorophyll",
+      "providers": "NWIS STEWARDS STORET"
+    },
+    {
+      "value": "Chlorophyll a",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chlorophyll a, corrected for pheophytin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chlorophyll a, free of pheophytin",
+      "providers": "STORET"
+    },
+    {
+      "value": "Chlorophyll a (probe)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Chlorophyll a (probe) concentration, Cryptophyta (cryptophytes)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Chlorophyll a (probe) concentration, Cyanobacteria (bluegreen)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Chlorophyll a (probe) concentration, Xanthophyte (yellow algae)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Chlorophyll a, uncorrected for pheophytin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chlorophyll b",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chlorophyll c",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chlorophyll/Pheophytin ratio",
+      "providers": "STORET"
+    },
+    {
+      "value": "Chlorothalonil",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chlorotoluene",
+      "providers": "STORET"
+    },
+    {
+      "value": "Chlorpyrifos",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chlorpyrifos-methyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chlorthal-dimethyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Cholesterol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Cholesterol-d7",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Chromium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chromium(III)",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chromium(VI)",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chrysene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Chrysene-d12",
+      "providers": "STORET"
+    },
+    {
+      "value": "Cimetidine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "cis-1,2-Dichloroethylene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "cis-1,3-Dichloropropene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "cis-Androsterone-2,2,3,4,4-d5",
+      "providers": "NWIS"
+    },
+    {
+      "value": "cis-Nonachlor",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "cis-Permethrin-13C6",
+      "providers": "NWIS"
+    },
+    {
+      "value": "cis-Propiconazole",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Cladotanytarsus",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Clostridium perfringens",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Clothianidin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Cloud cover",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Cobalt",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Codeine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Codeine-d6",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Coelotanypus",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Coelotanypus scapularis",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Coliform/Streptococcus ratio, fecal",
+      "providers": "STORET"
+    },
+    {
+      "value": "Color",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Coprosterol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Coral Percent Live",
+      "providers": "STORET"
+    },
+    {
+      "value": "Corynoneura",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Cotinine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Cotinine-d3",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Coumaphos",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "COWM2 DNA marker",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Cresol",
+      "providers": "STORET"
+    },
+    {
+      "value": "Cricotopus bicinctus",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Crotoxyphos",
+      "providers": "STORET"
+    },
+    {
+      "value": "Cryptochironomus",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Cryptochironomus blarina",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Cryptochironomus fulvus",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Cryptotendipes",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Cumene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Current speed",
+      "providers": "STORET"
+    },
+    {
+      "value": "Cyanazine",
+      "providers": "NWIS STEWARDS STORET"
+    },
+    {
+      "value": "Cyanide",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Cyclohexane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Cyclohexanecarboxylic acid",
+      "providers": "STORET"
+    },
+    {
+      "value": "Cyfluthrin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Cylindrospermopsin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Cylindrospermopsins",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Cymene",
+      "providers": "STORET"
+    },
+    {
+      "value": "Cyprazine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Cyprodinil",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Cyrnellus",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Dalapon",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "DDD, o,p'- and p,p'- isomers",
+      "providers": "STORET"
+    },
+    {
+      "value": "DDE, o,p'- and p,p'- isomers",
+      "providers": "STORET"
+    },
+    {
+      "value": "DDT/DDD/DDE, sum of p,p' & o,p' isomers",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "DDT, o,p'- and p,p'- isomers",
+      "providers": "STORET"
+    },
+    {
+      "value": "Decachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Decafluorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dechlorane 602",
+      "providers": "STORET"
+    },
+    {
+      "value": "Dechlorane 603",
+      "providers": "STORET"
+    },
+    {
+      "value": "Dechlorometolachlor",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Decylbenzene",
+      "providers": "STORET"
+    },
+    {
+      "value": "Deethylatrazine-d6",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Deethylhydroxyatrazine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dehydronifedipine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Deisopropylhydroxyatrazine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Deisopropyl prometryn",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Delta boron-11/boron-10",
+      "providers": "NWIS"
+    },
+    {
+      "value": "delta carbon-13/carbon-12",
+      "providers": "NWIS"
+    },
+    {
+      "value": "delta helium-3/helium-4",
+      "providers": "NWIS"
+    },
+    {
+      "value": "delta helium-3/helium-4 error",
+      "providers": "NWIS"
+    },
+    {
+      "value": ".delta.-Hexachlorocyclohexane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Deltamethrin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Demethylfluometuron",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Demethyl hexazinone B",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Demeton",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Demeton-O",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Demeton-S",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Density",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Density of water at 20 deg C",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Depth",
+      "providers": "NWIS STEWARDS STORET"
+    },
+    {
+      "value": "Depth, below bottom surface",
+      "providers": "STORET"
+    },
+    {
+      "value": "Depth, bottom",
+      "providers": "STORET"
+    },
+    {
+      "value": "Depth, data-logger (non-ported)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Depth, from below top of casing to water level",
+      "providers": "STORET"
+    },
+    {
+      "value": "Depth, from ground surface to well water level",
+      "providers": "STORET"
+    },
+    {
+      "value": "Depth of water column",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Depth, Secchi disk depth (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Depth to bottom of sample interval",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Depth to bottom of water-bearing zone",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Depth to top of sample interval",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Depth to top of water-bearing zone",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Depth to water level below land surface",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Desisopropyl atrazine",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Desmethyldiltiazem",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Desmethylnorflurazon",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Desulfinylfipronil amide",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Deuterium/Hydrogen ratio",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dextromethorphan",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "DG3 DNA marker",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "DG3 DNA marker (purified)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Di(2-ethoxylhexyl) phthalate",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Di(2-ethylhexyl) adipate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Di(2-ethylhexyl) phthalate",
+      "providers": "STORET"
+    },
+    {
+      "value": "Diallate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Diameter",
+      "providers": "STORET"
+    },
+    {
+      "value": "Diatoms",
+      "providers": "STORET"
+    },
+    {
+      "value": "Diazepam-D5",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Diazinon",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Diazinon-D10",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dibenz[a,h]anthracene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dibenz[a,j]acridine",
+      "providers": "STORET"
+    },
+    {
+      "value": "Dibenzofuran",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dibenzothiophene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dibromoacetic acid",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dibromochloroethane",
+      "providers": "STORET"
+    },
+    {
+      "value": "Dibromomethane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dibutyl phthalate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dibutyltin",
+      "providers": "STORET"
+    },
+    {
+      "value": "Dicamba",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dichlobenil",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dichlofenthion",
+      "providers": "STORET"
+    },
+    {
+      "value": "Dichlone",
+      "providers": "STORET"
+    },
+    {
+      "value": "Dichloroacetic acid",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dichlorobenzene",
+      "providers": "STORET"
+    },
+    {
+      "value": "Dichlorobromomethane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dichloroethane",
+      "providers": "STORET"
+    },
+    {
+      "value": "Dichlorprop",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dichlorvos",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dicofol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dicrotophos",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dieldrin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Diesel range organics",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Diethyl phthalate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Diethylstilbestrol",
+      "providers": "STORET"
+    },
+    {
+      "value": "Difenoconazole",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Diflubenzuron",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Diflubenzuron-d4",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Diltiazem",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Diltiazem-d3",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dimethachlor sulfonic acid",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Dimethenamid",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dimethenamid ESA",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dimethenamid oxanilic acid",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Dimethenamid sulfinylacetic acid",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Dimethoate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dimethomorph",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dimethyl phthalate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dimethyl sulfide",
+      "providers": "STORET"
+    },
+    {
+      "value": "Dinex",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dinitro-o-cresol",
+      "providers": "STORET"
+    },
+    {
+      "value": "Dinitrotoluene",
+      "providers": "STORET"
+    },
+    {
+      "value": "Di-n-octyl phthalate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dinoseb",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dinotefuran",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dioxathion",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dioxin and furan mixture, unspecified",
+      "providers": "STORET"
+    },
+    {
+      "value": "Dioxins and furans as 2,3,7,8-TCDD TEQs***retired***use Chlorinated dioxins and furans -- 2,3,7,8 congeners only",
+      "providers": "STORET"
+    },
+    {
+      "value": "Diphenamid",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Diphenhydramine-d3",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Diphenylamine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Diphenylsulfone",
+      "providers": "STORET"
+    },
+    {
+      "value": "Diquat",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Diquat dibromide",
+      "providers": "STORET"
+    },
+    {
+      "value": "Discharge, River/Stream",
+      "providers": "STORET"
+    },
+    {
+      "value": "Dissolved inorganic nitrogen/soluble reactive phosphorus ratio",
+      "providers": "STORET"
+    },
+    {
+      "value": "Dissolved Inorganic Nitrogen/Total Phosphorus ratio",
+      "providers": "STORET"
+    },
+    {
+      "value": "Dissolved oxygen saturation",
+      "providers": "STORET"
+    },
+    {
+      "value": "Dissolv Inorganic Nitrogen/Soluble Reactive Phosphorus Ratio",
+      "providers": "STORET"
+    },
+    {
+      "value": "Distance from/to",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Disulfoton",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Disulfoton sulfone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dithiopyr",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Diuron",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Diuron-d6",
+      "providers": "NWIS"
+    },
+    {
+      "value": "D-Limonene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Dodecane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "DogBact DNA marker",
+      "providers": "STORET"
+    },
+    {
+      "value": "Dreissena polymorpha",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Duration of discharge",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Dysprosium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Eicosane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Elevation, groundwater surface, MSL",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Elevation, MSL",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Elevation, water surface, MSL",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Endosulfan",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Endosulfan sulfate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Endothall",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Endrin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Endrin aldehyde",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Endrin ketone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Enterococcus",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Erbium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Escherichia",
+      "providers": "STORET"
+    },
+    {
+      "value": "Esfenvalerate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Estriol-2,4,16,17-d4",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Estrone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Estrone-13,14,15,16,17,18-13C6",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Ethalfluralin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Ethanamine, 2-(diphenylmethoxy)-N,N-dimethyl-",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Ethane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Ethion",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Ethoprop",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Ethylan",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Ethylbenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Ethylene dibromide",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Ethylene thiourea",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Ethyl ether",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Ethyl methanesulfonate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Ethyl nicotinate-d4",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Ethyl tert-butyl ether",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Ethynylestradiol-d4",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Etoxazole",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Etridiazole",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Europium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Extended diesel range organics C10-C36",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Famphur",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fecal Streptococcus Group Bacteria",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fenamiphos",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fenamiphos Sulfone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fenbuconazole",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fenitrothion",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fenpropathrin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fensulfothion",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fenthion",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fenuron",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Ferric ion",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Ferrous ion",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fipronil",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fipronil Desulfinyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fipronil Sulfide",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fipronil Sulfone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fish standard length",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fixed dissolved solids",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fixed suspended solids",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Flow",
+      "providers": "STORET"
+    },
+    {
+      "value": "Flow rate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Flow rate, instantaneous",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Flow runoff",
+      "providers": "STORET"
+    },
+    {
+      "value": "Flow, runoff",
+      "providers": "STORET"
+    },
+    {
+      "value": "Fluazifop-P-butyl",
+      "providers": "STORET"
+    },
+    {
+      "value": "Fluchloralin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fluconazole",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fludioxonil",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Flumetsulam",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Flumioxazin",
+      "providers": "STORET"
+    },
+    {
+      "value": "Fluometuron",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fluoranthene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fluoranthene-d10",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fluorene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fluoride",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fluorobenzene",
+      "providers": "STORET"
+    },
+    {
+      "value": "Fluoxetine-d6",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Fluridone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Flutolanil",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fluxapyroxad",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Fonofos",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Gadolinium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Gage height",
+      "providers": "STORET"
+    },
+    {
+      "value": "Gallium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "gamma-HCH (Lindane)",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Gasoline range organics",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Geosmin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "GFD DNA marker",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "GFD DNA marker (purified)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Glufosinate-ammonium",
+      "providers": "STORET"
+    },
+    {
+      "value": "Glyphosate",
+      "providers": "NWIS STEWARDS STORET"
+    },
+    {
+      "value": "Glyptotendipes",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Gold",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Grain size, clay (<0.005 MM) - Percent Passing",
+      "providers": "STORET"
+    },
+    {
+      "value": "Grain size, coarse sand (>=630 to 2000 um)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Grain size, coarse silt (>=20 to 63 um)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Grain size, fine gravel and larger (>=2000 um)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Grain size, fine sand (>=63 to 200 um)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Grain size, medium sand (>=200 to 630 um)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Grain size, substrate",
+      "providers": "STORET"
+    },
+    {
+      "value": "Gran acid neutralizing capacity",
+      "providers": "STORET"
+    },
+    {
+      "value": "Gross alpha radioactivity, (Americium-241 ref std)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Gross alpha radioactivity, (nat-Uranium ref std)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Gross alpha radioactivity, (Thorium-230 ref std)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Gross beta radioactivity, (Cesium-137 ref std)",
+      "providers": "STORET"
+    },
+    {
+      "value": "GULL2 DNA marker",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "GULL2 DNA marker (purified)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Hafnium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Haloacetic acids",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Halon 1011",
+      "providers": "STORET"
+    },
+    {
+      "value": "Halosulfuron-methyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Hardness, Calcium",
+      "providers": "STORET"
+    },
+    {
+      "value": "Hardness, Ca, Mg",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Hardness, carbonate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Hardness, magnesium",
+      "providers": "STORET"
+    },
+    {
+      "value": "Hardness, non-carbonate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "HCFC-21",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "HCFC-22",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Height",
+      "providers": "STORET"
+    },
+    {
+      "value": "Height, gage",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Helium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Helium-3/helium-4 error",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Helium-3/helium-4 ratio",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Helium-4",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Heneicosane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Heptachlor",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Heptachlor epoxide",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Heptachlorodibenzofuran",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Heptachlorodibenzo-p-dioxin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Heptadecane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Hexabromobenzene",
+      "providers": "STORET"
+    },
+    {
+      "value": "Hexachlorobenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Hexachlorobutadiene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Hexachlorocyclopentadiene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Hexachlorodibenzofuran",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Hexachlorodibenzo-p-dioxin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Hexachloroethane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Hexachloropropene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Hexadecane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Hexamethylphosphoramide",
+      "providers": "STORET"
+    },
+    {
+      "value": "Hexazinone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Hexazinone-d6",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Hexazinone TP G",
+      "providers": "STORET"
+    },
+    {
+      "value": "HF183 DNA marker",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "HF183 DNA marker (purified)",
+      "providers": "STORET"
+    },
+    {
+      "value": "HF183 DNA marker (purified untreated)",
+      "providers": "STORET"
+    },
+    {
+      "value": "HF183-PMA DNA marker (treated)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Hirudinea",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Holmium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Horizontal Secchi Disk",
+      "providers": "STORET"
+    },
+    {
+      "value": "HUMM2 DNA Marker",
+      "providers": "STORET"
+    },
+    {
+      "value": "Hydrocarbons",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Hydrocarbons, petroleum",
+      "providers": "STORET"
+    },
+    {
+      "value": "Hydrocodone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Hydrocodone-d3",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Hydrogen",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Hydrogen sulfide",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Hydropsyche",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Hydroquinone",
+      "providers": "STORET"
+    },
+    {
+      "value": "Hydroxide",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Hydroxyacetochlor",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Hydroxyalachlor",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Hydroxymetolachlor",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Hydroxysimazine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Imazalil",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Imazamox",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Imazapyr",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Imazaquin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Imazethapyr",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Imidacloprid",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Indeno[1,2,3-cd]pyrene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Indium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Individuals examined, actual number",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Indole",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Initial sample volume",
+      "providers": "STORET"
+    },
+    {
+      "value": "Inorganic carbon",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Inorganic nitrogen (ammonia, nitrate and nitrite)***retired***use Inorganic nitrogen (NO2, NO3, & NH3)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Inorganic nitrogen (nitrate and nitrite)",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Inorganic nitrogen (NO2, NO3, & NH3)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Inorganic nitrogen***retired***use Inorganic nitrogen (NO2, NO3, & NH3)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Inorganic phosphorus",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Iodide",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Iodine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Ionic strength",
+      "providers": "STORET"
+    },
+    {
+      "value": "Iprodione",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Isoborneol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Isobutyl alcohol-d6",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Isodrin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Isofenphos",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Isophorone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Isopoda",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Isoquinoline",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Isosafrole",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Isoxaflutole acid metabolite RPA 203328",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Krypton",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Krypton-86/Krypton-84 error",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Krypton-86/Krypton-84 ratio",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Labeled 1,2,3,4,7,8,9-Heptachlorodibenzofuran",
+      "providers": "STORET"
+    },
+    {
+      "value": ".lambda.-Cyhalothrin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Lanthanum",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Lead-210",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "LeeSeaGull DNA marker",
+      "providers": "STORET"
+    },
+    {
+      "value": "Length",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Length, total",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Length, Total (Fish)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Leptophos",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Light attenuation at measurement depth",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Light attenuation coefficient",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Light attenuation, depth at 10%",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Light attenuation, depth at 50%",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Light attenuation, depth at 99%",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Light, incident",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Light, photosynthetic active radiation at depth (PAR)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Light, photosynthetic active radiation (PAR)",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Light, underwater extinction coefficient (K)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Light, underwater incident",
+      "providers": "STORET"
+    },
+    {
+      "value": "Limnochironomus",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Lindane",
+      "providers": "STORET"
+    },
+    {
+      "value": "Linuron",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Linuron-d6",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Lipids",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Lithium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Loratadine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Lorazepam-D4",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Lutetium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Macroinvertebrates",
+      "providers": "STORET"
+    },
+    {
+      "value": "Malaoxon",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Malathion",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Malathion-D10",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Mandestrobin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Manganese",
+      "providers": "NWIS STEWARDS STORET"
+    },
+    {
+      "value": "MBAS",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "m-Chlorotoluene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "MCPA",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "m-Cresol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "m-Dichlorobenzene",
+      "providers": "STORET"
+    },
+    {
+      "value": "m-Dinitrobenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Mecoprop",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Medroxyprogesterone-d3",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Meprobamate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Mercury",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Merphos",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Mestranol-2,4,16,16-d4",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Metalaxyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "meta & para Xylene mix",
+      "providers": "STORET"
+    },
+    {
+      "value": "Metconazole",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Metformin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Methadone-d9",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Methamidophos",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Methane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Methapyrilene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Methiocarb",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Methomyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Methoprene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Methoxychlor",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Methoxyfenozide",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Methyl bromide",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Methylchrysene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Methylene chloride",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Methyl ethyl ketone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Methyl iodide",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Methyl isobutyl ketone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Methyl mercaptan",
+      "providers": "STORET"
+    },
+    {
+      "value": "Methylmercury(1+)",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Methyl methanesulfonate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Methylnaphthalene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Methyl parathion",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Methyl salicylate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Methyl tert-butyl ether",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Metochlor ESA",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Metolachlor",
+      "providers": "NWIS STEWARDS STORET"
+    },
+    {
+      "value": "Metolachlor-d6",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Metolachlor OA",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Metribuzin",
+      "providers": "NWIS STEWARDS STORET"
+    },
+    {
+      "value": "Metribuzin DA",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Metribuzin DADK",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Metsulfuron-methyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Mevinphos",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Microcystin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Microcystin HilR",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Microcystin HtyR",
+      "providers": "STORET"
+    },
+    {
+      "value": "Microcystin LA",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Microcystin LF",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Microcystin LR",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Microcystin LR, Desmethyl",
+      "providers": "STORET"
+    },
+    {
+      "value": "Microcystin LW",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Microcystin LY",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Microcystin RR",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Microcystins",
+      "providers": "STORET"
+    },
+    {
+      "value": "Microcystins and nodularins",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Microcystin WR",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Microcystin YR",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Mirex",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "m-Nitroaniline",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "m-Nitrotoluene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Moisture content",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Molinate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Molybdenum",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Monocrotophos",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Mortality",
+      "providers": "STORET"
+    },
+    {
+      "value": "m,p-Xylene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "m-Xylene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Myclobutanil",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "N-2-Ethylhexylbicycloheptenedicarboximide",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "N-(4-Chlorophenyl)-N'-methylurea",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Naled",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Nandrolone-d3",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Nanocladius",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Nanocladius distinctus",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Naphthalene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Naphthalene-d8",
+      "providers": "STORET"
+    },
+    {
+      "value": "Napropamide",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Naproxen",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "n-Butylbenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Neodymium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Neon",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Neon-20/Neon-22 error",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Neon-20/Neon-22 ratio",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Neosaxitoxin",
+      "providers": "STORET"
+    },
+    {
+      "value": "Nickel",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Nicosulfuron",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Nicosulfuron-d6",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Nicotine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Niobium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Nitrate as N",
+      "providers": "STORET"
+    },
+    {
+      "value": "Nitrite as N",
+      "providers": "STORET"
+    },
+    {
+      "value": "Nitrobenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Nitrobenzene-D5",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Nitrofen",
+      "providers": "STORET"
+    },
+    {
+      "value": "Nitrogen",
+      "providers": "NWIS STEWARDS STORET"
+    },
+    {
+      "value": "Nitrogen-15",
+      "providers": "STORET"
+    },
+    {
+      "value": "Nitrogen-15/14 ratio",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Nitrogen/carbon monoxide",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Nitrogen ion",
+      "providers": "STORET"
+    },
+    {
+      "value": "Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Nitrogenous biochemical oxygen demand",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Nitrophenol",
+      "providers": "STORET"
+    },
+    {
+      "value": "N,N-Diethyl-m-toluamide",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "N-Nitrosodiethylamine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "N-Nitrosodimethylamine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "N-Nitrosodi-n-butylamine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "N-Nitrosodi-n-propylamine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "N-Nitrosodiphenylamine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "N-Nitrosomethylethylamine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "N-Nitrosomorpholine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "N-Nitrosopiperidine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "N-Nitrosopyrrolidine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Nodularin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Nonachlorobiphenyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Nonadecane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Nonylphenol diethoxylate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Norfluoxetine-d6",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Norflurazon",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "n-Propylbenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Number of females in sample",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Number of males in sample",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Number of sampling points",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Nutrient-nitrogen",
+      "providers": "STORET"
+    },
+    {
+      "value": "o-Chlorophenol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "o-Chlorotoluene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "o-Cresol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Octachlorodibenzo-p-dioxin-C13",
+      "providers": "STORET"
+    },
+    {
+      "value": "Octadecane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Octinoxate",
+      "providers": "STORET"
+    },
+    {
+      "value": "o-Dichlorobenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Odor threshold number",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "O-Ethyl O-(p-nitrophenyl) phenylphosphonothioate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "o-Ethyltoluene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "o-Fluorophenol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Oil and grease",
+      "providers": "STORET"
+    },
+    {
+      "value": "Oil and Grease",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Oil range organics",
+      "providers": "STORET"
+    },
+    {
+      "value": "Oligochaeta",
+      "providers": "NWIS"
+    },
+    {
+      "value": "o-Nitroaniline",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "o-Nitrophenol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "o,p'-DDD",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "o,p'-DDE",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "o,p'-DDT",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Organic anions",
+      "providers": "STORET"
+    },
+    {
+      "value": "Organic phosphorus",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Orthocladius",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Orthophosphate as PO4",
+      "providers": "STORET"
+    },
+    {
+      "value": "Oryzalin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "o-Toluidine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Oxadiazon",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Oxamyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Oxazepam-d5",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Oxychlordane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Oxycodone-d3",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Oxyfluorfen",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Oxygen",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Oxygen-18",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Oxygen-18/Oxygen-16 ratio",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "o-Xylene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "p-(1,1,3,3-Tetramethylbutyl)phenol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Palladium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Palmitic acid",
+      "providers": "STORET"
+    },
+    {
+      "value": "Parachironomus sublettei",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Parathion",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Partial Pressure of Carbon Dioxide",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle distribution",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle size",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle size, 1/4 inch (6.3mm)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle size, 1.5 inch (37.5mm)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle size, 1 inch (25.0mm)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle size, 1 inch (25.40mm)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle size, 2 inch, (50.80mm)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle size, 2 inch, (50mm)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle size, 3/4 inch (19.0mm)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle size, 3/8 inch (9.5mm)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle size, 3 inch, (75.0mm)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle size, 3 inch, (76.20mm)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle size, Sieve No. 04, 4 mesh, (4.75mm)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle size, Sieve No. 100, 100 mesh, (0.150mm)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle size, Sieve No. 10, 9 mesh, (2.00mm)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle size, Sieve No. 140, 150 mesh, (0.106mm)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle size, Sieve No. 200, 200 mesh, (0.075mm)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle size, Sieve No. 20, 20 mesh, (0.850mm)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle size, Sieve No. 35, 32 Mesh, (0.5 mm)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle size, Sieve No. 40, 35 mesh, (0.425mm)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle size, Sieve No. 60, 60 mesh, (0.250mm)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particle size, Sieve No. 80, 80 mesh, (0.180mm)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Particulate nitrogen/particulate organic carbon",
+      "providers": "NWIS"
+    },
+    {
+      "value": "p-Bromofluorobenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "p-Bromophenyl phenyl ether",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-107/124",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-108/124",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-110/115",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-12/13",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "PCB-128/166",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-129/138/160/163",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-134/143",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "PCB-135/151/154",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-139/140",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-147/149",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-153/168",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-156/157",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-170/190",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "PCB-171/173",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-180/193",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-18/30",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-183/185",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-195/208",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "PCB-197/200",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-198/199",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-20/28",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-21/33",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-26/29",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-40/41/71",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-44/47/65",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-45/51",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-49/69",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-50/53",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-5/8",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "PCB-59/62/75",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-61/70/74/76",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-77/110",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "PCB-83/99",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-85/116/117",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-86/87/97/108/119/125",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-86/87/97/109/119/125",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-88/91",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-90/101",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-90/101/113",
+      "providers": "STORET"
+    },
+    {
+      "value": "PCB-93/95/98/100/102",
+      "providers": "STORET"
+    },
+    {
+      "value": "p-Chloroaniline",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "p-Chloro-m-cresol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "p-Chlorophenyl phenyl ether",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "p-Chlorotoluene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "p-Cresol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "p-Cumylphenol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "p-Cymene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "p-Dichlorobenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Pebulate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Pendimethalin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Pentabromotoluene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Pentachloroanisole",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Pentachlorobenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Pentachlorodibenzofuran",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Pentachlorodibenzo-p-dioxin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Pentachloroethane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Pentachloronitrobenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Pentachlorophenol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Pentadecane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Percent Solids",
+      "providers": "STORET"
+    },
+    {
+      "value": "Perfluorodecanoic acid",
+      "providers": "STORET"
+    },
+    {
+      "value": "Perfluorododecanoic acid",
+      "providers": "STORET"
+    },
+    {
+      "value": "Perfluorolauric acid***retired***use Perfluorododecanoic acid",
+      "providers": "STORET"
+    },
+    {
+      "value": "Perfluorononanoic acid",
+      "providers": "STORET"
+    },
+    {
+      "value": "Perfluorooctane sulfonic acid",
+      "providers": "STORET"
+    },
+    {
+      "value": "Perfluorotetradecanoic acid",
+      "providers": "STORET"
+    },
+    {
+      "value": "Perfluorotridecanoic acid",
+      "providers": "STORET"
+    },
+    {
+      "value": "Perfluoroundecanoate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Perfluoroundecanoic acid",
+      "providers": "STORET"
+    },
+    {
+      "value": "Periphyton",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Permethrin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Perylene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Perylene-d12",
+      "providers": "STORET"
+    },
+    {
+      "value": "p-Ethyltoluene",
+      "providers": "STORET"
+    },
+    {
+      "value": "Petroleum hydrocarbons, total extractable",
+      "providers": "STORET"
+    },
+    {
+      "value": "Petroleum phenols",
+      "providers": "STORET"
+    },
+    {
+      "value": "Phenacetin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Phenanthrene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Phenanthrene-d10",
+      "providers": "STORET"
+    },
+    {
+      "value": "Phenanthridine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Phenol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Phenol, 2-(1,1-dimethylethyl)-4-methoxy-",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Phenol-d5",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Phenols",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Phenothrin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Phenylacetic acid",
+      "providers": "STORET"
+    },
+    {
+      "value": "Phenytoin",
+      "providers": "STORET"
+    },
+    {
+      "value": "Pheophytin",
+      "providers": "STORET"
+    },
+    {
+      "value": "Pheophytin a",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Pheophytin ratio",
+      "providers": "STORET"
+    },
+    {
+      "value": "Phorate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Phosalone",
+      "providers": "STORET"
+    },
+    {
+      "value": "Phosmet",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Phosphamidon",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Phosphated pesticides",
+      "providers": "STORET"
+    },
+    {
+      "value": "Phosphate-phosphorus as P",
+      "providers": "STORET"
+    },
+    {
+      "value": "Phosphate-phosphorus as PO4",
+      "providers": "STORET"
+    },
+    {
+      "value": "Phosphorus, hydrolyzable plus orthophosphate",
+      "providers": "STORET"
+    },
+    {
+      "value": "Phosphorus, Particulate Organic",
+      "providers": "STORET"
+    },
+    {
+      "value": "Phostebupirim",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Phycocyanin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Phycocyanin (probe relative fluorescence)",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Phycocyanins",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Phycoerythrin fluorescence (fPE)",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Phycoerythrin (PE)",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Phytoplankton",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Phytoplankton biovolume",
+      "providers": "STORET"
+    },
+    {
+      "value": "Phytoplankton productivity",
+      "providers": "STORET"
+    },
+    {
+      "value": "Picloram",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Pig2Bac DNA marker",
+      "providers": "STORET"
+    },
+    {
+      "value": "Piperonyl butoxide",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Plankton",
+      "providers": "STORET"
+    },
+    {
+      "value": "Planktothrix",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Plastics",
+      "providers": "STORET"
+    },
+    {
+      "value": "p-Nitroaniline",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "p-Nitrophenol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "p-Nonylphenol",
+      "providers": "STORET"
+    },
+    {
+      "value": "Polonium-210",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Polychlorinated biphenyls",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Polycyclic aromatic hydrocarbons",
+      "providers": "STORET"
+    },
+    {
+      "value": "Polycyclic aromatic hydrocarbons, high molecular weight",
+      "providers": "STORET"
+    },
+    {
+      "value": "Polycyclic aromatic hydrocarbons, low molecular weight",
+      "providers": "STORET"
+    },
+    {
+      "value": "Polypedilum",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Polypedilum halterale",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Polyphosphate",
+      "providers": "STORET"
+    },
+    {
+      "value": "Population diversity, fish, # of species",
+      "providers": "STORET"
+    },
+    {
+      "value": "Population diversity, macroinvertebrates, # of species",
+      "providers": "STORET"
+    },
+    {
+      "value": "Potamyia",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Potassium-40",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "p,p'-DDD",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "p,p'-DDE",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "p,p'-DDT",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "p,p'-DDT-d8",
+      "providers": "NWIS"
+    },
+    {
+      "value": "p,p'-Dibromodiphenyl ether",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "p-Phenylenediamine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Prallethrin",
+      "providers": "STORET"
+    },
+    {
+      "value": "Praseodymium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Precipitation",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Precipitation 24hr prior to monitoring event amount",
+      "providers": "STORET"
+    },
+    {
+      "value": "Precipitation event duration",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Precipitation, time since event",
+      "providers": "STORET"
+    },
+    {
+      "value": "Primary productivity",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Primidone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Procladius bellus",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Prodiamine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Progesterone-13C3",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Prometon",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Prometryn",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Pronamide",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Propachlor",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Propane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Propanil",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Propargite",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Propazine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Propham",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Propiconazole",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Propoxur",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Prosulfuron",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Prothiofos",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Pseudochironomus",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Pseudochironomus articaudus",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Pseudochironomus fulviventris",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Pseudoephedrine-d3",
+      "providers": "NWIS"
+    },
+    {
+      "value": "p-Terphenyl",
+      "providers": "STORET"
+    },
+    {
+      "value": "p-Terphenyl-d14",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Purge Volume",
+      "providers": "STORET"
+    },
+    {
+      "value": "p-Xylene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Pyraclostrobin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Pyraflufen-ethyl",
+      "providers": "STORET"
+    },
+    {
+      "value": "Pyrene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Pyridaben",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Pyridine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Pyriproxyfen",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Radium",
+      "providers": "STORET"
+    },
+    {
+      "value": "Radium-223",
+      "providers": "STORET"
+    },
+    {
+      "value": "Radium-224",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Radium-226",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Radium-228",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Radon-222",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "RBP2, Aquatic vegetation, portion of reach with AV (%)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Habitat type, gravel-cobble (%)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Habitat type, leaf packs (%)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Habitat type, other (%)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Habitat type, plants, roots (%)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Habitat type, pools (%)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Habitat type, riffle (%)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Habitat type, run (%)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Habitat type, sand (%)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Habitat type, small woody debris (%)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Habitat type, snags (%)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Habitat type, submerged macrophytes (%)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Habitat type, vegetated banks (%)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, High G, Bank Stability, Left Bank (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, High G, Bank Stability, Right Bank (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, High G, Channel Alteration (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, High G, Channel Flow Status (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, High G, Embeddedness (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, High G, Epifaunal Substrate/Available Cover (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, High G, Frequency of Riffles (or bends) (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, High G, Riparian Vegetative Zone Width, Left Bank (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, High G, Riparian Vegetative Zone Width, Right Bank (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, High G, Sediment Deposition (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, High G, Vegetative Protection, Left Bank (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, High G, Vegetative Protection, Right Bank (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, High G, Velocity/Depth Regime (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Instream features, est. reach length",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Instream features, est. stream width",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Instream features, morphology, pools (%)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Instream features, morphology, riffles (%)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Instream features, morphology, run (%)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Instream features, surface velocity (at thalweg)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Low G, Bank Stability, Left Bank (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Low G, Bank Stability, Right Bank (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Low G, Channel Alteration (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Low G, Channel Flow Status (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Low G, Channel Sinuosity (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Low G, Epifaunal Substrate/Available Cover (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Low G, habitat assessment total score",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Low G, Pool Substrate Characterization (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Low G, Pool Variability (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Low G, Riparian Vegetative Zone Width, Left Bank (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Low G, Riparian Vegetative Zone Width, Right Bank (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Low G, Sediment Deposition (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Low G, Vegetative Protection, Left Bank (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Low G, Vegetative Protection, Right Bank (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Substrate, inorganic, clay, <0.004 mm",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Substrate, inorganic, gravel, 2-64 mm",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Substrate, inorganic, sand, 0.06-2.0 mm",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Substrate, organic, detritus, sticks, wood, etc. (CPOM)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP2, Substrate, organic, muck-mud, black-fine (FPOM)",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP High water mark",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "RBP Stream depth - pool",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP Stream Depth - Riffle",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP Stream Depth - Run",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP Stream Velocity",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP Stream width",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP Substrate - Bedrock",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP Substrate - Boulders >256 mm",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP Substrate - Cobbles 64-256 mm",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP Substrate - Detritus - Coarse Particulate",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP Substrate - Gravel 2-64 mm",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP Substrate - Marl - Gray, Shell Fragments",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP Substrate - Muck/Mud - Very Fine Particles",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP Substrate - Sand 0.06-2.0 mm",
+      "providers": "STORET"
+    },
+    {
+      "value": "RBP Substrate - Silt 0.004-0.06 mm",
+      "providers": "STORET"
+    },
+    {
+      "value": "Relative Density Species",
+      "providers": "STORET"
+    },
+    {
+      "value": "Relative humidity",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Reservoir storage",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Reservoir volume",
+      "providers": "STORET"
+    },
+    {
+      "value": "Residue, Total",
+      "providers": "STORET"
+    },
+    {
+      "value": "Revelle Index",
+      "providers": "STORET"
+    },
+    {
+      "value": "Rhenium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Rheotanytarsus",
+      "providers": "NWIS"
+    },
+    {
+      "value": "River/stream channel slope",
+      "providers": "STORET"
+    },
+    {
+      "value": "Robackia",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Ronnel",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Rubidium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Ruthenium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Safrole",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Samarium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Sample time, elapsed",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Sand",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Saturation Index Aragonite",
+      "providers": "STORET"
+    },
+    {
+      "value": "Saturation Index Calcite",
+      "providers": "STORET"
+    },
+    {
+      "value": "Saxitoxin",
+      "providers": "STORET"
+    },
+    {
+      "value": "Scandium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Sea waves severity (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "sec-Acetochlor oxanilic acid",
+      "providers": "NWIS"
+    },
+    {
+      "value": "sec-Butylbenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Sediment",
+      "providers": "NWIS STEWARDS STORET"
+    },
+    {
+      "value": "Sediment compaction",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Sediment percent organic",
+      "providers": "STORET"
+    },
+    {
+      "value": "S-Ethyl dipropylthiocarbamate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Settleable solids",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Shannon & Wiener Macroinvert Taxonomic Diversity Index",
+      "providers": "STORET"
+    },
+    {
+      "value": "Siduron",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Silica",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Silicate",
+      "providers": "STORET"
+    },
+    {
+      "value": "Silicate/dissolved inorganic nitrogen ratio",
+      "providers": "STORET"
+    },
+    {
+      "value": "Silicon",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Silt",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Silvex",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Simazine",
+      "providers": "NWIS STEWARDS STORET"
+    },
+    {
+      "value": "Simetone",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Simetryn",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Simultaneously extracted metals",
+      "providers": "STORET"
+    },
+    {
+      "value": "Small Gravel 2 - 4 mm",
+      "providers": "STORET"
+    },
+    {
+      "value": "Sodium adsorption ratio [(Na)/(sq root of 1/2 Ca + Mg)]",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Sodium carbonate",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Sodium, percent total cations",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Sodium plus potassium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Solar irradiation, local",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Solids",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Soluble Reactive Phosphorus (SRP)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Specific Conductance, Calculated/Measured Ratio",
+      "providers": "STORET"
+    },
+    {
+      "value": "Specific gravity",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Stannanetriylium, butyl-",
+      "providers": "STORET"
+    },
+    {
+      "value": "Stigmastan-3.beta.-ol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Storm water flow",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Stream Cross-Sectional Area",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Stream flow",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Stream flow, instantaneous",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Stream flow, mean, storm event",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Stream Reach Average - Canopy Cover % (Densiometer)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Stream stage",
+      "providers": "STORET"
+    },
+    {
+      "value": "Stream width measure",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Streptococcus",
+      "providers": "STORET"
+    },
+    {
+      "value": "Strontium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Strontium-87/Strontium-86, ratio",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Strontium-90",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Styrene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Substrate - clay",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Substrate - gravel",
+      "providers": "STORET"
+    },
+    {
+      "value": "Substrate - gravel, fine",
+      "providers": "STORET"
+    },
+    {
+      "value": "Substrate - miscellaneous other",
+      "providers": "STORET"
+    },
+    {
+      "value": "Substrate - sand",
+      "providers": "STORET"
+    },
+    {
+      "value": "Substrate - sand, coarse",
+      "providers": "STORET"
+    },
+    {
+      "value": "Substrate - sand, fine",
+      "providers": "STORET"
+    },
+    {
+      "value": "Substrate - sand, medium",
+      "providers": "STORET"
+    },
+    {
+      "value": "Substrate - sand, very coarse",
+      "providers": "STORET"
+    },
+    {
+      "value": "Substrate - sand, very fine",
+      "providers": "STORET"
+    },
+    {
+      "value": "Substrate - silt",
+      "providers": "STORET"
+    },
+    {
+      "value": "Substrate - silt/clay mix",
+      "providers": "STORET"
+    },
+    {
+      "value": "Substrate - silt, very fine",
+      "providers": "STORET"
+    },
+    {
+      "value": "Sucralose",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Sulfamethoxazole",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Sulfamethoxazole-13C6",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Sulfate as S",
+      "providers": "STORET"
+    },
+    {
+      "value": "Sulfentrazone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Sulfide",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Sulfometuron methyl",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Sulfosulfuron",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Sulfotep",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Sulfur",
+      "providers": "NWIS STEWARDS STORET"
+    },
+    {
+      "value": "Sulfur-34",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Sulfur-34/Sulfur-32 ratio",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Sulfur dioxide",
+      "providers": "STORET"
+    },
+    {
+      "value": "Sulfur hexafluoride",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Sulfur Sulfate",
+      "providers": "STORET"
+    },
+    {
+      "value": "Sulprofos",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Sum of anions",
+      "providers": "STORET"
+    },
+    {
+      "value": "Sum of cations",
+      "providers": "STORET"
+    },
+    {
+      "value": "Surface area",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Surfactants, anionic",
+      "providers": "STORET"
+    },
+    {
+      "value": "Surfactants, unspecified mix",
+      "providers": "STORET"
+    },
+    {
+      "value": "Survival",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Suspended Sediment Concentration (SSC)",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Suspended Sediment Discharge",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tamoxifen-d5",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tannin and Lignin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tantalum",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tanytarsus",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Tau-fluvalinate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Taxonomic Diversity, Shannon-Weaver Index",
+      "providers": "STORET"
+    },
+    {
+      "value": "Tebuconazole",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tebuconazole-d6",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Tebufenozide",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tebuthiuron",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tebuthiuron TP 104",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Tebuthiuron Transformation Product 108",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Tellurium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Temazepam-d5",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Temperature",
+      "providers": "NWIS STEWARDS STORET"
+    },
+    {
+      "value": "Temperature, air",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Temperature, sample",
+      "providers": "STORET"
+    },
+    {
+      "value": "Terbacil",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Terbium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Terbufos",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Terbufos oxon sulfoxide",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Terbufos sulfone",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Terbufos sulfoxide",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Terbuthylazine",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "tert-Amyl methyl ether",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "tert-Butanol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "tert-Butylbenzene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tetrachlorodibenzofuran",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tetrachlorodibenzo-p-dioxin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tetrachloroethylene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tetrachlorvinphos",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tetrachlorvinphos (mixed isomers)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Tetraconazole",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tetracycline",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tetradecachloro-m-terphenyl",
+      "providers": "STORET"
+    },
+    {
+      "value": "Tetraethyl pyrophosphate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tetrahydrofuran",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tetrahydrofuran-d8",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Tetramethrin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Thallium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Thiabendazole",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Thiabendazole-d4",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Thiamethoxam",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Thiobencarb",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Thiobencarb-d10",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Thiocyanate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Thionazin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Thiophenol",
+      "providers": "STORET"
+    },
+    {
+      "value": "Thorium-228",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Thorium-230",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Thorium-232",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tide range",
+      "providers": "STORET"
+    },
+    {
+      "value": "Tide stage (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Tide stage (text)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Tin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Titanium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tolfenpyrad",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Toluene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Toluene-d8",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Toluidine",
+      "providers": "STORET"
+    },
+    {
+      "value": "Tolyl triazole",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Total carbon",
+      "providers": "STORET"
+    },
+    {
+      "value": "Total Coliform",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Total Dichloro Biphenyls",
+      "providers": "STORET"
+    },
+    {
+      "value": "Total fixed solids",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Total hardness",
+      "providers": "STORET"
+    },
+    {
+      "value": "Total Heptachloro Biphenyls",
+      "providers": "STORET"
+    },
+    {
+      "value": "Total Hexachloro Biphenyls",
+      "providers": "STORET"
+    },
+    {
+      "value": "Total Kjeldahl nitrogen",
+      "providers": "STORET"
+    },
+    {
+      "value": "Total Kjeldahl nitrogen (Organic N & NH3)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Total microcystins plus nodularins",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Total Monochloro Biphenyls",
+      "providers": "STORET"
+    },
+    {
+      "value": "Total Nitrogen/Total Phosphorus Ratio (TN:TP)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Total Nonachloro Biphenyls",
+      "providers": "STORET"
+    },
+    {
+      "value": "Total Octachloro Biphenyls",
+      "providers": "STORET"
+    },
+    {
+      "value": "Total Particulate Nitrogen",
+      "providers": "STORET"
+    },
+    {
+      "value": "Total PCBs",
+      "providers": "STORET"
+    },
+    {
+      "value": "Total Pentachloro Biphenyls",
+      "providers": "STORET"
+    },
+    {
+      "value": "Total Sample Weight",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Total solids",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Total Tetrachloro Biphenyls",
+      "providers": "STORET"
+    },
+    {
+      "value": "Total Trichloro Biphenyls",
+      "providers": "STORET"
+    },
+    {
+      "value": "Total volatile solids",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Total xylenes",
+      "providers": "STORET"
+    },
+    {
+      "value": "Toxaphene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Toxicity, sediment, Leptocheirus plumulosus, survival**retired**useBiologicalSample,SubjectTaxon,IntentToxicity",
+      "providers": "STORET"
+    },
+    {
+      "value": "Toxicity sediment survival",
+      "providers": "STORET"
+    },
+    {
+      "value": "Tramadol",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "trans-1,2-Dichloroethylene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "trans-1,3-Dichloropropene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "trans-Chlordane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "trans-Diethyl-1,1,1',1'-d4-stilbestrol-3,3',5,5'-d4",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Transit Rate, sampler",
+      "providers": "NWIS"
+    },
+    {
+      "value": "trans-Nonachlor",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Transparency, Secchi tube with disk",
+      "providers": "STORET"
+    },
+    {
+      "value": "Transpermethrin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "trans-Propiconazole",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Triadimefon",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Triallate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Triamterene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Triazines mixture, unspecified",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tribromomethane",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tribufos",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tributyl phosphate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Trichlorfon",
+      "providers": "STORET"
+    },
+    {
+      "value": "Trichloroacetic acid",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Trichloroethane",
+      "providers": "STORET"
+    },
+    {
+      "value": "Trichloroethylene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Trichloronate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Trichlorophenol",
+      "providers": "STORET"
+    },
+    {
+      "value": "Trichoptera",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Triclopyr",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Triclosan",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Triclosan methyl ether",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Triethyl citrate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Trifloxystrobin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Trifluralin",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Trihalomethanes",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Trimethoprim",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Trimethoprim-d9",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Trimethylnaphthalene",
+      "providers": "STORET"
+    },
+    {
+      "value": "Tri-o-cresyl phosphate",
+      "providers": "STORET"
+    },
+    {
+      "value": "Tripentyltin chloride",
+      "providers": "STORET"
+    },
+    {
+      "value": "Triphenyl phosphate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tripropyltin chloride",
+      "providers": "STORET"
+    },
+    {
+      "value": "Tris(1,3-dichloro-2-propyl)phosphate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tris(1-chloro-2-propyl) phosphate",
+      "providers": "STORET"
+    },
+    {
+      "value": "Tris(2-butoxyethyl) phosphate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tris(2-chloroethyl) phosphate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Tritium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "True color",
+      "providers": "STORET"
+    },
+    {
+      "value": "Tungsten",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Uranium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Uranium-234",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Uranium-235",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Uranium-238",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "UV 254",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Vanadium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Velocity-discharge",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Velocity - stream",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Vinyl acetate",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Vinyl chloride",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Volatile dissolved solids",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Volatile Dissolved Solids",
+      "providers": "STORET"
+    },
+    {
+      "value": "Volume, total",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Water level in relation to reference point",
+      "providers": "STORET"
+    },
+    {
+      "value": "Water level in well, depth from a reference point",
+      "providers": "STORET"
+    },
+    {
+      "value": "Water level in well, MSL",
+      "providers": "STORET"
+    },
+    {
+      "value": "Water level reference point elevation",
+      "providers": "STORET"
+    },
+    {
+      "value": "Wave height",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Weather condition (WMO code 4501) (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Weather condition (WMO code 4677) (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Weight",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Width",
+      "providers": "STORET"
+    },
+    {
+      "value": "Wind force, Beaufort scale",
+      "providers": "STORET"
+    },
+    {
+      "value": "Wind Speed Severity (choice list)",
+      "providers": "STORET"
+    },
+    {
+      "value": "Wind velocity",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Xenochironomus",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Xenon",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Xenon-130/Xenon-132 error",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Xenon-130/Xenon-132 ratio",
+      "providers": "NWIS"
+    },
+    {
+      "value": "Xylene",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Xylenes mix of m + o + p",
+      "providers": "STORET"
+    },
+    {
+      "value": "Ytterbium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Yttrium",
+      "providers": "NWIS STORET"
+    },
+    {
+      "value": "Zinc phosphide",
+      "providers": "STORET"
+    },
+    {
+      "value": "Zirconium",
+      "providers": "NWIS STORET"
+    }
+  ],
+  "recordCount": 1742
+}

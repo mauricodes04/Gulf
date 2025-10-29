@@ -1,0 +1,4948 @@
+10,11-Dihydro-10-hydroxy Carbamazepine
+10:2 Fluorotelomer sulfonic acid
+1,1,1-Trichloro-2-propanone
+1,1,1-trichloropentane
+1,1,2,2-Tetrachloroethane-d2
+1,1'-(2-chloroethylidene)bis(4-chlorobenzene)
+1,12-Dodecanediamine
+1,1,3,3-Tetramethyl-1,3,5-trisilacyclohexane
+1,1,6-Trimethyl-1,2-dihydronaphthalene
+11-chloroeicosafluoro-3-oxaundecane-1-sulfonate
+11-Chloroeicosafluoro-3-oxaundecane-1-sulfonate
+11-chloroeicosafluoro-3-oxaundecane-1-sulfonic acid
+1,1-Dichloroethene-d2
+1,1-Dichloropropane
+1,1-Dichloropropanone
+11H-Benzo[a]fluorene
+11H-Benzo[b]fluorene
+11-KetoTestosterone
+(+/-)11-nor-9-carboxy-delta-THC
+1,1'-Oxybis[3-chloropropane]
+11-Tricosene
+1,2,3,4/2,3,6,7-Tetrachloronaphthalene
+1,2,3,4,5,6-Hexachloronaphthalene
+1,2,3,4,5-Pentabromobenzene
+1,2,3,4,6,7/1,2,3,5,6,7-Hexachloronaphthalene
+1,2,3,4,6,7,8-Heptabromodibenzofuran
+1,2,3,4,7,8-Hexabromodibenzo-p-dioxin
+1,2,3,4-Tetrachlorobenzene
+1,2,3,4-Tetrachloronaphthalene
+1,2,3,4-Tetrahydronaphthalene
+1,2,3,4-Tetramethylbenzene
+1,2,3,4-Tetramethylphenanthrene
+1,2,3,5,6,8-Hexachloronaphthalene
+1,2,3,5,7,8-Hexachloronaphthalene
+1,2,3,5-Tetrachlorobenzene
+1,2,3,5-Tetramethylbenzene
+1,2,3,6,7,8-Hexachloronaphthalene
+1,2,3,6,7-Pentachloronaphthalene
+1,2,3,8-Tetrachloronaphthalene
+1,2,3-Benzotriazole
+1,2,3-Trichloropropene
+1,2,4,5,6,8/1,2,4,5,7,8-Hexachloronaphthalene
+1,2,4,5-Tetramethylbenzene
+1,2,5,6-Tetrachloronaphthalene
+1,2,6,7-tetrachlorodibenzofuran
+1,2,6-Trimethylphenanthrene
+1,2-Benzenedicarboxylic acid, 4,4'-carbonylbis-, tricesium salt
+1,2-bis(2,4,6-tribromophenoxy)ethane
+12-Chlorodehydroabietic acid
+1,2-Dehydro-3-methylcholanthrene
+1,2-Dichlorobenzene-d4
+1,2-Dichloroethylene
+1,2-Dichloronaphthalene
+1,2-Dichloropropane-d6
+1,2-Dichloropropene
+1,2-Dimethyl-3-ethylbenzene
+1,2-Dimethyl-4-ethylbenzene
+1-(2-Hydroxyethoxymethyl)-5-methyl-6-phenylsulfanylpyrimidine-2,4-dione (HEPT)
+1,2-Octanediol
+1,2-Propadienylbenzene
+1,3,5,7-Tetrachloronaphthalene
+1,3,5-Triazine-2,4(1H,3H)-dione, 3-cyclohexyl-1-methyl-6-(methylamino)-
+1,3,5-Triazine-2,4-diamine
+1,3,5-Trichlorobenzene
+1,3,5-Trinitroso-1,3,5-triazacyclohexane
+1,3,6-Trioxocane
+1,3-Butadiene
+13-C12-2,2',4,5,5'-PeCB
+13C1-D2-Hydrochlorothiazide
+13C1-d3-Chlortetracycline
+13C1-D3-Erythromycin-H2O
+13C2-4:2 FTS
+13C2-6:2 FTS
+13C2-8:2 FTS
+13C2-PFDoA
+13C2-PFTeDA
+13C3-Flumequine
+13C3-HFPO-DA
+13C3-PFBS
+13C3-PFHxS
+13C4-Cloxacillin
+13C4-PFBA
+13C4-PFHpA
+13C5-PFHxA
+13C5-PFPeA
+13C6-Ibuprofen
+13C6-PFDA
+13C6-Sulfachloropyridazine
+13C6-Triclosan
+13C7-PFUnA
+13C8-PFOA
+13C8-PFOS
+13C8-PFOSA
+13C9-PFNA
+13C-Chlordane
+13C-Chlor_tox
+13C-gHCH (Lindane)
+13C-Lindane
+13C-p,p'-DDE
+13C-Triclosan
+1,3-Dibromopropane
+1-3-Dicyclohexylurea
+1,3-Dimethyl-5-ethylbenzene
+1,3-Dimethyladamantane
+1,3-Dimethylnaphthalene
+1,3-Dinitropyrene
+1,3-Dinitroso-5-nitro-1,3,5-triazacyclohexane
+1,3-Dioxolane
+1,3-diphenylguanidine
+1,3-Propanediol
+1,4,5,8-Tetrachloronaphthalene
+1,4,6,7-Tetramethylnaphthalene
+14-Chlorodehydroabietic acid
+1,4-Cineole
+1,4-Dichloro-2-butene
+1,4-Dichloro-2-butyne
+1,4-Dichlorobenzene-d4
+1,4-Dichlorobutane
+1,4-Dichloronaphthalene
+1,4-Difluorobenzene
+1,4-Dimethoxyanthracene
+1,4-Dimethylnaphthalene
+1,4-Dioxane-d8
+1,5-Dichloronaphthalene
+1,5-Dimethylnaphthalene
+1,6-Dimethylindan
+17.alpha.-Estradiol
+17-beta-Estradiol 17-glucuronide
+17-beta-Estradiol 17-sulfate
+17-beta-Estradiol 3-sulfate
+17.beta.-Estradiol-d3
+17.beta.-Estradiol-d4
+1,7-Dimethylfluorene
+1,7-Dimethylphenanthrene
+1,8-Dimethylnaphthalene
+1,8-Dimethylphenanthrene
+19-Norpregna-1,3,5(10)-trien-20-yne-2,4,16,16-d4-3,17-diol, (17?)-***retired***use Ethynylestradiol-d4
+1-(Aminomethyl)cyclohexaneacetic acid
+1-Bromo-2-chloroethane
+1-Butanesulfonic acid, 1,1,2,2,3,3,4,4,4-nonafluoro-, potassium salt (1:1)
+1-Butanol
+1-Butene
+1-Butene, 3-methyl-
+1-Butoxy-2-propanol
+1-Butyne, 3-chloro-3-methyl-
+1-Chlorobutane
+1-chloroeicosafluoro-3-oxaundecane-1-sulfonate
+1-Chlorohexane
+1-Chloropropane
+1-Cyclohexene-1-carboxaldehyde, 2,6,6-trimethyl-
+1-Cyclopentyl-4-n-octyldodecane
+1-Eicosanol
+1-Ethylnaphthalene
+1H,1H, 2H, 2H-Perfluorodecane sulfonic acid***retired***use Fluorotelomer sulfonate 8:2
+1H,1H, 2H, 2H-Perfluorohexane sulfonic acid***retired***use Fluorotelomer sulfonate 4:2
+1H-Benzimidazole-5-sulfonic acid, 2-phenyl-
+1H-Benzotriazole, 5-chloro-
+1-Heptanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoro-
+1-Heptanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoro-,sodium salt (1:1)
+1-Hexadecene
+1-Hexanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,6-tridecafluoro-, ion(1-)
+1-Hexanesulfonic acid, 3,3,4,4,5,5,6,6,6-nonafluoro-***retired***use Fluorotelomer sulfonate 4:2
+1-Hexene
+1H-Indol-4-ol
+1H-Indol-5-ol
+1-Isobutoxy-2-ethylhexane
+1-Methoxy-4-(2-propenyl)benzene
+1-methyl-2-propyl-Cyclohexane
+1-Methylanthracene
+1-Methylchrysene
+1-Methyldibenzothiophene
+1-Methylindan
+1-Methylnaphthalene-D10
+1-Nitropyrene
+1-Nitroso-3,5-dinitro-1,3,5-triazacyclohexane
+1-Nonadecene
+1-Octanesulfonamide, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-N-methyl-, reaction products with benzene-chlorine-sulfur chloride (S2Cl2) reaction products chlorides
+1-Octanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-, sodium salt (1:1)
+1-Octanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluoro-
+1-Octanesulfonic acid, 3,3,4,4,5,5,6,6,7,7,8,8,8-tridecafluoro-***retired***use 6:2 Fluorotelomer sulfonate acid
+1-Octanol
+1-Pentanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,5-undecafluoro-, potassium salt
+1-Pentene
+1-Phenethyl-4-(phenylpropionylamino)piperidine
+1-phenyl-1H-Indene
+1-Phenylnaphthalene
+1-Propanesulfonic acid, 1,1,2,2,3,3,3-heptafluoro-
+1-Propanol
+1-Tailed Critical (H)
+1-Tailed Critical (W)
+1-Tetradecene
+2-(1-Hydroxyethyl)-6-methylaniline
+2,2'-[1,2 ethanediylbis(oxy)]bis-ethanol diacetate
+2,2',3,3',4,4',5,5',6-NOBDE***retired***use Nonabromophenoxybenzene
+2,2',3,3',4,4',5,6-Octachorobiphenyl
+2,2',3,3',4,4',6-Heptachlorobiphenyl
+2,2`,3,3`,4,5,5`,6,6`-Nonabromodiphenyl ether
+2,2',3,3',4,5,5',6-Octabromodiphenyl ether
+2,2',3,3',4,5,5',6'-Octachlorobiphenyl
+2,2`,3,3`,4,5`,6,6`-Octabromodiphenyl ether
+2,2',3,3',4',5,6-Heptabromodiphenyl ether
+2,2',3,3',4,5,6-Heptachlorobiphenyl
+2,2',3,3',4,5-Hexachlorobiphenyl
+2,2',3,3',5,6-Hexachlorobiphenyl
+2,2',3,3',5,6'-Hexachlorobiphenyl
+2,2',3,3',5-Pentachlorobiphenyl
+2,2',3,3'-Tetrachlorobiphenyl
+2,2',3,4,4',5,5',6-OCBDE
+2,2`,3,4,4`,5,5`,6-Octabromodiphenyl ether
+2,2`,3,4,4`,5,5`-Heptabromodiphenyl ether
+2,2`,3,4,4`,5,6,6`-Octabromodiphenyl ether
+2,2',3,4,4',5,6-Heptabromodiphenyl ether
+2,2',3,4,4',5'-Hexabromodiphenyl ether
+2,2`,3,4,4`,6`-Hexabromodiphenyl ether
+2,2`,3,4,4`,6-Hexabromodiphenyl ether
+2,2',3,4,4',6'-Hexabromodiphenyl ether
+2,2',3,4,4',6-Hexachlorobiphenyl
+2,2',3,4,4',6'-Hexachlorobiphenyl
+2,2',3,4,4'-Pentachlorobiphenyl
+2,2',3,4',5,5',6-Heptabromodiphenyl ether
+2,2',3,4,5,6,6'-Heptachlorobiphenyl
+2,2',3,4,5,6-Hexachlorobiphenyl
+2,2',3,4,5,6'-Hexachlorobiphenyl
+2,2',3,4',5,6-Hexachlorobiphenyl
+2,2',3,4,5-Pentachlorobiphenyl
+2,2',3,4',5-Pentachlorobiphenyl
+2,2',3',4,5-Pentachlorobiphenyl
+2,2',3,4,6,6'-Hexachlorobiphenyl
+2,2',3,4,6-Pentachlorobiphenyl
+2,2',3,4',6-Pentachlorobiphenyl
+2,2',3,4',6'-Pentachlorobiphenyl
+2,2',3',4,6-Pentachlorobiphenyl
+2,2',3,4-Tetrachlorobiphenyl
+2,2',3,5,6-Pentachlorobiphenyl
+2,2',3,5'-Tetrabromodiphenyl ether
+2,2',3,6-Tetrachlorobiphenyl
+2,2,3-Trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]propanoate
+2,2',4,4',5',6-Hexachlorobiphenyl
+2,2',4,4',5-Pentabromodiphenyl ether***retired***use BDE-099
+2,2',4,4',6-Pentachlorobiphenyl
+2,2',4,4'-Tetrachlorobiphenyl
+2,2',4,5,6'-Pentachlorobiphenyl
+2,2',4,6-Tetrachlorobiphenyl
+2,2',4,6'-Tetrachlorobiphenyl
+2,2,4-Trimethylpentane
+2,2',5,6'-Tetrachlorobiphenyl
+2,2-Bis(chloromethyl)-1,3-propanediyl bis[bis(2-chloroethyl)phosphate]
+2,2-Dichlorocyclopropyl phenyl sulfone
+2-[(2-Ethyl-6-methylphenyl)-amino]-1-propanol
+2-[(2-Ethyl-6-methylphenyl)amino]-2-oxoethanesulfonic acid
+2,2-Oxybis(2-chloropropane)
+2,3,3,3-Tetrafluoro-2-(1,1,2,2,3,3,3-heptafluoropropoxy)-13C3-propanoic acid
+2,3,3,3-Tetrafluoro-2-(heptafluoropropoxy)-propanoate
+2,3,3`,4,4`,5,5`,6-Octabromodiphenyl ether
+2,3,3',4,4',5,6-HPBDE
+2,3,3',4,4',5'-Hexachlorobiphenyl
+2,3,3',4,4'-PEBDE
+2,3,3',4',5,5',6-Heptachlorobiphenyl
+2,3,3',4,5,6-Hexachlorobiphenyl
+2,3,3',4,5',6-Hexachlorobiphenyl
+2,3,3',4',5,6-Hexachlorobiphenyl
+2,3,3',4,5-Pentachlorobiphenyl
+2,3,3',4,5'-Pentachlorobiphenyl
+2,3,3',5',6-Pentachlorobiphenyl
+2,3,3',6-Tetrachlorobiphenyl
+2,3,3-Trichloro-2-propene-1-sulfonic acid (sodium salt)
+2,3,3'-Trichlorobiphenyl
+2,3,4,4',5,6-Hexachlorobiphenyl
+2,3',4,4',6-PEBDE***retired***use BDE-119
+2,3,4,4',6-Pentachlorobiphenyl
+2,3',4,4',6-Pentachlorobiphenyl
+2,3',4',5,5'-Pentachlorobiphenyl
+2,3,4,5,6-PEBDE
+2,3,4,5,6-Pentachlorobiphenyl
+2,3,4',5,6-Pentachlorobiphenyl
+2,3',4',5',6-Pentachlorobiphenyl
+2',3,4,5,6'-Pentachlorobiphenyl
+2,3,4,5,6-pentachloro-p-terphenyl
+2,3,4,5-Tetrachlorobiphenyl
+2,3',4',5-Tetrachlorobiphenyl
+2,3',4',5'-Tetrachlorobiphenyl
+2,3,4,5-Tetrachlorophenol
+2,3,4,6-Tetrachlorobiphenyl
+2,3',4,6-Tetrachlorobiphenyl
+2,3',4',6-Tetrachlorobiphenyl
+2,3,4,6-Tetrachlorophenol/2,3,5,6-Tetrachlorophenol
+2,3',4-TRBDE
+2,3,4-Trichlorobiphenyl
+2,3',4'-Trichlorobiphenyl
+2',3,4-Trichlorobiphenyl
+2,3,4-Trifluorotoluene
+2,3,5,6-Tetrabromo-p-xylene
+2,3,5,6-Tetrachlorobiphenyl
+2,3,5,6-Tetrachlorophenol
+2,3',5-Trichlorobiphenyl
+2,3,5-trimethyl-Phenanthrene
+2,3,6,7-Tetrachloronaphthalene
+2,3,6-Trichloro-5-cyano-4-hydroxybenzamide
+2,3,6-Trichlorophenol
+2,3,7,8,-Tetrachlorodibenzo-p-dioxin
+2,3,7,8-Tetrachlorodibenzo-p-dioxin, TEQ
+2,3,7,8-Tetrachlorodibenzo-p-dioxin, TTE
+2,3-Dichloroaniline
+2,3-Dichloronaphthalene
+2,3-Dichlorophenol
+2,3-Dichloropropene
+2,3-Dimethylnaphthalene
+2,3-Dimethylphenanthrene
+2,3-Dimethylpyridine
+2(3H)-Benzothiazolone
+2(3)-tert-Butyl-methoxyphenol
+2,4,4',6-Tetrachlorobiphenyl
+2,4,4'-TRBDE/2',3,4-TRBDE***retired***use BDE-28/33
+2,4,4'-Tribromodiphenyl ether
+2,4,5,6-Tetrachloroisophthalamide
+2,4,5-TB
+2,4,5-T isooctyl ester
+2,4,5-T isopropyl ester
+2,4,5-Trichlorobiphenyl
+2,4,5-Trichlorophenoxyacetic acid-d4
+2,4,5-Trichlorophenoxypropanoic acid
+2,4,5-Trimethylphenol
+2,4,6-TRBDE
+2,4',6-TRBDE
+2,4,6-Trichloroanisole
+2,4,6-trichloro-p-terphenyl
+2,4,6-Trimethylphenol
+2,4,6-Trinitro-5-tert-butyl-m-xylene
+2,4,6-Tris(tert-butyl)phenol
+2,4-D-13C6
+2,4-DB 2-butoxyethyl ester
+2,4-Diamino-6-nitrotoluene
+2,4-DIBDE
+2,4'-DIBDE
+2,4-Dibromophenol
+2,4-Dichlorophenol-d3
+2,4-Dichlorophenoxy-3,5,6-d3-acetic-d2 acid
+2,4-Dichlorophenylacetic acid
+2,4-Dimethyldibenzothiophene
+2,4-Dimethylpyridine
+2,4-D isopropyl ester
+2-(4-morpholinyl)-benzothiazole
+2-(4-Octylphenoxy)ethanol
+2,4-Toluenediamine
+2,5-Dichloroaniline
+2,5-Dichlorophenol
+2,5-Dimethyl phenanthrene
+2,5-dimethyl-Undecane
+2,6,10-trimethyldodecane
+2,6,11-trimethyl-Dodecane
+2,6-Diamino-4-nitrotoluene
+2,6-DIBDE
+2,6-Dichlorobenzamide
+2,6-Dichlorotoluene
+2,6-Dimethyl-4-heptanone
+2,6-Dimethylnaphthalene-D12
+2,6-dimethyloct-7-en-2-ol
+2,6-Dimethylphenanthrene
+2,6-Dimethylpyridine
+2,6-Di-tert-butylbenzoquinone
+2,6-Di-tert-butyl-p-cresol
+2,6-Di-tert-butylphenol
+2,7,8-trimethyl-2-(4,8,12-trimethyltridecyl)chroma
+2,7-Dimethylnaphthalene
+2,7-Dimethylphenanthrene
+27-Nor-25-ketocholesterol
+2,8-Dimethyldibenzothiophene
+2-Amino-4,6-dinitrotoluene
+2-Amino-5-Methylbenzoic Acid
+2-Aminobenzothiazole
+2-Butanol
+2-Butanone-d5
+2-Butoxy-2-oxoethyl butyl phthalate
+2-Chlorophenol-d4
+2-Choro-6-ethylamino-4-amino-s-triazine
+2-Ethoxyethanol
+2-Ethyl-2-phenylmalonamide
+2-Ethyl-4-methyl-1-pentanol
+2-Ethylhexanoic acid
+2-Ethylhexanol
+2-Ethylhexyl diphenyl phosphate
+2-ethylidene-1,5-dimethyl-3,3-diphenylpyrrolidine
+2-Ethyl-m-xylene
+2-Ethyl-p-xylene
+2H,2H,3H,3H-Perfluorooctanoate
+2H,2H,3H,3H-Perfluorooctanoic acid
+2-Heptanone
+2-Hexanone-d5
+2-Isobutyl-3-methoxypyraxine
+2-Isopropyl-3-methoxypyrazine
+2-Isopropylnaphthalene
+2-Mercaptobenzothiazole
+2-Methyl-2-butanol
+2-Methyl-2-butene
+2-Methyl-2-cyclopenten-1-one
+2-Methylbiphenyl
+2-Methylbutane
+2-Methyldecane
+2-Methyldibenzothiophene
+2-Methyldibenzothiophenes/3-Methyldibenzothiophenes
+2-Methyleicosane
+2-Methylfluoranthene
+2-Methylfluorene
+2-Methylnaphthalene-D10
+2-methyloctacosane
+2-methyl-Pentanal
+2-Methylpentane
+2-Methylphenanthrene
+2-Methylpyrene
+2-(Methylsulfonyl)-4-(trifluoromethyl)benzoic acid (diketonitrile-isoxaflutole benzoic acid analog)
+2-Methyltetradecane
+2-(Methylthio)benzothiazole
+2-MOBDE
+2-Naphthacenecarboxamide, 4-(dimethylamino)-1,4,4a,5,12,12a-hexahydro-3,10,11,12a-tetrahydroxy-6-methyl-1,12-dioxo-, hydrochloride (1:1), (4R,4aS,12aS)-
+2-(N-Ethyl-perfluorooctanesulfonamido)acetate
+2-Nitro-M-Xylene
+2-Nitrophenol-d4
+2-Nitropropane
+2-(N-methylperfluoro-1-octanesulfonamido)-ethanol
+2-(N-Methylperfluorooctanesulfonamido)acetate
+2-(Nonylphenoxy)ethanol
+2-Octanone
+2-Pentanol
+2-Pentanone
+2-Pentene, 2,4,4-trimethyl-
+2-Phenyldecane
+2-Phenyldodecane
+2-Phenylnaphthalene
+2-Phenylphenol
+2-Phenyltetradecane
+2-Phenyltridecane
+2-Phenylundecane
+2-Propanone, 1-cyclohexyl-
+2-Propen-1-ol
+2-Propyl-1-pentanol
+2-(p-tert-Butylphenoxy)cyclohexanol
+2-Pyrrolidinone, 1-cyclohexyl-
+3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-Heneicosafluoro-1-dodecanesulfonic acid, sodium salt (1:1)
+3,3',4,4'-TEBDE
+3,3',4,5'-TEBDE
+3,3',4,5-Tetrachlorobiphenyl
+3,3',4-TRBDE
+3,3',4-Trichlorobiphenyl
+3,3',5,5'-Tetrachlorobiphenyl
+3,3',5-Trichlorobiphenyl
+3,3'-Dibromodiphenyl ether
+3,3'-Dimethylbenzidine
+3:3 Fluorotelomer carboxylate, ion(1-)
+3:3 Fluorotelomer carboxylic acid
+3,4,5-Trichloroguaiacol
+3,4,6-Trichloroguaiacol
+3,4-DIBDE
+3,4'-DIBDE
+3,4-Dichlorobiphenyl
+3,4'-Dichlorobiphenyl
+3,4-Dichloroguaiacol
+3,4-Dichlorophenol
+3,4-Dimethylbenzoic acid
+3,4-Dimethylphenol
+3,5-Dichloroaniline
+3,5-Dichlorobenzoic acid
+3,5-Dichlorophenol
+3,5-Dinitroaniline
+3,6-Dimethylphenanthrene
+37Cl4-2,3,7,8-TCDD
+(3-Bromopropyl)benzene
+3-Chlorobicyclo[3.2.1]oct-2-ene
+3-Chloro-perfluorotridecanoic acid
+3-Hexen-2-one, 5-methyl-
+3-Hexene-2,5-dione
+3-Ketocarbofuran
+3-Methyl decane
+3-Methyldibenzothiophene
+3-Methylfluoranthene/Benzo[a]fluorene
+3-Methylnonane
+3-Methylpentane
+3-Methylphenanthrene
+3-MOBDE
+3-Nitrofluoranthene
+3-Perfluoroheptyl propanoate
+3-Perfluoroheptyl propanoic acid
+3-Perfluoroheptylpropanoic acid (7:3 FTCA)
+3-perfluoropentyl propanoate
+3-Perfluoropentylpropanoic acid (5:3 FTCA)
+3-Perfluoropropyl propanoate
+3-Phenlydecane
+3-Phenoxybenzenemethanol
+3-Phenoxybenzoic acid
+3-Phenyldecane
+3-Phenyltetradecane
+3-Phenyltridecane
+3-Phenylundecane
+3-(Trifluoromethyl)aniline
+3-(Trifluoromethyl)phenylurea
+4-(2-phenylethenyl)aniline
+4(3H)-Quinazolinone, 2-methyl-3-(2-methylphenyl)-
+4,4'-(1-Methylpropylidene)bis[phenol]
+4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-Pentadecafluorodec-2-enoic acid
+4,4'-DDE-13C12
+4,4'-DDE-D8
+4,4'-Dibromodiphenyl ether***retired***use p,p'-Dibromodiphenyl ether
+4,4'-Ethylidenebisphenol
+4,5,6-Trichloroguaiacol
+4,5-Dichloro-2-nitroaniline
+4,5-dimethyl-Phenanthrene
+4,6-Dichloroguaiacol
+4,6-Dichloro-o-cresol
+4,6-Dimethyldibenzothiophene
+4,6-Dimethyldodecane
+4,6-Dinitro-2-methylphenol-d2
+4,8-dioxa-3H-perfluorononanoate
+4,8-Dioxa-3H-perfluorononanoic acid
+4-Amino-2,6-dinitrotoluene
+4-Androstenedione
+4-Chloro-3-nitrobenzotrifluoride
+4-Chloroaniline-d4
+4-Chlorobenzyl methyl sulfoxide
+4-Chlorophenyl ether
+4-Epianhydrochlortetracycline
+4-Epianhydrochlortetracycline (EACTC)
+4-Epianhydrotetracycline
+4-Epianhydrotetracycline hydrochloride
+4-Epichlortetracycline
+4-epi-Oxytetracycline
+4-Epioxytetracycline
+4-Epitetracycline-D6
+4-epitetracycline (ETC)
+4H-1-Benzopyran-4-one, 5,7-dihydroxy-3-(4-hydroxyphenyl)-
+4H-1-Benzopyran-4-one, 5,7-dihydroxy-3-(4-methoxyphenyl)-
+4-Hydroxy-4-methyl-2-pentanone
+4-Hydroxybenzotriazole
+4-(Hydroxymethyl) pendimethalin
+4-Hydroxy molinate
+4-Methyl-1H-benzotriazole
+4-Methyl-2-pentanol
+4-Methyl-2-pentene
+4-Methyl-3-heptanol
+4-Methylbenzotriazole
+4-Methylbiphenyl
+4-Methylchrysene
+4-Methyldibenzofuran
+4-Methylphenanthrene
+4-Methylphenol-d8
+4-MUB-a-D-galactoside
+4-MUB-a-D-glucoside
+4-MUB-b-D-galactoside
+4-MUB-b-D-glucoside
+4-MUB-b-D-xylopyranoside
+4-MUB-N-acetyl-b-glucosaminide
+4-MUB-phosphate
+4-MUB-sulfate
+4-Nitrobiphenyl
+4-Nitrophenol-d4
+4-Nitroquinoline 1-oxide
+4-Nonylphenol monoethoxylates***retired***use Ethanol, 2-(4-nonylphenoxy)-
+4-Phenyldecane
+4-Phenyldodecane
+4-Phenyltetradecane
+4-Phenyltridecane
+4-Phenylundecane
+4-tert-Octylphenol pentaethoxylate
+4-tert-Octylphenol tetraethoxylate
+4-tert-Octylphenol triethoxylate
+5,6-Dimethylbenzotriazole
+5,9-Dimethylchrysene
+5a-Dihydrotestosterone
+5-alpha-Androstanedione
+5-Ethyl-2,2,3-trimethylheptane
+5-Hexen-2-one, 5-methyl-
+5-Hydroxydicamba
+5-Hydroxyimidacloprid
+5-Hydroxythiabendazole
+5-methyl-1-H-benzotriazole
+5-Methyl-2-hexene
+5-Methylchrysene
+5-Methylchrysene/6-Methylchrysene
+5-Methylindan
+5-Nitroacenaphthene
+5-Nitrovanillin
+5-Nonanol
+5-Phenyldecane
+5-Phenyldodecane
+5-Phenyltetradecane
+5-Phenyltridecane
+5-Phenylundecane
+6:2 Fluorotelomer sulfonate acid
+6:2 Fluorotelomer sulfonate***retired***use 6:2 Fluorotelomer sulfonate acid
+6-Acetyl-1,1,2,4,4,7-hexamethyltetralin
+6-Acetylmorphine
+6-Acetylmorphine-d6
+6-Methylchrysene
+6-Methyltridecane
+6-Phenyldodecane
+6-Phenyltetradecane
+6-Phenylundecane
+6PPD-quinone
+7:3 perfluorodecanoate
+7H-Dibenzo(b,g)carbazole, 7-methyl-
+7-Hydroxyquetiapine
+7-Methylbenzo[a]pyrene
+7-Phenyltetradecane
+7-Phenyltetradecane + 6-phenyltridecane mix
+(7S)-Hydroprene
+8H-Perfluorononanesulfonic acid
+9,10-Dichlorostearic Acid
+9,10-Dimethylanthracene
+9-Chlorohexadecafluoro-3-oxanonane-1-sulfonate
+9-Chlorohexadecafluoro-3-oxanonane-1-sulfonic acid
+9-Chlorohexadecafluoro-3-oxanone-1-sulfonic acid
+9-Chlorohexadecafluoro-3-oxanonnane-1-sulfonate
+9-ethyl-9-borabicyclo[3.3.1]nonane
+9-Methylanthracene
+9-Methylnonadecane
+9-Methylphenanthrene
+9-Methylphenanthrene/4-Methylphenanthrene
+9-n-Dodecyl[tetradecahydroanthracene]
+Abacavir
+Abamectin
+Abietic acid
+Abietylamine
+Ablabesmyia
+AB-PINACA 4-hydroxypentyl
+Abrupt lower boundary present (Y/N) (choice list)
+Absorbance at 370 nanometers
+Absorbance at 440 nm
+Absorption coefficient at 440 nm
+Absorption spectral slope (Sag)
+Abundance
+Acanthamoeba***retired***use Acanthamoeba (Protozoa)
+Acebutolol
+Acenaphthylene-d8
+Acesulfame K
+Acetaldehyde
+Acetaldol
+Acetamide, 2-(diethylamino)-N-(2,6-dimethylphenyl)-
+Acetaminophen-13C2-15N
+Acetaminophen-d4
+Acetate ion
+Acetic acid
+Acetic acid, 2-ethylhexyl ester
+Acetochlor sulfynilacetic acid
+Acetonitrile
+Acetylene
+Acetyl norfentanyl
+Acibenzolar-S-methyl
+Acid - Base Potential
+Acid Generation Potential
+Acidity, (H+)
+Acidity, hydrogen ion (H+)
+Acidity, mineral methyl orange (as CaCO3)
+Acidity***retired***use Acidity, (H+)
+Acidity, total, phenolphthalein (as CaCO3)
+Acid Neutralization Potential Acidity (ANPA)
+Acid Neutralization Potential as CaCO3
+Acid volatile sulfide/pyritic sulfide
+Acid Volatile Sulfides
+Acifluorfen, sodium salt
+Acinetobacter
+Acrylamide
+Actinium-228
+Actinolite Asbestos
+Actinomycetes-specific geosmin geoA gene
+Actinomycetes-specific methyl-isoborneol (MIB) mic gene
+Active channel height
+Active channel width
+Activities - Algal bloom (Y/N) (choice list)
+Activities - Algal Mats (choice list)
+Activities - Algal mats (Y/N) (choice list)
+Activities - Algal scum (Y/N) (choice list)
+Activities - Angling Pressure (choice list)
+Activities - Bridge/Culverts (choice list)
+Activities - Channelization (choice list)
+Activities - Chem. Treatment (choice list)
+Activities - Commercial (choice list)
+Activities - Construction (choice list)
+Activities - Cropland (choice list)
+Activities - Dams (choice list)
+Activities - Dredging (choice list)
+Activities - Dumping (choice list)
+Activities - Evidence of Fire (choice list)
+Activities - Feedlot (choice list)
+Activities - Fish Stocking (choice list)
+Activities - Hiking Trails (choice list)
+Activities - Industrial Plants (choice list)
+Activities - Irrigation Equipment (choice list)
+Activities - Liming (choice list)
+Activities - Livestock Use (choice list)
+Activities - Logging (choice list)
+Activities - Maintained Lawns (choice list)
+Activities - Mines/Quarries (choice list)
+Activities - Odors (choice list)
+Activities - Oil/Gas Wells (choice list)
+Activities - Orchards (choice list)
+Activities - Parks, Campgrounds (choice list)
+Activities - Pasture (choice list)
+Activities - Pipes, Drains (choice list)
+Activities - Poultry (choice list)
+Activities - Power Plants (choice list)
+Activities - Primitive Parks, Camping (choice list)
+Activities - Residences (choice list)
+Activities - Roads (choice list)
+Activities - Sewage Treatment (choice list)
+Activities - Surface Films (choice list)
+Activities - Trash/Litter (choice list)
+Activities - Trash/Litter (Y/N) (choice list)
+Activities - Water Level Fluctuations (choice list)
+Activities - Water Withdrawal (choice list)
+Actual Number of Individuals Measured
+Acyclovir
+Adenosine triphosphate
+a-D-galactosidase (corrected for carbon content)
+a-D-glucosidase (corrected for carbon content)
+Adjusted gross alpha activity
+Adsorbable organic fluorine (AOF)
+Aedes
+Agapetus
+Agathon
+Age, Otoliths (Fish)
+Age, Scales (Fish)
+Aggressive index
+Agraylea
+Agrypnia
+Air
+Air entrained
+Alachlor sulfinylacetic acid
+Albuminoid nitrogen
+Albuterol
+Albuterol-d3
+Aldrin + dieldrin mix, unspecified
+Algae, blue-green (phylum cyanophyta) percent
+Algae, golden-brown (phylum chrysophyta) density
+Algae-Phycocyanin
+Algae, substrate rock/bank cover (choice list)
+Algal Bloom Severity (choice list)
+algal entity density
+Aliphatics fraction
+Alisotrichia
+Alkalinity
+Alkanes, Petroleum
+Alkanes, Plant Wax
+Alkanes, total
+AllBac DNA marker
+Allethrin
+Allophycocyanin
+Alluaudomyia
+Allyl chloride
+Allyl-sec-butyl-barbituric acid
+Alona
+.alpha.-Amino-2,3-dihydro-5-methyl-3-oxo-4-isoxazolepropanoic acid
+.alpha.-Apo-oxytetracycline
+.alpha.-Chlordene
+.alpha.-Cypermethrin
+alpha-HCH (aLindane)***retired***use .alpha.-Hexachlorocyclohexane
+alpha-HCH-d6
+.Alpha.-Pinene
+.alpha.-Terpineol
+alpha-Zearalanol
+alpha-Zearalenol
+Alprazolam
+Alprazolam-D5
+Aluminum
+Aluminum, Organic + Inorganic Monomeric (reactive aluminum)
+Aluminum, Organic Monomeric (reactive aluminum)
+Americium-241
+Aminocarb
+Aminocyclopyrachlor
+Aminomethanesulfonic acid
+Aminomethylphosphonic Acid
+Aminopyralid
+Amiocentrus
+Amitriptyline
+Amitriptyline-d6
+Amitriptyline (+/-)-E-10-hydroxylated
+Amitrole
+Amlodipine
+Ammonia uptake
+Ammonium 4,8-dioxa-3H-perfluorononanoate
+Ammonium bis(3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl) phosphate
+Ammonium-nitrogen
+Ammonium-Nitrogen
+Ammonium perchlorate
+Amobam oxidation products
+Amosite Asbestos
+Amoxicillin
+Amoxicillin-d4
+Amoxicillin trihydrate
+AMPA-C13N15
+Amphetamine
+Amphibian presence (choice list)
+Amphiboles
+Amphinemura
+Ampicillin
+Amsacrine
+Anabaena
+Anagapetus
+Anatoxin
+Anatoxin a
+Anatoxin-a gene anaC
+Androstane, (5.alpha.)-
+Androstenedione-d7
+Androsterone
+Androsterone glucuronide
+Androsterone sulfate
+Anhydrochlortetracycline
+Anhydrotetracycline
+Anhydrotetracycline (ATC)
+Anilazine
+Animals/Organisms Present
+Anion/cation ratio
+Anisocentropus
+Anisocentropus pyraloides
+Annulus Radius, Scales (Fish)
+Anopheles
+Anostraca
+Anthanthrene
+Anthophyllite asbestos
+Anthracene-d10
+Anthropogenic stream alteration (choice list)
+anti-Dechlorane Plus
+Antimony-124
+Antimony-125
+Antipyrine
+Antocha
+Apatania
+Apatite inorganic phosphorus
+Aphrosylus
+Apparent Oxygen Utilization
+Appealing (choice list)
+Apple snail presence (choice list)
+Apsectrotanypus
+Aquatic Macrophytes - Emergent
+Aquatic Macrophytes - Floating
+Aquatic Plant Cover, substrate rock/bank cover (choice list)
+Aquatic Vegetation, Density
+Aquatic Vegetation Jabs
+Aquatic Vegetation, Type
+Aquifer Rock Type (choice list)
+Aramite
+Archanara
+Archips
+Arctopsyche
+Area scanned
+Argon-36
+Argon-38/Argon-36 error
+Argon-38/Argon-36 ratio
+Argon-39
+Argon-39 error
+Argon-40
+Argyra
+Aripiprazole
+Aroclor 1016 mixt. with Aroclor 1221
+Aroclor 1242 mixt. with Aroclor 1248
+Aroclor 1242 mixt. with Aroclor 1248 and Aroclor 1254
+Aroclor 1242 mixt. with Aroclor 1254
+Aroclor 1242 mixt. with Aroclor 1254 and Aroclor 1260
+Aroclor 1242 mixt. with Aroclor 1260
+Aroclor 1248 mixt. with Aroclor 1254 and Aroclor 1260
+Aroclor 1248 mixt. with Aroclor 1260
+Aroclor 1252
+Aroclor 1254 mixt. with Aroclor 1260
+Aroclor 1262
+Aroclor 1268
+Aroclor 5460
+Aroclor (unspecified)
+Aromatics fraction
+Arsenic-75
+Arsenic, dimethyl
+Arsenic, Inorganic
+Arsenic ion (3+)
+Arsenic ion (5+)
+Arsenic, monomethyl
+Arsenide
+Arthropoda
+ASB + Cation
+Asellidae
+Asellus
+ashes
+Aspect
+Asplanchna
+Astacidae
+Asulam
+Atenolol
+Atenolol-D7
+Atherix
+Atherix variegata
+Athripsodes
+Atmospheric deposition, bulk
+Atmospheric deposition, dry fall
+Atorvastatin
+Atorvastatin-d5
+Atrazine-d5
+Atrazine-d5 (ethyl-d5)
+Atrichopogon
+Atterberg Classification
+Aulodrilus
+Axiothella
+Azathioprine
+Azathioprine-13C4
+Azinphos-methyl oxygen analog
+Azithromycin-d3
+Azulene
+BacCan DNA marker
+Back Water (Y/N) (choice list)
+Bacteria, iron reducing
+Bacteria, iron+sulfur fixers
+Bacteria mixture, unspecified
+Bacteria mix, unspecified
+Bacteria, nitrifiers
+Bacteria, slime-forming
+Bacteria, sulfate reducing
+Bacteria, Sulfate reducing
+Bacteroidales species
+Balsalazide
+Bank Angle
+Bank class (choice list)
+Bank conditions - A (choice list)
+Bank conditions - B (choice list)
+Bank erosion hazard index
+Bank Erosion, Left
+Bank Erosion, Right
+Bank erosion stability (choice list)
+Bankful Angle (choice list)
+Bankfull cross-sectional area
+Bankfull depth
+Bankfull discharge
+Bankfull Height
+Bankfull wetted perimeter
+Bankfull width
+Bankfull width-to-depth ratio
+Bank Instability Erosion Class (choice list)
+Bank Side Measured
+Banksiola
+Bank Slope, Left
+Bank Slope, Right
+Bank Undercut
+Bank vegetative stability (choice list)
+Barite
+Barium-140
+Bar Width
+Base flow discharge
+Bases
+Batrachochytrium dendrobatidis (Chytrid fungus)
+Batracobdella
+Battery voltage
+BDE-017
+BDE-033
+BDE-119
+BDE-12/13
+BDE-126-13C12
+BDE-138/166
+BDE-139
+BDE-156
+BDE-166
+BDE-171
+BDE-180
+BDE-18/33
+BDE-184
+BDE-190
+BDE-191
+BDE-196
+BDE-197
+BDE-201
+BDE-204
+BDE-205
+BDE-207
+BDE-49/71
+BDE-77-13C12
+BDE-8/11
+BDE-85/155
+b-D-galactosidase (corrected for carbon content)
+b-D-glucosidase (corrected for carbon content)
+b-D-xylosidase (corrected for carbon content)
+Beam Attenuation (Seabird)
+Bearing
+Beauvericin
+Beaver Activity Disturbance (choice list)
+Beaver (choice list)
+Beaver Flow Modification (choice list)
+Beck Biotic Index
+Bedload sediment flux
+Bedrock
+Bendiocarb
+Bendiocarb phenol
+Bendroflumethiazide
+Benoxacor
+Bensulide
+Bentazon-13C10-15N
+Bentazon AIBA
+Benzaldehyde
+Benzamide, 3-(benzoylmethylamino)-N-[2-bromo-4-[1,2,2,2-tetrafluoro-1-(trifluoromethyl)ethyl]-6-(trifluoromethyl)phenyl]-2-fluoro
+Benzene,1,1'-(chloroethenylidene)bis(4-chloro-)
+Benzene, 1,2,3,4,5-pentabromo-6-(2,3,4,5-tetrabromophenoxy)-***retired***use Nonabromophenoxybenzene
+Benzene, 1,2,3,4,5-pentabromo-6-(3,4-dibromophenoxy)-
+Benzene, 1,2,4-tribromo-5-(3,4-dibromophenoxy)-
+Benzene, 1,2,4-tribromo-5-(3,5-dibromophenoxy)-
+Benzene, 1,2-dichloro-4-isocyanato-
+Benzene, 1,2(or 1,4)-dichloro-
+Benzene, 1,3-dibromo-2-(4-bromophenoxy)-
+Benzene, 1-chloro-4-(methylsulfonyl)-
+Benzene, (1-ethyldecyl)-
+Benzene, 1-nitro-2-(p-methylphenyl ethynyl)
+Benzene, 2,4-dibromo-1-phenoxy-
+Benzene, 4-chloro-1-methyl-2-nitro-
+Benzene, C6-12-alkyl derivs.
+Benzene-d6
+Benzeneethanamine, .alpha.-methyl-, (.alpha.S)-, sulfate (2:1)
+Benzene Hexachloride, Alpha (BHC)***retired***use .alpha.-Hexachlorocyclohexane
+Benzene Hexachloride, Beta (BHC)***retired***use .beta.-Hexachlorocyclohexane
+Benzene Hexachloride, Delta (BHC)***retired***use .delta.-Hexachlorocyclohexane
+Benzenemethanol, .alpha.-[(1S)-1-(methylamino)ethyl]-, (.alpha.S)-
+Benzene, pentabromophenoxy-
+Benzenesulfonamide, 4-amino-N-2-pyrimidinyl-
+Benzene, toluene, ethyl benzene, xylenes mix
+Benzethonium
+Benzo(a)anthracene-D12
+Benzo(a)fluoranthene
+Benzo[b]chrysene
+Benzo(b)fluoranthene-D12
+Benzobicyclon
+Benzo[b,j]fluoranthene
+Benzo[b,k]fluoranthene
+Benzo[b]naphtho[2,1-d]thiophene
+Benzo[b]thiophene
+Benzo[c]cinnoline
+Benzo[cd]pyrenone
+Benzo[c]fluorene
+Benzo[c]phenanthrene
+Benzo[c]phenanthrene[1,4]quinone
+Benzo[e]pyrene-d12
+Benzo(e)pyrene-D12
+Benzo[e]pyrene-d14
+Benzofluoranthene
+Benzofluorene
+Benzo[ghi]fluoranthene
+Benzo(g,h,i)perylene-D12
+Benzo[j]fluoranthene
+Benzo(j+k)fluoranthene
+Benzo(k)fluoranthene-d12
+Benzonaphthothiophene
+Benzothiazole
+Benzothiazole-2-sulfonic acid (BTSA)
+Benzotrifluoride
+Benzoylecgonine
+Benzoylecgonine-D3
+Benzoylecgonine-d8
+Benzoylecgonine hydrate
+Benzphetamine
+Benztropine
+Benztropine-d3
+Benzyl benzoate
+Benzyl chloride
+Benzyl cinnamate
+Benzyldimethyldecylammonium chloride
+Benzyldimethyldodecyl ammonium
+Benzyldimethyldodecylammonium chloride
+Benzyldimethylhexadecyl ammonium
+Benzyldimethylhexadecylammonium chloride
+Benzyldimethyloctylammonium chloride
+Benzyldimethylstearylammonium chloride
+Benzyldimethyltetradecyl ammonium
+Benzyldimethyltetradecylammonium chloride
+Benzyl salicylate
+Beraeidae
+Beryllium
+Beryllium-7
+.beta.-Apo-oxytetracycline
+.beta.-Heptachlor epoxide
+Betamethasone
+.beta.-Pinene
+beta-Pinene
+beta-Zearalenol
+Bezafibrate
+Bezzia
+BHC, .beta.-BHC & .gamma.-BHC mix, unspecified
+Bibiocephala
+Bicyclo[4.2.0]octa-1,3,5-triene
+Bicyclopyrone
+Bicyclopyrone SYN503870
+Bifenazate
+Bifenazate diazene
+Big trees (choice list)
+Biogenic Silica
+Biologically reactive iron
+Bioluminescent yeast estrogen screen (BLYES)
+Biomass, drift macroinvertebrates
+Biomass, mysid
+Biomass, species 25-30 mm size class
+Biomass, species 30-35 mm size class
+Biomass, species 35-40 mm size class
+Biomass, species 40-45 mm size class
+Biomass, species 45-50 mm size class
+Biomass, zooplankton
+Biopermethrin
+Biovolume per individual
+Biphenyl-2,2',3,3',4,4',5,5',6,6'-d10
+Bis(2-butoxyethyl) phthalate
+Bis(2-chloro-1-methylethyl) ether
+Bis(2-chloroethyl)ether-d8
+Bis(2-ethylhexyl) 3,4,5,6-tetrabromophthalate
+Bis(2-ethylhexyl) 3,4,5,6-tetrabromophthalate (BETBP)
+bis(2-ethylhexyl)tetrabromophthalate
+Bis(2-hydroxyethyl) phthalate
+Bis(2-methoxyethyl) phthalate
+Bis(chloromethyl) ether
+Bismuth-212
+Bismuth-214
+Bisphenol A-2,2',3,3',5,5',6,6'-d8
+Bisphenol A-d6
+Bisphenol AF
+Bisphenol B
+Bisphenol E
+Bisphenol F
+Bisphenol S
+Bisphenol S-2,2',3,3',5,5',6,6'-d8
+Bispyribac sodium
+Bis(tributyltin) oxide
+Bixafen
+Blank
+BMAA (Beta-Methyl-Amino-(L)-Alanine)
+b-N-acetylglucosaminidase (corrected for carbon content)
+BoBac DNA marker
+BOD, filtered, 5 day, 20 deg C
+BOD, mass
+BOD, removal, carbonaceous
+BOD, Sediment Load
+BOD, ultimate
+Boric acid esters mixture, unspecified
+Boscalid
+Boscalid metabolite M510F01
+Bosmina
+Bottom substrate, description
+Bovine adenovirus
+Bovine-associated M3 bacteria
+Bovine coronavirus
+Bovine enterovirus
+Bovine polyomavirus
+Bovine viral diarrhea virus (BVDV)
+Brachycentrus
+Brachydeutera
+Branched p-nonylphenol
+Branchiobdellidae
+Branchiura
+Braun-Blanquet Abundance (choice list)
+Brillia
+Brillouin Taxonomic Diversity Index
+Broflanilide
+Bromadiolone
+Bromate
+Brombuterol
+Bromide
+Bromoacetonitrile
+Bromochloroacetic acid
+Bromochloroacetonitrile
+Bromochloroiodomethane
+Bromochloronitromethane
+Bromoconazole
+Bromodichloroacetonitrile
+Bromodichloronitromethane
+Bromodichloropropane
+Bromodiiodomethane
+Bromoethane
+Bromoform-d
+Bromomethoxynaphthalene
+Bromonitromethane
+Bromoxynil-13C6
+Bromoxynil octanoate
+Bromuconazole
+Brush Cover (%)
+Brush Jabs
+Bryophaenocladius
+BTEX, Total
+Bulan mixt. with 2-nitro-1,1-bis(p-chlorophenyl)propane
+Buliminidae
+Bulk Density
+Buprenorphine
+Buprenorphine hydrochloride
+Buprofezin
+Bupropion
+Busulfan
+Busulfan-d8
+Butachlor
+Butalbital
+Butane, 2-ethoxy-2-methyl-
+Butralin
+Butyl 2-ethylhexyl phthalate
+Butylated hydroxyanisole
+Butylbenzene
+Butylparaben
+Butyltin
+Butyltin trichloride
+Butyraldehyde
+Butyric acid
+C10 alcohol ethoxylate
+C10-C12 Aliphatics
+C10-C12 Aromatics
+C11-C22 Aromatics
+C11-C22 Aromatics, Unadjusted
+C12-C13 Aromatics
+C12-C16 Aliphatics
+C12-C16 Aromatics
+C12 Hydrocarbons
+C-13 Labeled Isomer/Congener 156+157 mixture
+C-13 Labeled Total Octahlorodibenzofuran
+C-13 Labeled Total Octahlorodibenzo-p-dioxin
+C16-C21 Aliphatics
+C16-C21 Aromatics
+C19-C36 Aliphatics
+C1-Acenaphthenes
+C1-Benzenes, methyl
+C1-Benzo[a]anthracenes/chrysenes
+C1-Benzofluoranthenes/benzopyrenes
+C1-Biphenyls
+C1-Chrysenes
+C1-Decalins
+C1-Dibenzo[a,h]anthracenes
+C1-Dibenzothiophenes
+C1-Fluorenes***retired***use Methylfluorene
+C1-Naphthobenzothiophenes
+C20-TAS
+C21-C34 Aliphatics
+C21-C34 Aromatics
+C21-TAS
+C26(20R)-TAS
+C26(20S)-TAS
+C27(20R)-TAS
+C28(20R)-TAS
+C28(20S)-TAS
+C28 Hydrocarbons
+C29-Hopane
+C2-Benzenes, ethyl
+C2-Benzo[a]anthracenes/chrysenes
+C2-Benzofluoranthenes/benzopyrenes
+C2-Benzothiophenes
+C2-Biphenyls
+C2-Decalins
+C2-Dibenzo[a,h]anthracenes
+C2-Naphthobenzothiophenes
+C30-Hopane
+C35 Hydrocarbons
+C3-Benzenes, propyl
+C3-Benzo[a]anthracenes/chrysenes
+C3-Benzopyrenes/perylenes
+C3-Benzothiophenes
+C3-Decalins
+C3-Dibenzo(a,h)anthracenes
+C3-Naphthalenes
+C3-Naphthobenzothiophenes
+C4-Benzenes, butyl
+C4-Benzo[a]anthracenes/chrysenes
+C4-Benzopyrenes/perylenes
+C4-Benzothiophenes
+C4-C6 Aliphatics
+C4-Decalins
+C4-Fluoranthenes/pyrenes
+C4-Naphthobenzothiophenes
+C4-Phenanthrenes/anthracenes
+C5-Benzenes, pentyl
+C5-Benzo[a]anthracenes/chrysenes
+C5-Benzopyrenes/perylenes
+C5-C6 Aliphatics
+C5-C8 Aliphatic Hydrocarbons
+C5-C8 Aliphatic Hydrocarbons, Unadjusted
+C5-C8 Aliphatics
+C5-Fluoranthenes/pyrenes
+C5-Phenanthrenes/anthracenes
+C6-C8 Aliphatics
+C8-Alkylphenol
+C8-Alkylphenols
+C8-C10 Aliphatics
+C8-C10 Aromatics
+C9-C10 Aromatic Hydrocarbons
+C9-C10 Aromatics
+C9-C12 Aliphatic Hydrocarbons
+C9-C12 Aliphatic Hydrocarbons, Unadjusted
+C9-C12 Aliphatics
+C9-C18 Aliphatics
+C9-C18 Aliphatics, Unadjusted
+Cadmium
+Caffeine-13C
+Calcareous red algae
+Calcium-45
+Calcium hydroxide
+Calcium oxide
+Callinectes
+Cambarellus
+Cambarus
+Camptocladius
+Campylobacter jejuni
+Cancridae
+Cannabidiol
+Cannabinol
+Canopy Cover
+Canopy Cover, Left Bank
+Canopy Cover, Right Bank
+Canopy Measure
+Captafol
+Carbadox
+Carbamazepine 10,11 epoxide
+Carbamazepine-13C,D2
+Carbaryl C13
+Carbonate
+Carbonate Carbon
+Carbon black
+Carbon Delta 13
+Carbon Dioxide, fixed CO2
+Carbon Dioxide, free CO2
+Carbon fraction, particulate organic material
+Carbon monoxide
+Carbon/Nitrogen molar ratio
+Carbon Preference Index (CPI), Odd/Even Carbon Alkane Ratio
+Carbophenothion
+Carboxin
+Carboxy molinate
+Carcinogenic polycyclic aromatic hydrocarbons
+Cardiocladius
+Carfentanil
+Carisoprodol
+Carotenoids
+Catechol
+Cation exchange capacity
+Cations-Anions
+CEAT
+Cefotaxime
+Ceftiofur
+Celecoxib
+Celestolide
+Cell Volume
+Centrifuge Moisture Equivalent
+Ceraclea
+Ceriodaphnia
+Cerium-141
+Cerium-144
+Cernotina
+Cesium-134
+Cesium-136
+Cetirizine
+CFC-113a
+CFC-114
+Chaetocladius
+Chamber area
+Channel Alteration
+Channel alteration (text)
+Channel Constraining Feature (choice list)
+Channel Constraint - Can See Over Bank
+Channel Constraint (choice list)
+Channel depositional character (choice list)
+Channel Development
+Channel form (choice list)
+Channel Habitat Code
+Channelization Type
+Channel Length in Contact with Constraining Feature
+Channel Pattern (choice list)
+Channel Sinuosity
+Channel Stability
+Channel Substrate Characterization
+Channel type (choice list)
+Channel vegetative cover
+Chaoboridae
+Chelifera
+Cheumatopsyche
+Chimarra
+Chimera obscura COI gene
+Chirald
+Chironomus
+Chloral
+Chloral hydrate
+Chloramben
+Chloramben-methyl
+Chloramben methyl ester
+Chloramphenicol
+Chlorantraniliprole
+Chlorate
+Chlordene
+Chlordiazepoxide
+Chlordimeform
+Chlorethoxyfos
+Chlorfenson
+Chloride
+Chlorinated dioxins and furans -- 2,3,7,8 congeners only
+Chlorine-36
+Chlorine dioxide
+Chlorine dose
+Chlorine, Total Residual
+Chlorite
+Chloroacetonitrile
+Chloroaniline
+Chlorobenzene-d5
+Chlorodiiodomethane
+Chloroethane-d5
+Chloromethyl methyl ether
+Chloronaphthalene
+Chloroneb
+Chlorophyll A
+Chlorophyll a, collected/analyzed (YES/NO) (choice list)
+Chlorophyll a filter amount
+Chlorophyll a, non-photochemical
+Chlorophyll a - Periphyton (attached)
+Chlorophyll a - Phytoplankton (suspended)
+Chlorophyll a (probe relative fluorescence)
+Chloropicrin
+Chloroprene
+Chloropropylate
+Chlorosulfonamide acid
+Chlorotrifluoroethylene
+Chloroxuron
+Chlorpheniramine
+Chlorpropham
+Chlorpyrifos-d10
+Chlorpyrifos O.A.
+Chlorsulfuron
+Chlortetracycline
+Chlorthal
+Chlorthal monoacid and diacid degradates
+Chlorthal-Monomethyl
+Cholest-5-en-3-one
+Cholestane
+Chromium-51
+Chromium-52
+Chromium-53
+Chrysene + Triphenylene
+Chrysops
+Chrysotile asbestos
+Chydoridae
+CIAT
+Cimetidine-d3
+Cinerin I
+Cinerin II
+Cinnamaldehyde
+Ciprofloxacin
+Ciprofloxacin-13C3-15N
+Circulus Count (Fish)
+cis-1,2-Dimethylcyclopropane
+cis-1,4-Dichloro-2-butene
+Cis-2-Butene
+cis-2-Phenyl-2-butene
+cis-Chlordane
+cis-Cyhalothric acid
+(-)-cis-Permethrin
+(+)-cis-Permethrin
+Citalopram
+Citalopram-d6
+Citizens Qualitative Habitat Evaluation Index
+Citrobacter
+Cladopelma
+Cladophora, visual observation
+Clarithromycin
+CL DNA marker
+Clenbuterol
+Clethodim
+Clethodim sulfone
+Clethodim sulfoxide
+Clinafloxacin
+Clindamycin
+Clinocera
+Clinotanypus
+Clobazam
+Clodinafop-propargyl
+Clofibric acid
+Clomazone
+Clonazepam
+Clonidine
+Clonidine-d4
+Clopidogrel
+Clopidogrel carboxylic acid
+Clopyralid
+Cloransulam-methyl
+Clostoeca
+Clothianidin-d3
+Clothianidin-D3-Neg
+Clotrimazole
+Clotrimazole-d5
+Cloud cover (choice list)
+Cloud type (choice list)
+Cloxacillin
+Cnephia
+Cnidaria
+Coal
+Coarse Jabs
+Cobalt-57
+Cobalt-58
+Cobalt-59
+Cobalt-60
+Cobble 128 - 256 mm
+Cocaethylene
+Cocaethylene-D3
+Cocaine
+Cocaine-D3
+Codeine-D3
+coefficient of conservatism
+Cohesion
+Colchicine
+Colchicine-d6
+Coliforms
+Coliphage
+Coliphage, Male Specific (F+) Group IV
+Collothecidae
+Colobaea
+Colored dissolved organic matter (CDOM)
+Color, Forel-Ule scale (choice list)
+Composite flow volume, mean
+Composite flow volume, total
+Compression Index
+Concentrated sample volume
+Conchapelopia
+Condition class, based on thresholds
+Condition class, chemical (acid neutralizing capacity)
+Condition class, chemical (Conductivity/Salinity)
+Condition class (Dissolved oxygen (DO))
+Condition class, nutrient (Total Nitrogen)
+Condition class, nutrient (Total Phosphorus)
+Condition class, Riparian Disturbance
+Condition class, Riparian Vegetation
+Conditions Preventing Sampling
+Conductance
+Conductivity
+Consolidated-Undrained Triaxial Effective C
+Consolidated-Undrained Triaxial Effective friction angle
+Consolidated-Undrained Triaxial Total C
+Consolidated-Undrained Triaxial Total friction angle
+Constempellina
+Copper
+Coprostan-3-one
+Coral Bleached Cover
+Coral Diseased Cover
+Coral Percent Cover
+Cordylophora
+Coronene
+Corophium
+Corrosion & scaling control, Langelier Saturation Index
+Corrosion & scaling control, Ryznar Stability Index
+Coumestrol
+Count
+Count, class
+Counted area
+Count, species 25-30 mm size class
+Count, species 30-35 mm size class
+Count, species 35-40 mm size class
+Count, species 40-45 mm size class
+Count, species 45-50 mm size class
+Cover, species (%)
+COWM2 DNA marker (purified)
+CPQ_056 DNA marker
+CPQ_064 DNA marker
+Crangonyx
+Crayfish presence (choice list)
+Creosote
+Cricotopus
+Crocidolite Asbestos
+Cross Section
+Cross-section Depth
+Crude oil
+Cryptosporidium
+Cryptosporidium parvum
+Ctenophora
+Culex
+Culicidae
+Culicoides
+Culoptila
+Cumulative Precipitation Since Last Measurement
+Current (choice list)
+Current direction
+Current Precipitation (choice list)
+Cyanazine acid
+Cyanazine amide
+Cyanazine-amide
+Cyanic acid
+Cyanide, available
+Cyanides amenable to chlorination (HCN & CN)
+Cyanobacteria
+Cyanobacteria-specific geosmin geoA gene
+Cyanobacteria-specific methyl-isoborneol (MIB) mic gene
+Cyanobacteria, visual observation
+Cyantraniliprole
+Cyazofamid
+Cyclanilide
+Cyclaniliprole
+Cycloate
+Cyclododecane, 1,2,5,6,9,10-hexabromo-
+Cyclohexane, diethyl-
+Cyclohexanol
+Cyclohexanone
+Cyclohexene
+Cyclohexene, 4-methyl-1-(1-methylethyl)-
+Cyclohexyl isothiocyanate
+Cyclonite
+Cyclopenta[cd]pyrene
+Cyclopentane
+Cyclophosphamide
+Cyclophosphamide-d4
+Cyclopidae
+Cyclopoida
+Cyclopropanecarboxylic acid, 3-(2,2-dichloroethenyl)-2,2-dimethyl-, methyl ester, (1R,3R)-rel-
+Cyclopropane, ethyl-
+Cyclops
+Cyclotetramethylenetetranitramine
+Cyhalofop butyl
+Cyhalothrin
+Cyhalothrins
+Cylindrospermopsin gene cyrA
+Cymoxanil
+Cypermethrin***retired***use Beta Cypermethrin
+Cyproconazole
+Cyprosulfamide
+Cyrnellus fraternus
+Cyromazine
+Cysteic acid
+D2-Virginiamycin M1
+D3-1,7-Dimethylxanthine
+D3-Carbadox
+D3-Cefotaxime
+D3-Clarithromycin
+D3-Digoxigenin
+D3-Digoxin
+D3-Lincomycin
+d3-MeFOSAA
+D3-Naproxen
+D3-N-MeFOSA
+D3-Norgestimate
+D3-Ofloxacin
+D3-Tylosin
+d3-Valsartan
+d4-Amlodipine (2-aminoethoxy-d4)
+d4-Desmethyldiltiazem
+D4-Sulfadiazine
+D4-Sulfamerazine
+D4-Sulfamethizole
+D4-Sulfanilamide
+D4-Sulfathiazole
+d50-Tetracosane
+d5-Betamethasone
+D5-Diphenhydramine
+D5-Enrofloxacin
+d5-EtFOSAA
+d5-Fluticasone propionate
+D5-Miconazole
+D5-N-EtFOSA
+D5-Norfloxacin
+D5-Oxacillin
+D5-Oxolinic Acid
+D5-Penicillin G
+D5-Penicillin V
+D5-Triamterene
+D6-2-Hydroxy-ibuprofen
+D6-Dehydronifedipine
+D6-Ranitidine
+D6-Sulfadimethoxine
+d7-NMe-FOSE
+D7-Roxithromycin
+d7-Verapamil
+d8-Prednisone
+D8-Sarafloxacin
+D9 (+/-)11-nor-9-carboxy-delta-THC
+d9-NEt-FOSE
+Dacthal Acid Metabolites
+Dacthal metabolites (tetrachloroterephthalic acid and monomethyl tetrachloroterephthalic acid)
+Daidzein
+Daphnia
+Dasyhelea
+Data-logger operating voltage
+Daunomycin
+Daunorubicin-13C-d3
+Days since 0.25-0.5 inch precipitation event
+Days since 0.5-1.0 inch precipitation event
+Days since greater than 1.0 inch precipitation event
+DCPA mono-acid degradate
+DDD, o,o'-, o,p'-, and p,p'- isomers
+DDE, o,o'-, o,p'-, and p,p'- isomers
+DDMU
+DDT/DDD/DDE, sum of o,p' isomers
+DDT/DDD/DDE, sum of p,p' isomers
+Dead centric diatoms
+Dead pennate diatoms
+Decabromodiphenylethane
+Decabromodiphenyl ether
+Decabromodiphenyl oxide
+Decahydronaphthalene
+Decamethylcyclopentasiloxane
+Decane
+Decanoic acid, 4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-pentadecafluoro-
+Decapoda
+Dechloroacetochlor
+Dechloroalachlor
+Dechlorodimethenamid
+Dechlorofipronil
+Declination
+DEET-d7
+Deethylatrazine
+Deethylcyanazine
+Deethylcyanazine acid
+Deethylcyanazine amide
+Dehydroabietic acid
+Dehydroaripiprazole
+Dehydroaripiprazole hydrochloride
+Dehydrogenase
+Dehydrogenase (corrected for carbon content)
+Deiodo flubendiamide
+Deisoatrazine
+(-)-delta9-THC-d3
+delta chromium-53/chromium-52
+delta Chromium-53/chromium-52 analytical uncertainty
+delta hydrogen-2/hydrogen-1
+Deltamethrin mixt. with Tralomethrin
+Demeclocycline
+Demeton-methyl
+Demicryptochironomus
+Denitrifying bacteria
+Density as sigma-t
+Deoxygenation constant
+Deoxynivalenol
+Depth by Pole
+Depth by Sonar
+Depth, data-logger (ported)
+Depth, from bottom of the sediment core
+Depth from surface to lower boundary of soil layer
+Depth, max in sampling reach, estimated
+Depth, Midstream Left
+Depth, Midstream Right
+Depth, Net Beginning
+Depth, Net End
+Depth of measurement
+Depth, Photic zone includes bottom (Y/N) (choice list)
+Depth, Secchi disk depth
+Depth, Secchi disk depth reappears
+Depth, Secchi disk visible at bottom (Y/N) (choice list)
+Depth, snow cover
+Depth to Ground from Casing Rim
+Depth, total, from below top of casing
+Depth to water from rim of well casing
+Dero
+Desethylatrazine (iso-propyl-D7)
+Desethylatrazine***retired***use 2-Chloro-4-isopropylamino-6-amino-s-triazine
+Desethyl-desisopropyl Atrazine***retired***use 2-Chloro-4,6-diamino-s-triazine
+Desipramine
+Desisopropyl atrazine***retired***use 2-Choro-6-ethylamino-4-amino-s-triazine
+Desmedipham
+Desmethylcitalopram
+Desmethylvenlafaxine
+Desogestrel
+Desthio-prothioconazole
+Desulfinylfipronil
+Detergent, severity (choice list)
+Detritus Jabs
+Deuterium
+Deuterium, delta
+Deuterophlebia
+Dew point
+Dexamethasone
+Dextronorgestrel
+Dextrorphan
+Dextrorphan tartrate
+DG37 DNA marker
+Di(2-ethylhexyl) azelate
+Dialifor
+Diallyl phthalate
+Diamesa
+Diaphanosoma
+Diaptomus
+Diatom conversion factor
+Diatrizoic acid
+Diatrizoic acid-d6
+Diazepam
+Diazoxon
+Dibenz[a,c]anthracene
+Dibenz(a,h)+(a,c) Anthracene
+Dibenz[a,h]acridine
+Dibenzo(a,h)anthracene-D14
+Dibenzo[b,k]fluoranthene
+Dibenzothiophene, 4-methyl-
+Dibenzothiophene (C1-C3)
+Dibenzothiophene-D8
+Dibromoacetonitrile
+Dibromochloroacetonitrile
+Dibromochloronitromethane
+Dibromochloropropane
+Dibromodichloromethane
+Dibromofluoromethane
+Dibromoiodomethane
+Dibromonitromethane
+Dibusa angata
+Dibutyl chlorendate
+Dibutylstannanediylium
+Dibutyl terephthalate
+Dibutyltin dichloride
+Dichloran
+Dichloroacetonitrile
+Dichlorobiphenyl
+Dichlorodifluoromethane***retired***use CFC-12
+Dichloroethylene
+Dichlorofenthion***retired***use Dichlofenthion
+Dichloroiodomethane
+Dichloronaphthalene
+Dichloronitromethane
+Dichlorophenol
+Dichloropropane
+Dichloropropene
+Dichlorotoluene
+Dichlorotrifluoroethane
+Diclofenac
+Diclofenac, 4-hydroxy
+Diclofop
+Diclofop methyl
+Dicosmoecus
+Dicranota
+Dictya
+Dicyclohexyl adipate
+Dicyclohexyl phthalate
+Dicyclopentadiene
+Didemethyl hexazinone F
+Didymo Cover
+Diesel and residual range hydrocarbons
+Diesel fuel
+Diesel fuels no. 2
+Diethatyl ethyl
+Diethyl-1,1,1',1'-d4-stilbestrol-3,3',5,5'-d4
+Diethylene glycol
+Diethylene glycol monobutyl ether
+Diethylene glycol monobutyl ether acetate
+Diethylene glycol nonylphenol ether
+Diethylstilbesterol glucuronide
+Difenoconazole-D4
+Diflufenzopyr
+Digoxigenin
+Digoxin
+Diheptyl phthalate
+Dihexyl phthalate
+Dihydrocholesterol
+Dihydrocodeine
+Dihydromorphine
+Dihydrotestosterone
+Dihydrotestosterone-1,2,4,5a-d4
+Diisobutyl phthalate
+Diisodecyl phthalate
+Diisononyl phthalate
+Diisooctyl phthalate
+Diketonitrile isoxaflutole
+Dilantin
+Diltiazem-d6
+Dimerin
+Dimethachlor
+Dimethachlor ESA
+Dimethenamid OA
+Dimethoxymethane
+Dimethylnaphthalene
+Dimethylphenanthrene
+Dimethylphthalate-d6
+Dimethyl selenoxide
+Dimethyl terephthalate
+Dina
+Dinitrobenzene (All Isomers)
+Dinotefuran DN
+Dinotefuran UF
+Dioctyl adipate
+Dioxin-like PCB cogeners as 2,3,7,8-TCDD TEQs
+Dioxins and dibenzofurans
+Dipentyl phthalate
+Diphenhydramine-D3
+Diphenyl ether
+Diphenylhydrazine
+Diphenylmethane
+Diplectrona
+Diplocladius
+Dipropyl isocinchomeronate
+Diptera
+Discharge
+Discharge Description (text)
+Discharge Method
+Discharge, Mine
+Discharge - NBO - Float Distance
+Discharge - NBO - Float Time
+Discharge (stage unknown)
+Discoloration (Y/N) (choice list)
+Disopyramide
+Disruptive Pressures
+Dissolved gases
+Dissolved gases - saturation
+Dissolved microcystins plus nodularins
+Dissolved oxygen
+Dissolved oxygen (DO)
+Dissolved Oxygen***retired***use Dissolved Oxygen (DO)
+Dissolved oxygen uptake
+Dissolved solids
+Distance From Left Bank
+Distance from Shore to Riparian
+Distance to Thalweg from Stream Left
+Distillates (petroleum), hydrofined lubricating-oil
+Disulfoton oxon sulfone
+Disulfoton oxon sulfoxide
+Diuron Metabolite
+Dixa
+Dixidae
+DL-Amphetamine-D5
+Docosane
+Dodecafluoro-3H-4,8-dioxanonanoate
+Dodecamethylcyclohexasiloxane
+Dodecylbenzene
+Dolichopodidae
+Dolichospermum-specific microcystin (MC) mcyE gene
+Dolophilodes
+Dominant Habitat Type
+Dominant Land Use (choice list)
+Dominant Wolman Pebble Size/Range
+Domoic acid
+Donepezil
+Dotriacontane
+Doxepin
+Doxorubicin
+Doxycycline
+Drawdown level
+Drospirenone
+Drospirenone-13C3
+Dry Bulk Density of Soils
+Dry content
+Dry period preceding precipitation
+Dry Solids at 105 C
+Dry Solids at 60 C
+d-trans-Allethrin
+Dugesia
+Duloxetine
+Durenol
+Ecclisomyia
+Ecgonine Methyl Ester
+Ecgonine Methyl Ester-D3
+Ecgonine methyl ester hydrochloride
+Ectemnia
+EDDP perchlorate
+Edifenphos
+(E)-Dimethomorph
+(E,E)-Farnesol
+Efavirenz
+Eggs in Ovaries or Attached to Abdomen
+Einfeldia
+Elapsed Time Since Last Measurement
+Elevation
+Elevation, land surface, MSL
+Elevation, tailwater surface, MSL
+Emamectin benzoate
+Embeddedness
+Embeddedness, riffle (%)
+Emission intensity ratio
+Empididae
+Enalapril
+Enalaprilat
+Enalapril-d5
+Enchytraeidae
+Endochironomus
+Endosulfan and Metabolites
+Endosulfan ether
+Enrofloxacin
+Enterobacter
+Enterobacter cloacae***retired***use Enterobacter cloacae (Monera)
+Enterobacter***retired***use Enterobacter (Monera)
+Enterococci
+Enterohemorrhagic E. coli Shiga toxin-1 gene
+Enterohemorrhagic E. coli Shiga toxin-2 gene
+Enterohemorrhagic Escherichia coli
+Entrenchment ratio
+Ephydridae
+Epi-chlorotetracycline
+Epi-iso-chlorotetracycline
+Epi-oxytetracycline
+Epitestosterone
+Epi-tetracycline
+Epoicocladius
+Eprosartan
+epsilon-HCH
+EPTC-d14
+EPTC degradate R248722
+Equilenin
+Equilenin sulfate
+Equilin
+Equilin sulfate
+Equol
+Eriocera
+Erioptera
+Erosion Causes
+Erpobdella
+Erpobdellidae
+Erythrohydrobupropion
+Erythromycin
+Erythromycin A
+Erythromycin-anhydro
+Erythromycin-H20
+Escherichia coli
+Escherichia coli DNA
+Escherichia coli O157
+Escherichia coli proportional contribution by livestock (%)
+Escherichia coli RNA
+Escitalopram
+Estradiol
+Estriol
+Estriol 17-sulfate
+Estriol 3-glucuronide
+Estriol 3-sulfate
+Estriol-d2
+Estriol-d3
+Estrone 3-sulfate
+Estrone-d4
+Estrone glucuronide
+Estuary or ocean water surface elevation
+Ethaboxam
+Ethane, 1-chloro-1,1-difluoro-
+Ethanimidothioic acid, N-hydroxy-, methyl ester
+Ethanol
+Ethanol, 2-(4-nonylphenoxy)-
+Ethanone, 1-(2,4-dichlorophenyl)-
+Ethene
+Ethenylestradiol 3-glucuronide
+Ethinyl estradiol
+Ethinylestradiol 3-sulfate
+Ethion monooxon
+Ethofumesate
+Ethyl acetate
+Ethylene
+Ethylene glycol
+Ethylene glycol diethyl ether
+Ethylene glycol monobutyl ether
+Ethylene glycol monoethyl ether acetate
+Ethyl methacrylate
+Ethylparaben
+Ethyltoluene
+Etofenprox
+Etoposide
+Etoposide-d3
+Eucalyptol
+Eukiefferiella
+Euparyphus
+Europium-152
+Europium-154
+Europium-155
+Eusimulium
+Evaporation
+Exchangeable phosphorus
+Exotic Plant Removal Disturbance (choice list)
+Exotic plant species coverage
+External condition (text)
+Extractable fuel hydrocarbons (C13-C22 DRO)
+Extractable organic matter (EOM)
+Extract volume
+Ezetimibe
+Fadrozole
+Famotidine
+Famoxadone
+Fast Riffle
+Fats, oils, grease
+FBDE-69
+Fecal Bacteroidetes
+Fecal Coliform
+Fecundity
+Fenamidone
+Fenamiphos sulfoxide
+Fenarimol
+Fenbendazole
+Fenbutatin oxide
+Fenbutatin-oxide
+Fenhexamid
+Fenofibrate
+Fenoxaprop-ethyl
+Fenoxaprop-P-ethyl
+Fenpyroximate
+Fentanyl
+Fentanyl-d5
+Fenthion sulfone
+Fenthion sulfoxide
+Fentin
+Fenvalerate
+Fertilization
+Fexofenadine
+Field or Lab Anomaly
+Filamentous Algae Cover
+Filamentous Algae covering streambed (choice list)
+Filamentous Presence
+Filinia
+Filterable suspended solids
+Final Void Ratio
+Fine Jabs
+Fines < 2 mm, reach pebble count (%)
+Fipronil detrifluoromethylsulfinyl
+Fipronil sulfonate
+FireMaster BP 6
+Fish Anomalies - Deformities
+Fish Anomalies - Erosions
+Fish Anomalies - Lesions
+Fish Anomalies - Multiples
+Fish Anomalies - Tumors
+Fish condition factor
+Fish Cover - Artificial Structures (choice list)
+Fish Cover - Boulders (choice list)
+Fish Cover - Brush/Woody Debris <0.3m (SMALL) (choice list)
+Fish Cover - Filamentous Algae (choice list)
+Fish Cover - Live Trees or Roots (choice list)
+Fish Cover - Macrophytes (choice list)
+Fish Cover - Overhanging Veg. <=1m of Surface (choice list)
+Fish Cover - Undercut Banks (choice list)
+Fish Cover - Woody debris >0.3m (BIG) (choice list)
+Fish Description (text)
+Fish fork length
+Fish kill observation
+Fish Kill, Severity (choice list)
+Fish Kill (Y/N) (choice list)
+Fish Plug Collected (Y/N) (choice list)
+Fish presence (choice list)
+Fish Recaptured (Y/N) (choice list)
+Fish Sampling Irregularity (choice list)
+Fish Status After Sampling (choice list)
+Fish Tag Number (text)
+Fish Tissue Collected (Y/N) (choice list)
+Flash point
+Flatheaded mayfly COI gene
+Flavobacterium
+Flazasulfuron
+Floating algae mat - severity (choice list)
+Floating debris - severity (choice list)
+Floating debris (Y/N) (choice list)
+Floating Detergent/Soap - Severity (choice list)
+Floating foam/suds - severity (choice list)
+Floating foam/suds (Y/N) (choice list)
+Floating Garbage Severity (choice list)
+Floating Garbage Severity (choice List)
+Floating or submerged aquatic vegetation (choice list)
+Floating sewage - severity (choice list)
+Floating sewage (Y/N) (choice list)
+Floating sludge - severity (choice list)
+Floating solids or foam
+Floating solids, unspecified mix (choice list)
+Floating vegetation severity, choice list
+Flonicamid
+Flood Frequency
+Flood prone area width
+Florpyrauxifen-benzyl
+Flow, in conduit or treatment plant
+Flow, severity (choice list)
+Flow, stream class (choice list)
+Flow stream stage (choice list)
+Flow, stream stage (choice list)
+Fluazaindolizine
+Fluazifop-butyl
+Fluazinam
+Flubendiamide
+Flucarbazone
+Flucarbazon-sodium
+Flucythrinate
+Flufenacet
+Flufenacet ESA
+Flufenacet OA
+Fluindapyr
+Flumequine
+Flumetralin
+Flunitrazepam
+Fluocinonide
+Fluopicolide
+Fluopyram
+Fluoranthenes and pyrenes, total
+Fluorene,2,4A-Dihydro-
+Fluorene-d10
+Fluorescence, excitation 260 emission 450
+Fluorescence, excitation 275 emission 304
+Fluorescence, excitation 275 emission 340
+Fluorescence, excitation 280 emission 370
+Fluorescence, excitation 300 emission 390
+Fluorescence, excitation 340 emission 440
+Fluorescence, excitation 370 emission 460
+Fluorescence, excitation 390 emission 510
+Fluorescence, excitation 420 emission 460
+Fluorescence index
+Fluorine
+Fluoroethyldiaminotriazine (FDAT)
+Fluorotelomer sulfonate 4:2
+Fluorotelomer sulfonate 8:2
+Fluoxastrobin
+Fluoxetine
+Fluoxetine-d5
+Fluoxetine-D6
+Fluoxetine hydrochloride
+Flupyradifurone
+Flurazepam
+Fluroxypyr
+Fluroxypyr 1-methylheptyl ester
+Flurprimidol
+Flusilazole
+Fluthiacet-methyl
+Flutianil
+Flutianil OC 56574
+Flutianil OC 56635
+Fluticasone propionate
+Flutriafol
+Fluvalinate
+Fluvoxamine
+Folpet
+Fomesafen
+Fonofos oxon
+Foramsulfuron
+Forb Coverage
+Forcipomyia
+Forest Age (choice list)
+Formaldehyde
+Formate
+Formetanate hydrochloride
+Formic acid
+Formononetin
+Free Liquids
+Free mineral acidity (FMA)
+FrictionAngle
+FtS 4:2 ion
+FtS 6:2 ion
+FtS 8:2 ion
+Fucoxanthin
+Fuel, Diesel Range (C10-C22)
+Fuel, Diesel Range (C10-C28)
+Fuel, Diesel Range (C10-C32)
+Fuel, Diesel Range (C22-C32)
+Fuel, Diesel Range (C28-C36)
+Fuel, Gasoline Range (C10-C28)
+Fuel, Gasoline Range (C6-C10)
+Fuel oil #6
+Fuel oil no. 2
+Full Channel cross-sectional area
+Fungi
+Furosemide
+Furosemide-d5
+Gabapentin
+Gage height***retired***use Height, gage
+.gama.-Hexachlorocyclohexane
+gamma-Chlordane***retired***use 2,2,4,5,6,7,8,8-Octachloro-2,3,3a,4,7,7a-hexahydro-4,7-methano-1H-indene
+.gamma.-Chlordene
+.gamma.-Cyhalothrin
+Gamma-cyhalothrin
+Gamma radiation
+Gammaridae
+Gammarus
+Gas bubble severity (choice list)
+Gasoline
+Gasoline Range Organics (C6-C9)
+Gas Range Organics (C6-C10)
+Gemfibrozil
+Gemfibrozil-D6
+GenBac DNA marker
+General observation (text)
+General pathology (text)
+Geology Description (text)
+Geomorphic Surfaces Description (text)
+Geomorphic Surface Type (choice list)
+Germanium
+Gestodene
+Giardia
+Giardia lamblia
+Gillnet Selectivity (choice list)
+Glipizide
+Glipizide-d11
+Glossiphonia
+Glossiphoniidae
+Glossosoma
+Glossosomatidae
+Glufosinate
+Glufosinate-d3
+Glyburide
+Glyburide-d3
+Glycine
+Glycine-7-amido-4-methylcoumarin
+Glycine, N-[(1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluorooctyl)sulfonyl]-
+Glycol hydrolyzing bacteria
+Glyphosate-C13N15
+Goeldichironomus
+Goera
+Goeridae
+Gonomyia
+Gradient
+Grain size, clay (<0.001 MM) - Percent Passing
+Grain size, clay (<2 um)
+Grain size, fine silt (>=2 to 6.3 um)
+Grain size, medium silt (>=6.3 to 20 um)
+Graminoid coverage
+Gravel
+Griseofulvin
+Gross Alpha radioactivity
+Gross Beta radioactivity
+Gross beta radioactivity, (Strontium-Yttrium-90 ref std)
+Ground cover
+Ground coverage bare
+Ground Coverage Bare (choice list)
+Ground Coverage Herbaceous (choice list)
+Ground Cover Standing Water (choice list)
+Growth
+Guaiacol
+Guanylurea
+Habitat cover, brush and log (%)
+Habitat Cover Extent
+Habitat Cover, Filamentous Algae (choice list)
+Habitat Cover, Macrophytes (choice list)
+Habitat Cover, other (%)
+Habitat Cover, Periphyton (choice list)
+Habitat Cover Type
+Habitat Quality (choice list)
+Habitat Type (choice list)
+Halauxifen acid
+Halauxifen-methyl
+Halides
+Halocladius
+Halofenozide
+Halogen
+Halogenated organics
+Haplotaxidae
+Hardness
+Harmful Algal Blooms Present (Y/N) (choice list)
+Harnischia
+Harnischia curtilamellata
+Harpacticoida
+Hartmannella
+HCFC-123
+HCFC-123A
+HCFC-31
+Head Capsule Width
+Helicobacter pylori
+Helicopsyche
+Helius
+Helobdella
+Hemerodromia
+Hentriacontane
+Hepatitis-A virus
+Heptachlor epoxide A
+Heptachlorobiphenyl
+Heptacosane
+Heptafluorobutyric acid***retired***use Perfluorobutanoic acid
+Heptanal
+Heptane
+Heptane, 2,3,6-trimethyl-
+Heptanoic acid, 2-ethyl-
+Heptatriacontane
+Herbicide mix, unspecified
+Heroin-D9
+Hesperophylax
+Heterotrissocladius
+Heterotrophic bacteria
+Hexabromocyclododecane
+Hexabromocyclododecane, alpha-
+Hexabromocyclododecane, beta-
+Hexabromocyclododecane, gamma-
+Hexabromodiphenyl ether
+Hexachlorobenzine
+Hexachlorobiphenyl
+Hexachlorobutene
+Hexachlorocyclohexane
+Hexachlorophene
+Hexacosane
+Hexadecane, 2,6,11,15-tetramethyl-
+Hexaflumuron
+Hexafluoropropylene oxide dimer acid
+Hexafluoropropylene oxide-dimer acid
+Hexaldehyde
+Hexa(methoxy)methylmelamine (HMMM)
+Hexamethylcyclotrisiloxane
+Hexamethylenetetramine
+Hexanal, 2-ethyl-
+Hexane
+Hexane Extractable Material (HEM)
+Hexanoic acid
+Hexanoic acid, 4,4,5,5,6,6,6-heptafluoro-***retired***use 3:3 Fluorotelomer carboxylic acid
+Hexanol
+Hexatoma
+Hexatriacontane
+Hexavalent chromium compounds
+Hexazinone Transformation Product C
+Hexazinone Transformation Product D
+Hexazinone Transformation Product E
+Hexazinone Transformation Product G
+Hexythiazox
+HF183/BacR287 DNA marker
+HFC-152a
+High-temperature coal tar pitch
+Hilsenhoff Biotic Index
+Hind Femur Length
+Hindwing Length
+Hirudo
+Holopedium
+Holorusia
+Homoanatoxin
+HorBac DNA marker
+Horiz.Dist.Undercut Banks
+Horizontal Distance from waterline to high water mark
+Hornblende amphibole***retired***use 2,5,2',5'-Tetrachlorobiphenyl
+Human adenovirus
+Human enterovirus
+Human Influence - Buildings (choice list)
+Human Influence: Commercial (choice list)
+Human Influence: Docks/Boats (choice list)
+Human Influence - Landfill/Trash (choice list)
+Human Influence - Logging Operations (choice list)
+Human Influence - Mining Activity (choice list)
+Human Influence: Orchard (choice list)
+Human Influence: Park Facilities/Man-Made Beach (choice list)
+Human Influence - Park/Lawn (choice list)
+Human Influence - Pasture/Range/Hay Field (choice list)
+Human Influence - Pavement/Cleared Lot (choice list)
+Human Influence - Pipes (Inlet/Outlet) (choice list)
+Human Influence: Power Lines (choice list)
+Human Influence - Road/Railroad (choice list)
+Human Influence - Row Crops (choice list)
+Human Influence - Wall/Dike/Revetment/Riprap/Dam (choice list)
+Human Lachnospiraceae bacteria
+Human Lachnospiraceae - Lachno3 gene
+Human norovirus
+Human polyomavirus
+human-specific Bacteroides species
+Humification index
+Hydatophylax
+Hydra
+Hydraulic Oil
+Hydraulic radius
+Hydraulic Structure (choice list)
+Hydrazine
+Hydridae
+Hydrobaenus
+Hydrocarbons, C25-36
+Hydrocarbons, C>28-C40
+Hydrocarbons, C6 and higher-molecular-weight
+Hydrocarbons, Chlorinated (Unspecified Mix)
+Hydrocarbons, heating value
+Hydrocarbons, total purgeable
+Hydrocarbons, volatile
+Hydrochlorothiazide
+Hydrocinnamic acid
+Hydrocodone-D6
+Hydrocortisone
+Hydrocortisone-d4
+Hydrogen cyanide
+Hydrogen phosphate
+Hydrograph limb (choice list)
+Hydroida
+Hydrologic Influence: Culverts (choice list)
+Hydrologic Influence: Overbank flooding (choice list)
+Hydrologic Influence: Precipitation (choice list)
+Hydrologic Influence: Springs (choice list)
+Hydrologic Stressors: Animal Trampling (choice list)
+Hydrologic Stressors: Berms (choice list)
+Hydrologic Stressors: Ditches (choice list)
+Hydrologic Stressors: Field Drainage tiling (choice list)
+Hydrologic Stressors: Roads (choice list)
+Hydrologic Stressors: Vehicle ruts (choice list)
+Hydrolyzable phosphorus
+Hydrolyzable phosphorus plus orthophosphate
+Hydromorphone
+Hydromorphone-D3
+Hydromorphone hydrochloride
+Hydrophilic fraction of organic carbon
+Hydrophobic fraction of organic carbon
+Hydrophorus
+Hydropsychidae
+Hydroptila
+Hydroptilidae
+Hydrostatic head difference
+Hydroxy-amitriptyline, 10-
+Hydroxyatrazine
+Hydroxybupropion
+Hydroxydiazinon
+Hydroxy didemethyl fluometuron
+Hydroxydimethenamid
+Hydroxyfluometuron
+Hydroxy-ibuprofen, 2-
+Hydroxy monodemethyl fluometuron
+Hydroxyphthalazinone
+Hydroxytebuthiuron
+Hydroxyzine
+Hydrozoa
+Hypolimnion
+Ibuprofen-13C3
+Ibuprofen-d3
+Ice cover, floating or solid, as % area estimate
+Ice cover, floating or solid - severity (choice list)
+Ice thickness
+Ice thickness, submerged
+Ignitability
+Imazamethabenz acid
+Imazamethabenz-methyl
+Imazapic
+Imazosulfuron
+Imidacloprid-d4
+Imidacloprid desnitro
+Imidacloprid desnitro-olefin
+Imidacloprid desnitro-olefin hydrochloride
+Imidacloprid-olefin
+Imidacloprid-urea
+Iminostilbene
+Imipramine
+Immediate oxygen demand
+Impermeable Layer Present (Y/N) (choice list)
+Incised Height
+Indan
+Indaziflam
+Indene
+Indeno (1,2,3-cd) perylene
+Indium-111
+Individuals examined, embryos
+Individuals examined, gravid
+Individuals examined, no gravid
+Indoxacarb
+Inhibited biochemical oxygen demand
+Initial Matrix Color (soil)
+Initial Void Ratio
+Inorganic antimony(III)
+Inorganic monomeric aluminum
+Inorganic nitrogen
+Inorganic nitrogen (nitrate and nitrite and ammoni
+Inorganic nitrogen (nitrate and nitrite) as N
+Inorganic nitrogen (nitrate and nitrite) ***retired***use Nitrate + Nitrite
+Inpyrfluxam
+Insecta
+Insect Infestation Disturbance (choice list)
+Instream Cover (%)
+Instream feature, stream substrate (choice list)
+Instream Snags
+Intergravel Dissolved Oxygen
+Inundated or Saturated in Pit (Y/N) (choice list)
+Inundation Evidence: Algal mat or crust (choice list)
+Inundation Evidence: Aquatic invertebrates (choice list)
+Inundation Evidence: Biotic crust (choice list)
+Inundation Evidence: Drainage patterns (choice list)
+Inundation Evidence: Drift Deposits (choice list)
+Inundation Evidence: Iron deposits (choice list)
+Inundation Evidence: Marl deposits (choice list)
+Inundation Evidence: Moss trim lines (choice list)
+Inundation Evidence: Salt crust (choice list)
+Inundation Evidence: Sediment deposits (choice list)
+Inundation Evidence: Sparesely vegetated concave surfaces (choice list)
+Inundation Evidence: Surface soil cracks (choice list)
+Inundation Evidence: True aquatic plants (choice list)
+Inundation Evidence: Water marks (choice list)
+Inundation Evidence: Water stained leaves (choice list)
+Invasive species found (choice list)
+Invasive Species Name
+Invasive Species Prevalence
+Iodine-123
+Iodine-129
+Iodine-131
+Iodine-132
+Iodine-133
+Iodomethane-d3
+Iohexol
+Iohexol-d5
+Ion Balance
+Ion Balance Difference
+Iopamidol
+Iopamidol-d8
+Iopromide
+Iopromide-d3
+Ioxynil
+Ipconazole
+Irbesartan
+Iridium
+Iron
+Iron-54
+Iron-56
+Iron-59
+Iron + aluminum mix
+Iron(II)/Iron(III)
+Iron + manganese mix
+Iron-related bacteria
+Irradiance (Seabird)
+Isatidine
+Isazofos
+Isobenzan
+Isobutane
+Isobutanol
+Isobutene
+Isobutyl acetate
+Iso-chlorotetracycline
+Isochlortetracycline
+Isoepichlorotetracycline
+Isofetamid
+Isomer/Congener 126+178 mixture
+Isomer/Congener 136+163 mixture
+Isomer/Congener 157+201 mixture
+Isopimaric acid
+Isoprenoid RRT 1380
+Isoprenoid RRT 1470
+Isopropalin
+Isopropanol
+Isopropyl acetate
+Isopropyl ether
+Isopropyl palmitate
+Isoproturon
+Isoxaben
+Isoxaflutole
+Ithytrichia
+Ivermectin
+Jasmolin I
+Jasmolin II
+Jet Fuel A
+Kellicottia
+Keratella
+Kerosene
+Kerosene Range Organics
+Ketoconazole
+Ketoprofen
+Kick Depth
+Kick Time
+Kidneyshell COI gene
+Kiefferulus
+Kjeldahl nitrogen
+Klebsiella
+Kresoxim-methyl
+Krypton-78
+Krypton-78/Krypton-84 error
+Krypton-78/Krypton-84 ratio
+Krypton-80
+Krypton-80/Krypton-84 error
+Krypton-80/Krypton-84 ratio
+Krypton-81
+Krypton-81 error
+Krypton-82
+Krypton-82/Krypton-84 error
+Krypton-82/Krypton-84 ratio
+Krypton-83
+Krypton-83/Krypton-84 error
+Krypton-83/Krypton-84 ratio
+Krypton-84
+Krypton-85
+Krypton-85 error
+Krypton-86
+Labeled 1,2,3,4,5,6,7,8-Octachloronaphthalene
+Labeled 1,2,3,4,6,7,8-Heptachlorodibenzofuran
+Labeled 1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin
+Labeled 1,2,3,4,7,8-Hexachlorodibenzofuran
+Labeled 1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin
+Labeled 1,2,3,5,6,7-Hexachloronaphthalene
+Labeled 1,2,3,5,7-Pentachloronaphthalene
+Labeled 1,2,3,6,7,8-Hexachlorodibenzofuran
+Labeled 1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin
+Labeled 1,2,3,7,8,9-Hexachlorodibenzofuran
+Labeled 1,2,3,7,8-Pentachlorodibenzofuran
+Labeled 1,2,3,7,8-Pentachlorodibenzo-p-dioxin
+Labeled 1,3,5,7-Tetrachloronaphthalene
+Labeled 2,3,4,6,7,8-Hexachlorodibenzofuran
+Labeled 2,3,4,7,8-Pentachlorodibenzofuran
+Labeled 2,3,7,8-Tetrachlorodibenzofuran
+Labeled 2,3,7,8-Tetrachlorodibenzo-p-dioxin
+Labeled Decabromodiphenyl Ether
+Labrundinia
+Lactic Acid
+Lactofen
+Lake Area
+Lake condition (choice list)
+Lake Depth Strata (choice list)
+Lake or reservoir elevation
+Lake physical appearance (choice list)
+Lake recreational suitability (choice list)
+Lake suitability for recreation (choice list)
+Lake surface condition (choice list)
+Lake water level (choice list)
+L-Alanine-7-amido-4-methylcoumarin
+L-alanine (corrected for carbon content)
+Lamivudine
+Lamotrigine
+Lamotrigine N2-glucuronide
+Land Cover (choice list)
+Land form (choice list)
+Land form, Left (choice list)
+Land Form, Right (choice list)
+Landuse
+Langelier index (pH's)
+Lanthanum-140
+Large Woody Debris - LWD density (choice list)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.1-<0.3m; Len:1.5-5m)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.1-<0.3m; Len:>15m)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.1-<0.3m; Len:5-15m)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.3-<0.6m; Len:15-30m)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.3-<0.6m; Len:1.5-5m)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.3-<0.6m; Len:>15m)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.3-<0.6m; Len:>30m)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.3-<0.6m; Len:5-15m)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.6-<0.8m; Len:15-30m)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.6-<0.8m; Len:1.5-5m)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.6-<0.8m; Len:>15m)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.6-<0.8m; Len:>30m)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.6-<0.8m; Len:5-15m)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.8-<1.0m; Len:15-30m)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.8-<1.0m; Len:>30m)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:0.8-<1.0m; Len:5-15m)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:>0.8m; Len:1.5-5m)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:>0.8m; Len:>15m)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:>0.8m; Len:5-15m)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:>1.0m; Len:15-30m)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:>1.0m; Len:>30m)
+Large Woody Debris Pieces All/Part in BankFull Channel (Dia:>1.0m; Len:5-15m)
+Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.3-<0.6m; Len:15-30m)
+Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.3-<0.6m; Len:>30m)
+Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.3-<0.6m; Len:5-15m)
+Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.6-<0.8m; Len:15-30m)
+Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.6-<0.8m; Len:>30m)
+Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.6-<0.8m; Len:5-15m)
+Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.8-<1.0m; Len:15-30m)
+Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.8-<1.0m; Len:>30m)
+Large Woody Debris Pieces All/Part in Wetted Channel (Dia:0.8-<1.0m; Len:5-15m)
+Large Woody Debris Pieces All/Part in Wetted Channel (Dia:>1.0m; Len:15-30m)
+Large Woody Debris Pieces All/Part in Wetted Channel (Dia:>1.0m; Len:>30m)
+Large Woody Debris Pieces All/Part in Wetted Channel (Dia:>1.0m; Len:5-15m)
+Large Woody Debris Pieces Bridge Above BankFull Channel (Dia:0.1-<0.3m; Len:1.5-5m)
+Large Woody Debris Pieces Bridge Above BankFull Channel (Dia:0.1-<0.3m; Len:>15m)
+Large Woody Debris Pieces Bridge Above BankFull Channel (Dia:0.1-<0.3m; Len:5-15m)
+Large Woody Debris Pieces Bridge Above BankFull Channel (Dia:0.3-<0.6m; Len:1.5-5m)
+Large Woody Debris Pieces Bridge Above BankFull Channel (Dia:0.3-<0.6m; Len:>15m)
+Large Woody Debris Pieces Bridge Above BankFull Channel (Dia:0.3-<0.6m; Len:5-15m)
+Large Woody Debris Pieces Bridge Above BankFull Channel (Dia:0.6-<0.8m; Len:1.5-5m)
+Large Woody Debris Pieces Bridge Above BankFull Channel (Dia:0.6-<0.8m; Len:>15m)
+Large Woody Debris Pieces Bridge Above BankFull Channel (Dia:0.6-<0.8m; Len:5-15m)
+Large Woody Debris Pieces Bridge Above BankFull Channel (Dia:>0.8m; Len:1.5-5m)
+Large Woody Debris Pieces Bridge Above BankFull Channel (Dia:>0.8m; Len:>15m)
+Large Woody Debris Pieces Bridge Above BankFull Channel (Dia:>0.8m; Len:5-15m)
+L-Arginine-7-amido-4-methylcoumarin
+L-arginine aminopeptidase (corrected for carbon content)
+Larsia
+Lasalocid
+Lasiodiamesa
+Latitude, Bank
+Latitude, Midstream
+Lauric acid
+Lauterborniella
+Lead
+Lead-206/lead-204
+Lead-207/lead-204
+Lead-208/lead-204
+Lead-212
+Lead-214
+Leaf Status (choice list)
+Lederfen
+Ledge Cover (%)
+Length evaluation, subset
+Length, Partial (Fish)
+Lepidoptera
+Lepidostoma
+Leptoceridae
+Leptocerus
+Leptodora
+Leucotrichia
+Levonorgestrel
+Levorphanol
+L-glycine aminopeptidase (corrected for carbon content)
+Life stage (choice list)
+Life style/habitat
+Light, incident + reflected (ambient)
+Light, (PAR at depth/PAR at surface) x 100
+Light, path
+Light, transmissivity
+Light, underwater reflected
+Lignosulfonic acid
+Lime (chemical), dolomitic
+Lime Demand
+Limnephilidae
+Limnephilus
+Limnodrilus
+Limnophila
+Limnophora
+Limonene
+Lincomycin
+Lindane-D6
+Linoleic acid
+Lipid (dry) content
+Lipid (wet) content
+Liquidity Index
+Liquid limit
+Lirceus
+Liriope
+Lispe
+Lithium-7/Lithium-6 ratio
+Litter Coverage
+Littoral Fish Microhabitat: Cover Class
+Littoral Fish Microhabitat: Cover Type
+Littoral Fish Microhabitat: Human Disturbance
+Littoral Substrate - Bottom Dominant
+Littoral Substrate - Bottom, Method of Determining
+Littoral Substrate - Bottom Secondary
+Littoral Substrate - Shore Dominant
+Littoral Substrate - Shore Secondary
+Live centric diatoms
+Live pennate diatoms
+Livestock Trampling or Grazing Disturbance (choice list)
+L-Leucine 7-amido-4-methylcoumarin
+L-leucine aminopeptidase (corrected for carbon content)
+Lloyd - Zar - Karr Species Diversity Index
+Location in cross section, distance from left bank looking downstream
+Log Cover (%)
+Lomefloxacin
+Longitude, Bank
+Longitude, Midstream
+Loons, visual observation
+Loperamide
+Lorazepam
+Lorazepam glucuronide
+Low bank height
+Low bank height ratio
+Low-level Mercury
+Lumbriculidae
+Lumbriculus
+LWD_lg_anc
+LWD_lg_bch
+LWD_lg_wet
+LWD_sm_anc
+LWD_sm_bch
+LWD_sm_wet
+Lype
+Macro Algae Stream Reach Coverage Average
+Macrobrachium
+Macrohabitat Type - Channel Crossover
+Macrohabitat Type - Constrained Channel
+Macrohabitat Type - Inside Bend
+Macrohabitat Type - Other Channel Type
+Macrohabitat Type - Outside Bend
+Macrohabitat Type - Tributary Mouth
+Macrohabitat Type - Unconstrained Channel
+Macroinvertebrate Dominant Habitat
+Macroinvertebrate Habitat Channel Type
+Macroinvertebrate Habitat Substrate Type
+Macroinvertebrate Secondary Habitat
+Macronema
+Macropelopia
+Macrophyte cover
+Macrophytes covering streambed (emergent and submerged) (choice list)
+Macrophytes Extend Lakeward (choice list)
+Macrothricidae
+Magnesium
+Mandipropamid
+m and p-Cresol
+Manganese-54
+Manning's coefficient
+Margalef Taxonomic Diversity Index
+Maruina
+Matric potential
+Maximum total trihalomethane potential
+Max Pool Width
+Mayatrichia
+m-Chloronitrobenzene
+m-Chlorophenol
+m-Chlorophenylpiperazine
+MCPB
+m-Cresol compd. with p-cresol (2:1)
+m-cresol mixt. with p-phenol
+m-Cymene
+MDA
+MDEA
+MDMA
+Mean PEC Quotient, All analytes
+Mean PEC Quotient, Metals
+Mean PEC Quotient, PAHs
+Mean PEC Quotient, PCBs
+Measured reach length
+Meclofenamic acid
+Meclofenamic acid-d4
+Mecoprop-p (mcpp-p)
+Medroxyprogesterone
+Medroxyprogesterone acetate
+Medroxyprogesterone acetate-d6
+Mefenamic acid
+Mefenamic acid 3-hydroxy methyl
+Mefentrifluconazole
+Megestrol acetate
+Melengestrol acetate
+Melphalan
+Melphalan-d8
+Menthol
+Meperidine
+Mephobarbital
+Mesh Bar Size (Fish)
+Mesh Type (choice list)
+Mesityl oxide
+Mesocyclops
+Mesosulfuron-methyl
+Mesotrione
+Mestranol
+Metacnephia
+Metalaxyl degradate
+Metalaxyl-M
+meta & para Xylene mix***retired***use m,p-Xylene
+Metaxalone
+Metformin-d6
+Methacrylic acid
+Methacrylonitrile
+Methadone
+Methadone-D3
+Methamphetamine
+Methamphetamine-D8
+Methaneselenonic acid
+Methanesulfonamide, 1,1,1-trifluoro-N-[(trifluoromethyl)sulfonyl]-
+Methanol
+Methanone, bis(4-chlorophenyl)-
+Methidathion
+Methiocarb sulfone
+Methiozolin
+Methocarbamol
+Methotrexate
+Methyl acetate
+Methyl Acrylate
+Methylanthracene
+Methylarsonic acid
+Methylcyclohexane
+Methylcyclopentane
+Methyldibenzothiophene
+Methylfluorene
+Methyl isoamyl ketone
+Methyl methacrylate
+Methylparaben
+Methyl paraoxon
+Methyl perfluoro-3,6-dioxaheptanoate
+Methylphenanthrene
+Methylphenidate
+Methylphosphinicopropionic acid
+Methylprednisolone-d3
+Methylseleninic Acid
+m-Ethyltoluene
+Methyl trans-3-(2,2-dichlorovinyl)-2,2-dimethylcyclopropane-1-carboxylate
+Metolachlor ESA
+Metolachlor hydroxy morpholinone
+Metoprolol
+Metoprolol-d7
+Metribuzin DK
+Metriocnemus
+Metronidazole
+Metronidazole-d4
+Metsulfuron
+Mevastatin
+Mexacarbate
+m-Hydroxybenzoylecgonine
+Miconazole
+Micrasema
+Micro Algae Stream Reach Thickness Average
+Microcricotopus
+Microcystin dLR
+Microcystin dRR
+Microcystin HiLR
+Microcystin HtYR
+Microcystin LR [DAsp3]
+Microcystin LR [Dha7]
+Microcystin LR [D-Leu1]
+Microcystin/nodularin genes mcyE/ndaF
+Microcystin RR [DAsp3]
+Microcystins/nodularin
+Microcystis
+Microcystis-specific Microcystin (MC) mcyE gene
+Microhabitats found
+Micrometer Conversion Factor, crustaceans
+Micrometer Conversion Factor, rotifers
+Micrometer units
+Micropsectra
+Microtendipes
+Mikrocodides
+Mineral Spirit Range Organics
+Minocycline
+m-Nitrophenol
+Modafinil
+Modafinil acid
+Molanna
+Molybdenum-99
+Momfluorothrin
+Monensin
+Mono(2-ethylhexyl) adipate
+Monobutyltin***retired***use Stannanetriylium, butyl-
+Monochlorobiphenyl
+Monocrotaline
+Monocrotaline N-oxide
+Monodiamesa
+Monoethylglycinexylidide
+Monomeric aluminum
+Monomethylarsonate
+Monomethylarsonic acid***retired***use Methylarsonic acid
+Montelukast
+Monuron
+Morphinan-3,6-diol, 7,8-didehydro-4,5-epoxy-17-methyl-(5.alpha.,6.alpha.)-, 3,6-diacetate
+Morphinan-6-one, 4,5-epoxy-14-hydroxy-3-methoxy-17-methyl-, (5.alpha.)-
+Morphine
+Morphine-d6
+Morpholine, 3-methyl-2-phenyl-
+Moselyana
+Moss Stream Reach Coverage Average (choice list)
+Motor oil
+Motor oil range organic compounds
+Mottles Present (Y/N) (choice list)
+Moxifloxacin
+Moxifloxacin-13C-d3
+m,p-Cresol
+Muscidae
+Musk Indane
+Musk ketone
+Musk Tibetene
+Mussels observed (choice list)
+Mycobacterium
+Mycophenolate mofetil
+Myristic acid
+Mysidacea
+Mystacides
+N-(2-chloro-5-thiazolyl methyl)-N'-nitroguanidine
+N-(2-chloro-5-thiazolyl methyl)-N'-nitroguanidine (TZNG)
+Nadolol
+Naegleria
+Naididae
+Nais
+n-Amyl acetate
+Naphthacene
+Naphthalene, 1,2,3,4,5,6,7-heptachloro-
+Naphthalene, 1,2,3,4,5,6,8-heptachloro-
+Naphthalene, 1,2,3,4,6-pentachloro-
+Naphthalene, 1,2,3,5,7-pentachloro-
+Naphthalene, 1,2,3,5,8-pentachloro-
+Naphthalene, 1,2,3-trichloro-
+Naphthalene,1,2,3-trimethyl-4-(1E)-1-propen-1-yl-
+Naphthalene, 2,7-dichloro-
+Naphthalene, 2-bromo-
+Naphthalene,2-methyl-1-propyl-
+Naphthalene (C1-C4)
+Naphthalene, decahydro-, trans-
+Naphthalene, heptachloro-
+Naphthalene, tetrachloro-
+Naphtho[1,2-b]furan, 2,3-dihydro-2-(1-methylethenyl)-
+Naphtho[2,3-B]thiophene,4,9-D
+Narasin
+Natarsia
+Natural Gasoline
+n-Butyl acetate
+N-Butylbenzenesulfonamide
+N-cyclohexyl-1.3-benzothiazole-2-amine
+Nearest Buoy Identifier (text)
+Nearest Net Identifier (text)
+Neburon
+Nectopsyche
+Nematoda
+Nematomorpha
+Nemotelus
+Nemoura
+Nemouridae
+Neoabietic acid
+Neodymium-147
+Neon-20
+Neon-21/Neon-22 error
+Neon-21/Neon-22 ratio
+Neon-22
+Neophylax
+Neothremma
+Neotrichia
+Neptunium-237
+Neptunium-239
+Nereis
+Nestorone
+N-Ethyl-N-(2-hydroxyethyl)perfluorooctanesulfonamide
+N-ethyl perfluoro-1-octanesulfonamide
+N-Ethylperfluorooctane-1-sulfonamide
+N-ethyl Perfluorooctane sulfonamide
+N-Ethylperfluorooctanesulfonamide (N-EtFOSA) (D5, 98%)
+N-Ethylperfluorooctanesulfonamidoacetate
+N-ethyl perfluorooctanesulfonamidoacetic acid
+N-Ethyl-perfluorooctane sulfonamido acetic acid
+N-Ethylperfluorooctanesulfonamidoacetic acid (N-EtFOSAA) (N-ethyl-D5, 98%)
+N-Ethylperfluorooctanesulfonamidoethanol
+N-Ethyl perfluorooctane sulfonamido ethanol
+Neureclipsis
+Nevirapine
+Nickel-59
+Nickel-63
+Nicotinamide
+Nifedipine
+Nilotanypus
+Nilothauma
+Niobium-95
+Nitenpyram
+Nithiazine
+Nitrapyrin
+Nitrate
+Nitrate-N
+Nitrate + Nitrite
+Nitrate-Nitrite
+Nitrate-nitrogen
+Nitrate-Nitrogen
+Nitrate-reducing bacteria
+Nitrazepam
+Nitrite
+Nitrite-N
+Nitrocellulose
+Nitrogen-15/nitrogen-14, ratio
+Nitrogen-15/Nitrogen-14 ratio
+Nitrogen, ammonia (NH3) as NH4
+Nitrogen, ammonium/ammonia ratio
+Nitrogen Delta 15***retired***use Delta Nitrogen-15/Nitrogen-14
+Nitrogen dioxide
+Nitrogen Kjeldahl
+Nitrogen oxides
+Nitroglycerin
+Nitroguanidine
+Nitrous oxide
+Nivalenol
+Nizatidine
+N-Methyl-2-pyrrolidone
+N-methylperfluoro-1-octanesulfonamide
+N-Methyl perfluorooctane sulfonamide
+N-Methylperfluorooctanesulfonamide (N-MeFOSA) (D3, 98%)
+N-Methylperfluorooctanesulfonamidoacetate
+N-methyl perfluorooctanesulfonamidoacetic acid
+N-Methylperfluorooctanesulfonamidoacetic acid (N-MeFOSAA) (N-methyl-D3, 98%)
+N-Methylperfluorooctane sulfonamido ethanol
+N,N-Dimethyloctadecylamine
+N,N-Dimethyloctylamine
+N-Nitrosodimethylamine-d6
+NOA 407854
+NOA 447204
+Noctuidae
+Nomegestrol acetate
+Nonabromophenoxybenzene
+Nonachlor
+Nonachlor III
+Nonacosane
+Nonafluoro-3,6-dioxaheptanoic acid***retired***use Perfluoro-3,6-dioxaheptanoic acid
+Nonanal
+Nonane
+Nonanoic acid
+Non-apatite inorganic phosphorus
+Non-Asbestos Fiber/Material
+Nonatriacontane
+Noncarcinogenic polycyclic aromatic hydrocarbons
+Non-lipid organic matter
+Nonpoint source pollution sources
+Non-purgeable Organic Carbon (NPOC)
+Non-settleable solids
+Non-viable seed count
+Non-viable seed weight
+Nonylphenol
+Norbuprenorphine
+Norcarfentanil
+Nordiazepam
+Nordiazepam-d5
+Nordoxepin
+Norethindrone-2,2,4,6,6,10-d6
+Norethisterone
+Norethynodrel
+Norfentanyl
+Norfentanyl-d5
+Norfloxacin
+Norfluoxetine
+Norfluoxetine-d5
+Norfluoxetine-D6
+Norgestimate
+Norgestrel
+Normeperidine
+Normorphine
+Norpropoxyphene
+Norquetiapine
+Norsertraline
+Northern riffleshell COI gene
+Nortriptyline
+Norverapamil
+Nostoc 16S RNA
+Novaluron
+N-Phenyl-N-(4-piperidinyl)propanamide
+NPS POLLUTION - Domestic Pets Present (Y/N) (choice list)
+NPS POLLUTION - Livestock Present (Y/N) (choice list)
+NPS POLLUTION - Other (Y/N) (choice list)
+NPS POLLUTION - Wildlife Present (Y/N) (choice list)
+Number of Boats
+Number of Exotic species
+Number of forb species
+Number of graminoid species
+Number of individuals***retired***use Individuals examined, actual number
+Number of native species
+Number of pedicels per sample plant
+Number of seeds with ergots
+Number of seeds with worm holes
+Number of Shrub species
+Number of stalks per sample plant
+Number of Tree Species
+Number of valves
+Number of vine species
+Nutrient-nitrogen***retired***use TOTAL NITROGEN, MIXED FORMS with speciation AS N
+Nyctiophylax
+Nymphula
+Observed Recreational Use - Boating (Y/N) (choice list)
+Observed Recreational Use - Fishing (Y/N) (choice list)
+Observed Recreational Use - Other (Y/N) (choice list)
+Observed Recreational Use - Swimming (Y/N) (choice list)
+Ochrotrichia
+Octachlorobiphenyl
+Octachloronaphthalene
+Octachlorostyrene
+Octacosane
+octadecan-1-ol
+Octadecane, 1-chloro-
+Octadecanoic acid, pentatriacontafluoro-
+Octamethylcyclotetrasiloxane
+Octanal
+Octane
+Octane, 1-chloro-
+Octane, 2,5,6-trimethyl-
+Octanoic acid
+Octanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluoro-, ion(1-)
+Octanoic acid, 4,4,5,5,6,6,7,7,8,8,8-undecafluoro-
+Octasulfur
+Octatriacontane
+Octylphenol
+Octylphenol diethoxylate
+O-Desmethyltramadol
+O-Dinitrobenzene
+Odontomesa
+Odor (adverse or offensive) (Y/N) (choice list)
+Odor, atmospheric
+Odor severity (choice list)
+Odor type (choice list)
+Oecetis
+O-Ethyl O-methyl S-propyl phosphorothioate
+O-Ethyl S-methyl S-propyl phosphorodithioate
+O-Ethyl S-propyl phosphorothioate
+Off Channel (Y/N) (choice list)
+Ofloxacin
+Oil and Grease, Nonpolar
+Oil and Grease, surface slick/sheen - severity (choice list)
+Oil and Grease surface slick/sheen (Y/N) (choice list)
+Oil range organics C28-C35
+Oil slick coverage severity, choice list
+Oil slick severity, choice list
+Okadaic acid
+Oleanane, (18.alpha.)-
+Oleandomycin phosphate
+Oleic acid
+Oligobdella
+Oligophlebodes
+Oligostomis
+Omeprazole
+Omeprazole/Esomeprazole mix
+Omethoate
+o-Nitrotoluene
+Onocosmoecus
+O,O-Diethyl dithiophosphate
+O,O,O-Triethyl phosphorothioate
+o,p-DDD
+o,p-DDE
+o,p-DDT
+o,p'-Methoxychlor
+Optical brightener relative fluorescence (fOB)
+Optical brighteners
+Optical Brighteners (choice list)
+Optical brighteners fluorescent whitening agents by fluorescence
+Optical density
+Orconectes
+Organic acids
+Organic carbon
+Organic carbon/organic nitrogen ratio
+Organic compounds
+Organic halides, total -- SWDA NPDWR
+Organic matter
+Organic monomeric aluminum
+Organic Nitrogen
+Organics mix, unspecified
+Organics semivolatile mix, unspecified
+Organics volatile mix, unspecified
+Organochlorine pesticides
+Organophosphorus pesticides
+Orlistat
+Ormetoprim
+Ormosia
+ortho & para Xylene mix
+Orthophosphate
+Orthophosphate as P
+Ortho-Phosphate-Phosphorus
+Orthosulfamuron
+Orthotrichia
+Oseltamivir
+Osmium
+Osmotic pressure
+o-Terphenyl
+Other Disturbance (choice list)
+Other Hydrologic Evidence: Frost-heave hummocks (choice list)
+Other Hydrologic Evidence: Geomorphic position (choice list)
+Other Hydrologic Evidence: Microtopographic relief (choice list)
+Other Hydrologic Evidence: Raised ant mounds (choice list)
+Other Hydrologic Evidence: Shallow aquitard (choice list)
+Other Hydrologic Evidence: Sphagnum moss (choice list)
+Other Hydrologic Evidence: Stunted or stressed plants (choice list)
+Otolith Collected (Y/N) (choice list)
+Overhead Cover
+Oxacillin
+Oxathiapiprolin
+Oxazepam
+Oxazepam glucuronide
+Oxcarbazepine
+Oxidation reduction potential (ORP)
+Oxidized Matrix Color (soil)
+Oxidized Nifedipine
+Oxirane, 2-(chloromethyl)-2-methyl
+Oxolinic acid
+Oxycodone-d6
+Oxydemeton-methyl
+Oxydisulfoton
+Oxyethira
+Oxygen 18/oxygen 16 ratio in sulfate***retired***use Oxygen-18/oxygen-16 ratio as SO4
+Oxygen Delta 18
+Oxygen plus argon
+Oxygen uptake, day
+Oxygen uptake, night
+o-Xylene, mixt. with m-xylene and p-xylene
+Oxymorphone
+Oxymorphone-D3
+Oxymorphone glucuronide
+Oxytetracycline
+Oxytetracycline calcium
+Pacifastacus
+Paclobutrazol
+Pagastiella
+Pagastiella ostansa
+Palaemonetes
+Palaemonetes kadiakensis
+Palpomyia
+Palustric acid
+Parachaetocladius
+Parachironomus
+Parachironomus monochromus
+Paracladopelma
+Paracricotopus
+Parakiefferiella
+Paralauterborniella
+Paramerina
+Parametriocnemus
+Paraoxon
+Paraponyx
+Parapsyche
+Paraquat
+Paraquat dichloride
+Paratanytarsus
+Paratendipes
+Parathion-d10
+Paratrichocladius
+Paroxetine
+Paroxetine-d6
+Partial Pressure CO2
+Partial Pressure O2
+Partial pressure of dissolved gases
+Particle size, <0.001 mm
+Particle size, 0.002.mm
+Particle size, 0.016 mm
+Particle size, 0.5 inch (12.5mm)
+Particle size, 1/2 inch (12.5mm)
+Particle size, 1.5 inch (38.1mm)
+Particle size, 3/4 inch (19.05mm)
+Particle size, 3/8 inch (9.525mm)
+Particle size, Hydrometer (0.001mm)
+Particle size, Hydrometer (0.004mm)
+Particle size, Hydrometer (0.007mm)
+Particle size, Hydrometer (0.010mm)
+Particle size, Hydrometer (0.014mm)
+Particle size, Hydrometer (0.023mm)
+Particle size, Hydrometer (0.036mm)
+Particle size, Hydrometer (.008 mm)
+Particle size, Hydrometer (.011 mm)
+Particle size, Hydrometer (.015 mm)
+Particle size, Hydrometer (.026 mm)
+Particle size, Hydrometer (.040 mm)
+Particle size, Sieve No. 05, 5 mesh, (4.00mm)
+Particle size, Sieve No. 08, 8 mesh, (2.36mm)
+Particle size, Sieve No. 120, 115 mesh, (0.125mm)
+Particle size, Sieve No. 18, 16 mesh, (1.00mm)
+Particle size, Sieve No. 230, 250 mesh, (0.063mm)
+Particle size, Sieve No. 270, 270 mesh, (0.053mm)
+Particle size, Sieve No. 35, 32 Mesh, (0.425mm)
+Particle size, Sieve No. 450, 450 mesh, (0.032mm)
+Particle size, Sieve No. 70, 65 mesh, (0.212mm)
+Particle size (size/range in result Particle Size Basis)
+Particulate Inorganic Carbon
+Particulate Inorganic Phosphorus
+Particulate microcystins/nodularin
+Particulate organic carbon
+Particulate Organic Nitrogen and Particulate Nitrogen
+PBDE 156/169
+PBDE-156/169
+PBDE 197/204
+PBDE Isomer/Congener 154+PBB153 mixture
+PBDE Isomer/Congener 156+169 mixture
+PCB-100/194
+PCB-105/127
+PCB-105/132
+PCB-105/132/153
+PCB-106/107
+PCB-106/118
+PCB-107/108
+PCB-107/109
+PCB-107/123
+PCB-108/112
+PCB-108/118
+PCB-109/123
+PCB-110/120
+PCB-110 + 2,4-DDD
+PCB-111/115
+PCB-111/117
+PCB-112/119
+PCB-114/122
+PCB-114/131
+PCB-115/87
+PCB-116/117
+PCB-116/125
+PCB-117/116/85/110/115
+PCB-117/136
+PCB-121/131 + Nonachlor, cis-
+PCB-122/131
+PCB-122/165
+PCB-123/149
+PCB-123/153
+PCB-124/135/144
+PCB-124/135/144/147
+PCB-124/147
+PCB-128/162
+PCB-128/167
+PCB-128/185
+PCB-129/138/163
+PCB-129/178
+PCB-130/137/176
+PCB-131/133
+PCB-131/133/142
+PCB-131/142
+PCB-131/142/165
+PCB-131/146
+PCB-131/165
+PCB-132/146
+PCB-132/153
+PCB-132/161
+PCB-132/168
+PCB-13/27
+PCB-133/134
+PCB-133/142
+PCB-133/149
+PCB-135/144
+PCB-135/144/147/127
+PCB-135/151
+PCB-136/148
+PCB-136/154
+PCB-137/164
+PCB-137/176
+PCB-137/176/130
+PCB-138/158
+PCB-138/160
+PCB-138/163
+PCB-138/163/164
+PCB-139/149
+PCB-141/179
+PCB-142/146/161
+PCB-145/148
+PCB-146/165
+PCB-15/17
+PCB-15/18
+PCB-153/173/201
+PCB-156/171/202
+PCB-157/173/201
+PCB-157/200
+PCB-158/160
+PCB-163/164
+PCB-16/32
+PCB-171/156 + Unknown tetra-BDE
+PCB-171/201
+PCB-171/202
+PCB-17/18
+PCB-172/192
+PCB-172/197
+PCB-174/181
+PCB-178/186
+PCB-182/187
+PCB-194/205
+PCB-195/207
+PCB-196/203
+PCB-20/21/33
+PCB-202/171/176
+PCB-20/23
+PCB-203/195
+PCB-20/33
+PCB-21/33/53
+PCB-22/51
+PCB-23/34
+PCB-24/27
+PCB-27/33/53
+PCB-28/31
+PCB-34/54
+PCB-37/41
+PCB-37/42
+PCB-37/42/59
+PCB-40/103
+PCB-40/57
+PCB-40/71
+PCB-4/10
+PCB-41/64
+PCB-41/64/68
+PCB-41/64/68/71
+PCB-41/64/71
+PCB-41/64/71/72
+PCB-41/64/72
+PCB-41/71
+PCB-42/59
+PCB-43/49
+PCB-43/52
+PCB-43/73
+PCB-46/69/73
+PCB-47/104
+PCB-47/48
+PCB-47/48/75
+PCB-47/75
+PCB-48/75
+PCB-52/43
+PCB-52/69
+PCB-52/73
+PCB-55/91
+PCB-56/60
+PCB-56/60/85
+PCB-56/60/92 + Chlordane, trans-
+PCB-56/84
+PCB-58/63
+PCB-61/70
+PCB-61/74
+PCB-62/65
+PCB-63/93
+PCB-64/71
+PCB-64/71/72
+PCB-64/72
+PCB-65/75
+PCB-66/76
+PCB-66/76/80
+PCB-66/80
+PCB-66/91
+PCB-66/95
+PCB-70/74/76
+PCB-70/76
+PCB-77/136
+PCB-77/144
+PCB-7/9
+PCB-80/95
+PCB-81/87
+PCB-82/151
+PCB-83/108
+PCB-83/109
+PCB-83/119
+PCB-83/120
+PCB-84/89/92
+PCB-84/90/101
+PCB-84/92
+PCB-85/110/120
+PCB-85/115/154
+PCB-85/116
+PCB-85/120
+PCB-86/125
+PCB-86/87/97/111/117/125
+PCB-86/97
+PCB-86/97/117
+PCB-86/97/125
+PCB-87/111/115
+PCB-87/115
+PCB-87/115/116
+PCB-87/117
+PCB-87/117/125
+PCB-88/121
+PCB-89/113
+PCB-89/90/101
+PCB-91/121
+PCB-93/100
+PCB-93/95
+PCB-93/95/121
+PCB-93/95/98/102
+PCB-93/98/100/102
+PCB-93/98/102
+PCB-95/100
+PCB-95/93/100
+PCB-95/98/102
+PCB-96/103
+PCB-97/116/117
+PCB-98/102
+PCB congener 202-13C12
+p-Chlorobenzotrifluoride
+P-Chlorophenol
+PCN-28/36
+PCN-64/68
+PCN-66/67
+PCN-71/72
+P-Diethylbenzene
+p-Diisopropylbenzene
+p-Dinitrobenzene
+Pedestal Development Erosion Class (choice list)
+Pedicia
+Peloscolex
+Peltoperla
+Penciclovir
+Penicillin G
+Penicillin V
+Penoxsulam
+Pentabromodiphenyl ether
+Pentabromoethylbenzene
+Pentacene
+Pentachlorobiphenyl
+Pentachloronaphthalene
+Pentachlorophenol-13C6
+Pentacosane
+Pentadecane, 2,6,10-trimethyl-
+Pentadecanoic acid
+Pentaerythritol tetranitrate
+Pentafluorophenol
+Pentanal
+Pentane
+Pentane, 2,2,3,4-tetramethyl-
+Pentanedioic acid
+Pentaneura
+Pentatriacontane
+Pentazocine
+Penthiopyrad
+Pentobarbital
+Pentoxifylline
+Pepper mild mottle virus
+Percent abundance
+Percent Cover Vegetation (%)
+Percent Residue
+Perchlorate
+Perfluoro[1,2-13C2]decanoic acid
+Perfluoro[1,2-13C2]dodecanoic acid
+Perfluoro[1,2-13C2]hexadecanoic acid
+Perfluoro[1,2-13C2]hexanoic acid
+Perfluoro[1,2-13C2]tetradecanoic acid
+Perfluoro[1,2-13C2]undecanoic acid
+Perfluoro[1,2,3,4-13C4]butanoic acid
+Perfluoro[1,2,3,4-13C4]octanoic acid
+Perfluoro[1,2,3,4,5-13C5]nonanoic acid
+Perfluoro[1,2,3,4,5,6,7-13C7]undecanoic acid
+Perfluoro[1,2,3,4,6-13C5]hexanoic acid
+Perfluoro-1-decanesulfonic acid***retired***use 1-Decanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heneicosafluoro-
+Perfluoro-1-dodecanesulfonate
+Perfluoro-1-nonanesulfonic acid
+Perfluoro-1-octanesulfonamide***retired***use Perfluorooctanesulfonamide
+Perfluoro(2-ethoxyethane)sulfonate
+Perfluoro(2-ethoxyethane) sulfonate
+Perfluoro(2-ethoxyethane)sulfonic acid
+Perfluoro(2-propoxypropanoate)
+Perfluoro-3,6-dioxaheptanoate
+Perfluoro-3,6-dioxaheptanoic acid
+Perfluoro-3-methoxypropanoic acid
+Perfluoro(4-isopropyltoluene)
+Perfluoro-4-methoxybutanoate
+Perfluoro(4-methoxybutanoic) acid
+Perfluorobutanesulfonate
+Perfluorobutanesulfonic acid
+Perfluorobutanoate
+Perfluorobutanoic acid
+Perfluorobutylsulfonamide
+Perfluorodecanesulfonate
+Perfluorodecane sulfonate
+Perfluorodecanoate
+Perfluorododecanesulfonate
+Perfluorododecanesulfonic acid
+Perfluorododecanoate
+Perfluoroheptanesulfonate
+Perfluoroheptane sulfonate***retired***use 1-Heptanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoro-
+Perfluoroheptanesulfonic Acid***retired***use 1-Heptanesulfonic acid, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,7-pentadecafluoro-
+Perfluoroheptanoate
+Perfluoroheptanoic acid
+Perfluorohexadecanoic acid***retired***use Perfluoropalmitic acid
+Perfluorohexanesulfonamide
+Perfluorohexanesulfonate
+Perfluorohexane sulfonate
+Perfluorohexanesulfonic acid
+Perfluorohexanoate
+Perfluorohexanoic acid
+Perfluoromyristic acid***retired***use Perfluorotetradecanoic acid
+Perfluoro-n-(2,3,4-13C3)butanoic acid
+Perfluorononanesulfonate
+Perfluorononanoate
+Perfluorooctanesulfonamide
+Perfluorooctane sulfonamide***retired***use Perfluorooctanesulfonamide
+Perfluorooctanesulfonate
+Perfluorooctane sulfonate
+Perfluorooctanesulfonate (PFOS)
+Perfluorooctanoate (anionic form)
+Perfluorooctanoic acid
+Perfluoropalmitic acid
+Perfluoropentanesulfonate
+Perfluoropentane sulfonic acid
+Perfluoropentanesulfonic acid
+Perfluoropentanoate
+Perfluoropentanoic acid
+Perfluorotetradecanoate
+Perfluorotridecanoate
+Perfluorovaleric acid
+Pericoma
+Periphyton biovolume
+Periphyton Cover
+Periphyton productivity
+PeriSubCrs
+PeriSubLrg
+PeriSubSoft
+Permeability, K
+Perthane
+Pesticide mix, unspecified
+p-Ethylphenol
+Petroleum
+Petroleum hydrocarbons (C9-C44)
+Petroleum spirits
+PFAS Total, Ionic Compounds
+PFOA ion
+pH
+PH
+Phaenopsectra
+Phaeophytin - Periphyton (attached)
+Phaeophytin - Phytoplankton (suspended)
+Phaeopigment
+Phalacrocera
+Phantolide
+Phenanthrene + anthracene(C1-C4) mix, unspecified
+Phenazopyridine
+Phendimetrazine
+Phenkapton
+Phenmedipham
+Phenobarbital
+Phenobarbital-D5
+Phenol, 2,4-bis(1,1-dimethylethyl)-6-methyl-
+Phenol, 2,4-bis(1,1-dimethylpropyl)-
+Phenol, 4,4'-[2,2,2-trifluoro-1-(trifluoromethyl)ethylidene]bis-
+Phenol, 4,5-dichloro-2-methoxy-
+Phenol, 4-chloro-2-methoxy-
+Phenol-D6
+Phenyl ether
+Phenylpropanolamine
+Phenytoin-d10
+Pheophytin/Chlorophyll ratio
+Pheopigments of Chlorophyll
+pH, lab***retired***use pH
+Phorate-d10
+Phorate O.A.
+Phorate oxon sulfone
+Phorate oxon sulfoxide
+Phorate oxygen analog sulfone
+Phorate sulfone
+Phorate sulfoxide
+Phoridae
+Phosmetoxon
+Phosphamidon-E
+phosphatase (corrected for carbon content)
+Phosphate
+Phosphate-phosphorus
+Phosphorus
+Phosphorus as P
+Phosphorus, hydrolyzable
+Phosphorus (white or yellow)
+Photomirex
+Phryganea
+Phryganeidae
+pH Saturated Paste
+Phthalazinone
+Phthalic acid
+Phthalic anhydride
+Phycocyanin (probe)
+Phycoerythrin
+Phylloicus
+Phylocentropus
+Phytane
+Phytol
+Phytoplankton Density
+Phytoplankton Relative Density
+Phytoplankton, settling volume
+Picarbutrazox
+Picarbutrazox TZ-1E
+Picoxystrobin
+Picric acid
+Pig-1 Bac DNA marker
+Pig-2 Bac DNA marker
+Pimaric acid
+Pimozide
+Pindolol
+Pioglitazone
+Piperidine, 1-(1-phenylcyclohexyl)-
+Piperidine, 1-(1-phenylcyclohexyl)-, hydrochloride
+Pirimiphos-methyl
+Piscicola
+Piscicolidae
+Placobdella
+Planariidae
+Planktothrix-specific microcystin (MC) mcyE gene
+Plant height (Above water)
+Plant height (Total)
+Plasticity index
+Plastic limit
+Platinum
+Platyhelminthes
+Plecoptera
+Plecopteracoluthus
+Plutonium-238
+Plutonium-239 and/or plutonium-240
+Plutonium-239 and Plutonium-240 combined
+Plutonium-241
+p-Nitroanisole
+p-Nitrotoluene
+p-Octylphenol
+Point Source Pollution - Outfall Pipe Discharging (Y/N) (choice list)
+Point Source Pollution - Outfall Pipe Present (Y/N) (choice list)
+Polyarthra
+Polybrominated biphenyls
+Polybrominated diphenyl ethers
+Polycelis coronata
+Polycentropodidae
+Polycentropus
+Polychlorinated napthalenes (PCNs)
+Polychlorinated terphenyls
+Polycyclic aromatic hydrocarbons as benzo[a]pyrene TEQ
+Polyethylene glycol
+Polypedilum tritum
+Polypropylene glycol
+Pool Count
+Pool Depth
+Pool Length
+Pool Morphology
+Pool Substrate
+Pool Velocity
+Population diversity, phytoplankton, # of species
+Porifera
+Porosity
+Potamothrix
+Potamyia flava
+Potassium
+Potassium 1,1,2,2-tetrafluoro-2-(pentafluoroethoxy)ethane-1-sulfonate
+Potassium 11-chloroeicosafluoro-3-oxaundecane-1-sulfonate
+Potassium 9-chlorohexadecafluoro-3-oxanonane-1-sulfonate
+Potassium bisulfate
+Potential Solar Radiation (% Time Shading Absent)
+Potential Sources
+Potthastia
+p,p' DDE + DDT
+p,p'-Methoxychlor
+p-Propylphenol
+Practicing Erosion control (Y/N) (choice list)
+Pravastatin
+Prazepam
+Praziquantel
+Precipitation 120hr prior to monitoring event amount
+Precipitation 24hr prior to monitoring event (choice list)
+Precipitation 36hr prior to monitoring event amount
+Precipitation 48hr prior to monitoring event amount
+Precipitation 48hr prior to monitoring event (choice list)
+Precipitation (CA SWAMP) (choice list)
+Precipitation during activity (choice list)
+Precipitation, how heavy (choice list)
+Precipitation Last 24hrs (CA SWAMP) (choice list)
+Precipitation volume
+Preconsolidation Pressure (Pc)
+Prednisolone
+Prednisone
+Pregabalin
+Pregna-1,4-diene-3,20-dione, 11,17,21-trihydroxy-6-methyl-, (6.alpha.,11.beta.)-
+Presence of exotic species (Y/N) (choice list)
+Presence of pathogens or pests (choice list)
+Pressure
+Presumptive Aeromonas
+Primary/ Secondary surrounding landuse (choice list)
+Primidone-d5
+Primisulfuron-methyl
+Prior Precipitation (text)
+Pristane
+Pristane/Phytane Ratio
+Pristina
+Pristine (choice list)
+Probezzia
+Procambarus
+Prochloraz
+Procladius
+Prodiamesa
+Productivity, Bacterial Carbon Production
+Productivity, photosynthetic rate, carbon production
+Profenofos
+Profluralin
+Progesterone
+Progesterone-d9
+Progestrone***retired***use Progesterone
+Promecard
+Promethazine
+Promethazine-d4
+Promethium-147
+Propachlor ESA
+Propachlor OA
+Propamocarb
+Propane, 1,1,2,2-tetrafluoro-
+Propane, 2,2-difluoro-
+Propanenitrile
+Propanoic acid, 2,2,3-trifluoro-3-[1,1,2,2,3,3-hexafluoro-3-(trifluoromethoxy)propoxy]-
+Propanoic Acid, 2-Oxo-
+Propetamphos
+Propionic acid
+Propofol
+Propoxycarbazone-sodium
+Propoxyphene
+Propoxyphene-d5
+Propranol
+Propranolol
+Propranolol-d7
+Propyl acetate
+Propylene
+Propylene glycol
+Propylene glycol allyl ether
+Propylparaben
+Propylthiouracil
+Propyne
+Prosimulium
+Prostoma
+Protactinium-231
+Protactinium-233
+Protactinium-234
+Protactinium-234m
+Prothioconazole
+Prothioconazole-desthio
+Protoptila
+Protriptyline
+Psectrocladius
+Psectrotanypus
+Pseudochironomus pseudoviridis
+Pseudodiamesa
+Pseudoephedrine/Ephedrine mix
+Pseudolimnophila
+Pseudomonas
+Pseudomonas aeruginosa
+Pseudostenophylax
+Psilotreta
+psi,psi-Carotene, 7,7,8,8,11,11,12,12,15,15-decahydro-
+Psychoda
+Psychodidae
+Psychoglypha
+Psychomyia
+Pterodrilus alcicornus
+Pteronarcella
+Pteronarcys
+p-tert-Amylphenol
+p-tert-Butylphenol
+Ptilostomis
+Pumping rate
+Pycnopsyche
+Pydiflumetofen
+Pymetrozine
+Pyrasulfotole
+Pyrazon
+Pyrene, 4-methyl-
+Pyrene-d10
+Pyrethrin I
+Pyrethrin II
+Pyrethrins
+Pyridafol
+Pyrimethanil
+Pyrimsulfan
+Pyrite
+Pyroxasulfone
+Pyroxasulfone M1
+Pyroxasulfone M3
+Pyroxsulam
+Qualitative Habitat Evaluation Index
+Quetiapine
+Quetiapine fumarate
+Quinclorac
+Quinine
+Quinoline
+Quinoline, 2-methyl-
+Quinoxyfen
+Ractopamine
+Radioactivity, gross
+Radium-226/228
+Radium isotopes, alpha emitting
+Radon
+Radon-219
+Rainfall
+Raloxifene
+Ramipril
+Ranitidine
+Rank Sum
+RBP2, Aquatic Vegetation, Dominant Type & Species (choice list)
+RBP2, Habitat type, bedrock (%)
+RBP2, Habitat Type, bedrock (%)
+RBP2, Habitat type, canopy (%)
+RBP2, Habitat type, general comments
+RBP2, Habitat type, glide (%)
+RBP2, Habitat type, large woody debris (%)
+RBP2, Habitat type, sand-silt-mud-muck (%)
+RBP2, High G, habitat assessment total rating
+RBP2, High G, habitat assessment total score
+RBP2, Instream Features, Canopy Cover (choice list)
+RBP2, Instream Features, Channelized (Y/N) (choice list)
+RBP2, Instream Features, Dam Present (Y/N) (choice list)
+RBP2, Instream features, est. stream depth
+RBP2, Instream features, high water mark
+RBP2, Instream features, sampling reach area
+RBP2, Large woody debris, density of LWD (LWD/reach area)
+RBP2, Low G, Bank Stability, Sum of L/R Bank Scores (choice list)
+RBP2, Low G, habitat assessment total rating
+RBP2, Low G, Riparian Veg. Zone Width, Sum of L/R Bank (choice list)
+RBP2, Low G, Vegetative Protection, Sum of L/R Bank Scores (choice list)
+RBP2, Riparian Vegetation, Dominant Species Present (choice list)
+RBP2, Sediment/Substrate, Deposits (choice list)
+RBP2, Sediment/Substrate, Embedded Stone Undersides Black (choice list)
+RBP2, Sediment/Substrate, Odors (choice list)
+RBP2, Sediment/Substrate, Oils (choice list)
+RBP2, Stream character, catchment area
+RBP2, Stream Character, Stream Origin (choice list)
+RBP2, Stream Character, Stream Subsystem (choice list)
+RBP2, Stream Character, Stream Type (choice list)
+RBP2, Substrate, inorganic, bedrock
+RBP2, Substrate, Inorganic, boulder, >256 mm
+RBP2, Substrate, inorganic, cobble, 64-256 mm
+RBP2, Substrate, Inorganic, Silt, 0.004-0.06 mm
+RBP2, Substrate, organic, marl, grey shell fragments
+RBP2, Water Quality, Turbidity (choice list)
+RBP2, Water Quality, Water Odors (choice list)
+RBP2, Water Quality, Water Surface Oils (choice list)
+RBP2, Watershed, Local Erosion (choice list)
+RBP2, Watershed, Local NPS Pollution (choice list)
+RBP2, Watershed, Predominant Surrounding Landuse (choice list)
+RBP2, weather condition, general observation (text)
+RBP2, Weather Condition, Heavy Rain in Last 7 Days, Y/N (choice list)
+RBP2, Weather Condition, Now (choice list)
+RBP2, Weather Condition, Past 24 Hours (choice list)
+RBP3, Riffle/Run, Embeddedness (choice list)
+RBP3, Riffle/Run, Epifaunal Substrate (choice list)
+RBP3, Riffle/Run, Sediment Deposition (choice list)
+RBP3, Riffle/Run, Velocity/ Depth Regimes (choice list)
+RBP Bank Stability, Left (choice list)
+RBP Bank Stability, Right (choice list)
+RBP Bank Stability, Sum of L/R Bank Scores (choice list)
+RBP Bank Vegetative Protection, Left (choice list)
+RBP Bank Vegetative Protection, Right (choice list)
+RBP Bank Vegetative Protection, Sum of L/R Bank Scores (choice list)
+RBP Bank Vegetative Stability, Left (choice list)
+RBP Bank Vegetative Stability, Right (choice list)
+RBP Canopy Cover (choice list)
+RBP Channel Alteration (choice list)
+RBP Channel Flow Status (choice list)
+RBP Channelized Y/N (choice list)
+RBP Channel Sinuosity (choice list)
+RBP Embeddedness (choice list)
+RBP Epifaunal Substrate (choice list)
+RBP Frequency of Riffles (choice list)
+RBP Local Watershed Erosion (choice list)
+RBP Local Watershed NPS Pollution (choice list)
+RBP Pool Substrate (choice list)
+RBP Pool Variability (choice list)
+RBP Predominant Surrounding Land Use (choice list)
+RBP Riparian Vegetative Zone Width, Sum of L/R Bank Scores (choice list)
+RBP Sediment Deposition (choice list)
+RBP Sediment Odors (choice list)
+RBP Sediment Oils (choice list)
+RBP Stream Type (choice list)
+RBP Turbidity Code (choice list)
+RBP Undersides of Loose Stones Black Y/N (choice list)
+RBP Water Odors (choice list)
+RBP Water Surface Oils (choice list)
+Reach Length, Downstream
+Reach Length, Upstream
+Reaction lag time, (BOD)
+Reaction lag time, (CBOD)
+Reaction lag time, (NBOD)
+Recent Fire Disturbance (choice list)
+Recent Flooding Disturbance (choice list)
+Recompression Index
+Recreational Use
+Recreation Use Disturbance (choice list)
+Redoximorphic Features (%)
+Redoximorphic Features (choice list)
+Redoximorphic Features Color: Chroma
+Redoximorphic Features Color: Hue
+Redoximorphic Features Color: Value
+Refined used lubricating oils
+Refractive Index (RI)
+Relative abundance
+Relative Air Temperature (choice list)
+relative biovolume
+relative entity density
+Relative percent difference
+Reoxygenation constant
+Reproduction
+Residual Depth
+Resistivity
+Resmethrin
+Respiration
+Retene
+Retinoic acid
+Retrorsine
+Rheocricotopus
+Rhodamine WT
+Rhodium
+Rhyacophila
+Rhyacophila fuscula
+Rhynchobdellida
+Ribbon Length
+Riffle, Bedrock (%)
+Riffle, Boulder (%)
+Riffle, Cobble (%)
+Riffle, Gravel (%)
+Riffle Run Embeddedness
+Riffle Run Stability
+Riffle, Sand (%)
+Riffle, Silt (%)
+Riffle Substrate
+Rill/Gully Erosion Class (choice list)
+Rimsulfuron
+Riparian Area Description
+Riparian - Buildings - Industrial (choice list)
+Riparian - Buildings - Residential (choice list)
+Riparian - Dam (choice list)
+Riparian - Docks or marinas (choice list)
+Riparian Erosion
+Riparian Floodplain
+Riparian - Grazing (choice list)
+Riparian - Mining (choice list)
+Riparian - Other (choice list)
+Riparian - Outlet or intake pipes (choice list)
+Riparian - Parks or lawns (choice list)
+Riparian - Pavement (choice list)
+Riparian - Recent logging (choice list)
+Riparian - Rip Rap (choice list)
+Riparian - Roads or rails (choice list)
+Riparian - Row crops (choice list)
+Riparian - Trash (choice list)
+Riparian vegetation composition (choice list)
+Riparian vegetation density (choice list)
+Riparian vegetation, dominant species present
+Riparian Width, Both Banks
+Riparian Width LDB
+Riparian Width RDB
+Riparian Zone Left Bank Plant Cover - Exposed Soil
+Riparian Zone Left Bank Plant Cover - Grass Low Plants
+Riparian Zone Left Bank Plant Cover - Other (rip rap, concrete, etc)
+Riparian Zone Left Bank Plant Cover - Shrubs/Low Trees
+Riparian Zone Left Bank Plant Cover - Trees
+Riparian Zone Right Bank Plant Cover - Exposed Soil
+Riparian Zone Right Bank Plant Cover - Grass Low Plants
+Riparian Zone Right Bank Plant Cover - Other (rip rap, concrete, etc)
+Riparian Zone Right Bank Plant Cover - Shrubs/Low Trees
+Riparian Zone Right Bank Plant Cover - Trees
+Ritalinic acid
+Ritonavir
+Road or Track Disturbance (choice list)
+Rock Cover (%)
+Rocky Substrate (choice list)
+Roederiodes
+Rooted or floating plants restrict access to waterbody (Y/N) (choice list)
+Root Jabs
+Root Mass
+Root weight
+Rosgen Stream Type
+Rosuvastatin
+Rosuvastatin-d6
+Rotavirus
+Rotavirus protein
+Rotenone
+Roxithromycin
+(RS)-AMPA (Aminomethyl phosphonic acid)
+Rum2Bac DNA marker
+Ruminant Bacteroides
+Ruthenium-103
+Ruthenium-106
+Ruthenium Radionuclides
+Sabellidae
+Saflufenacil
+Salbutamol
+Salicylic acid
+Salicylic acid-d4
+Salinity
+Salinomycin
+Salmonella
+Salmonella TTR gene
+Sample collection general mode (choice list)
+Sample flow volume
+Sample location, distance downstream
+Sample location, distance upstream
+Sample location, relative to right bank, looking downstream
+Sandaracopimaric acid
+Sand/Substrate Habitat Type (%)
+Sandy Substrate (choice list)
+Sarafloxacin
+Saturated/Noncohesive soils (Y/N) (choice list)
+Saturation Index Chalcedony
+Saturation Index Dolomite
+Saturation Index Gypsum
+Saturation Index Opal
+Saturation Index Quartz
+Saxitoxin gene sxtA
+Saxitoxins
+Scale Card Number (Fish) (text)
+Scale Focus Radius (Fish)
+Scale Radius (Fish)
+Seagrass Cover (choice list)
+Seagrass height
+sec-Alachlor oxanilic acid
+sec-Alachlor sulfonic acid
+Secbumeton
+Secbutabarbital
+Secchi depth
+Secchi, Horizontal Distance
+Secchi Reading Condition (choice list)
+Secobarbital-d5
+Seconal
+Second PCB total for IADN
+Second Suite of PCBs in air from Hoff, 1999
+Sedaxane
+Sediment Depth
+Sediment, inorganic, classification (choice list)
+Sediment, organic, classification (choice list)
+Sediment Oxygen Demand
+Sediment/ Substrate Odors (choice list)
+Selenate
+Selenite
+Selenium
+Selenium-75
+Selenium-78
+Selenium-82
+Selenium Dry Weight
+Selenocyanate
+Selenomethionine
+Selenosulfate
+Senecionine
+Senecionine N-oxide
+Seneciphylline
+Seneciphylline N-oxide
+Serratia
+Sertraline
+Sertraline-d3
+Seston
+Sethoxydim
+Sewage algae present (choice list)
+Sex (choice list)
+Shade, Left
+Shade, Right
+Shear stress
+Shigella
+Shoot weight
+Shore Type - Aggrading Bank
+Shore Type - Eroding Bank
+Shore Type - Other
+Shore Type - Riprap
+Shore Type - Stable Bank
+Shrub Coverage
+Sida
+Side Channel (Y/N) (choice list)
+Silane, methoxytrimethyl-
+Silanol, dimethyl(1,1,2-trimethylpropyl)-
+Silanol, trimethyl-
+Sildenafil
+Silica gel treated n-hexane extractable material
+Silicon as SiO2
+Silver
+Silver-108
+Silver-110
+Silvex isooctyl ester
+Simazine-d10
+Similarity, gravid counts
+Similarity, lengths
+Similarity, no gravid counts
+Simocephalus
+Simpson Taxonomic Diversity Index
+Simuliidae
+Simulium
+Simulium vittatum
+Simultaneously extracted metals/acid volatile sulfides
+Simultaneously extracted metals/acid volatile sulfides (Metals ESB based on Final Chron. Value for AVS (fOC))
+Simultaneously extracted metals minus AVS
+Simvastatin
+Simvastatin-d6
+Sinuosity length line
+Sitagliptin
+Site Disturbance Evident (choice list)
+Site Disturbance (text)
+Site Erosion (text)
+Site Sampleability Status
+Site Verified by GPS
+Site Verified by Local Contact
+Site Verified by Other
+Site Verified by Roads
+Site Verified by Signs
+Site Verified by Topographic Map
+Site Visit Number
+Sky Code (CA SWAMP) (choice list)
+Slime-forming bacteria
+Slope
+Slope/Bearing Method
+Slope/Bearing Proportion
+Slope Variability (choice list)
+Slow Riffle
+Sludge (choice list)
+Sludge Depth
+Sludge, floating - severity (choice list)
+Sludge, substrate rock/bank cover - severity (choice list)
+Small trees (choice list)
+Smicridea
+Smithsonidrilus
+Smittia
+Snag
+Snag_diam
+Snag_dist
+Snag_dpth
+Snag surf (choice list)
+Snow Cover Present (Y/N) (choice list)
+Sodium
+Sodium 1H,1H,2H,2H-perfluoro1-decanesulfonate
+Sodium chlorate
+Sodium chromate(VI)
+Sodium dodecafluoro-3H-4,8-dioxanonanoate
+Sodium methyldithiocarbamate
+Sodium, Percent Total Cations
+Sodium perfluoro-1-(1,2,3,4-13C4)octanesulfonate
+Sodium perfluoro-1-[1,2,3,4-18O2]octanesulfonate
+Sodium perfluoro-1-(2,3,4-13C)butanesulfonate
+Sodium perfluoro-1-hexane[18O2]sulfonate
+Sodium perfluorodecanesulfonate
+Sodium perfluorohexanesulfonate
+Sodium Perfluorononanesulfonate
+Sodium perfluoropentanesulfonate
+Soft/Small Sediment Present (Y/N) (choice list)
+Soil ammonium content
+Soil Color Change after Exposure to Air (Y/N) (choice list)
+Soil Conductivity
+Soil Layer (choice list)
+Soil Metric Color (Moist): Chroma
+Soil Metric Color (Moist): Hue
+Soil Metric Color (Moist): Value
+Soil Moisture
+Soil Organic Matter
+Soil Saturation Evidence: Crayfish burrows (choice list)
+Soil Saturation Evidence: Dry season water table (choice list)
+Soil Saturation Evidence: Fiddler crab burrows (choice list)
+Soil Saturation Evidence: Hydrogen sulfide odor (choice list)
+Soil Saturation Evidence: Oxidized rhizospheres along living roots (choice list)
+Soil Saturation Evidence: Presence of reduced iron (choice list)
+Soil Saturation Evidence: Recent iron reduction in tilled soils (choice list)
+Soil Saturation Evidence: Salt deposits (choice list)
+Soil Saturation Evidence: Thin muck surface (choice list)
+Soil Type
+Soil Water
+Solar radiation
+Solids Formed
+Sotalol
+SPAR
+Species Individual Count (choice list)
+Species Rank
+Specific conductance
+Specific conductivity
+Specific conductivity***retired***use Specific conductance
+Specific drawdown capacity
+Specific UV Absorbance at 254 nm
+Specific UV Absorbance at 254 nm, corrected for Fe
+Spike Recovery
+Spinosyn A
+Spinosyn D
+Spirodiclofen
+Spirotetramat
+Split Count
+Spongilla
+Spring, Channel Count Within 50 Meters
+Spring, Channel Description (text)
+Spring, Channel Dominant Discharge Type (choice list)
+Spring, Channel Length
+Spring, Channel Length > 50 Meters (choice list)
+Spring, Channel Present (Y/N) (choice list)
+Spring Depth to Water
+Spring, Flow Affected (choice list)
+Spring, Flowing Channel Length
+Spring, Flowing Channel Length > 50 Meters (choice list)
+Spring, Flow Modification Active (choice list)
+Spring, Flow Modification (choice list)
+Spring, Flow Status (choice list)
+Spring, % Flow Volume Affected by Modification
+Spring, Measurable Discharge (Y/N) (choice list)
+Spring, Multiple Orifices (Y/N) (choice list)
+Spring, Orifice Description (text)
+Spring, Other Springs Within 0.5 Miles (Y/N) (choice list)
+Spring, Pool Surface Stage From a Fixed Reference Point
+Spring, Site Area
+Spring Type (choice list)
+Spring, Visual Estimate of Mixing (choice list)
+Squalene
+Stactobiella
+Stannanediylium, dibutyl-
+Staphylococcus
+Staphylococcus aureus
+Stearic acid
+Stempellina
+Stempellinella
+Stenochironomus
+Stictochironomus
+Stilobezzia
+Storm water flow (choice list)
+Straight run wide cut kerosene (petroleum)
+Stratiomys
+Stream bankfull width
+Stream Bank Type, Left Bank
+Stream Bank Type, Right Bank
+Stream Bed Color (choice list)
+Stream condition (text)
+Stream depth (choice list)
+Stream flow (choice list)
+Stream flow, direction
+Stream flow, max, storm event
+Stream flow, median, storm event
+Stream Mixing Condition (choice list)
+Stream Order
+Stream physical appearance (choice list)
+Stream Physical Appearance, Minnesota (choice list)
+Stream recreational suitability (choice list)
+Stream Unit Type (choice list)
+Stream velocity (choice list)
+Stream water level
+Stream wetted width
+Stream width (choice list)
+Strong acids
+Strontium-87/strontium-86, ratio
+Strontium-89
+Strontium-90 and/or yttrium-90
+Strontium Radionuclides
+Stygonectes
+Stylaria
+Styrene oxide
+Submerged Cover (%)
+Submerged Vegetation Habitat Type (%)
+Subsample_A
+Subsample_B
+Substrate algae, % (choice list)
+Substrate algae color
+Substrate-bedrock
+Substrate - boulders
+Substrate - boulders, large
+Substrate - boulders, medium
+Substrate - boulders, small
+Substrate (choice list)
+Substrate - clay/fine partic. org. matt.
+Substrate, clay, medium
+Substrate - claypan soil
+Substrate - cobbles
+Substrate - cobbles, large
+Substrate - cobbles, medium
+Substrate - cobbles, small
+Substrate Description (text)
+Substrate - detritus - coarse particulate
+Substrate Dominant, Channel (choice list)
+Substrate Dominant, Transect (choice list)
+Substrate Embeddedness
+Substrate - fines
+Substrate - grain size
+Substrate - gravel, coarse
+Substrate - gravel, medium
+Substrate - gravel, very coarse
+Substrate - gravel, very fine
+Substrate Origin
+Substrate Quality
+Substrate - sediment thickness
+Substrate - silt clay (<0.0625 mm)
+Substrate - silt, coarse
+Substrate - silt, fine
+Substrate - silt, medium
+Substrate Size Class, Midpoint
+Substrate Size Class, Transect
+Substrate Subdominant, Transect (choice list)
+Substrate - submerged logs
+Substrate - submerged vegetation
+Substrate Type (choice list)
+Substrate - Woody Debris
+Subsystem classification stream type (choice list)
+Sucralose-d6
+Suite of PCBs for IADN
+Suite of PCBs from Ind. Univ.
+Suite of PCBs in air from Hoff, 1999
+Sulfachloropyridazine
+Sulfadimethoxine
+Sulfamerazine
+Sulfamethazine
+Sulfamethazine-13C6
+Sulfamethizole
+Sulfamethoxazole-d4
+Sulfanilamide
+Sulfaquinoxaline
+sulfatase (corrected for carbon content)
+Sulfate
+Sulfate as SO4
+Sulfathiazole
+Sulfentrazone 3-carboxylic acid
+Sulfite
+Sulfluramid
+Sulfosulfuron ethyl sulfone
+Sulfoxaflor
+Sulfur-35
+Sulfur HCl Residue
+Sulfur HNO3 Residue
+Sulfur, organic
+Sulfur Organic Residual Mod
+Sulfur, pyritic
+Sulfur Total
+Sumatriptan
+Surface algae, % (choice list)
+Surface algae color
+Surface Cover, Species (choice list)
+Surface Observation: High water table (choice list)
+Surface Observation: Soil saturation (choice list)
+Surface Observation: Surface water (choice list)
+Surface tension
+Surfactants
+Surrogate Recovery
+Suspended sediment concentration (SSC)
+Swep
+Symbiocladius
+Symphitopsyche
+Sympotthastia
+Synchaeta
+Synclita
+syn-Dechlorane Plus
+Synorthocladius
+Synurella
+Syrphidae
+Tabanidae
+Tabanus
+Tadalafil
+Tail Out Depth
+Talitridae
+Tamoxifen
+Tanaidacea
+Tanypus
+Taphromysis
+Taxonomic Evenness
+Taxonomic Richness
+Taxonomic Richness, Ephemeroptera, Plecoptera, Tricoptera
+Taxon Present (Y/N) (choice list)
+TCEP-d12
+Tebuconazole tert-Butylhydroxy
+Tebupirimfos***retired***use Phostebupirim
+Tebupirimphos oxon
+Tebuthiuron TP 106
+Tebuthiuron TP 109 (OH)
+Technetium-99
+Tecnazene
+Tefluthrin
+Tefluthrin acid benzyl ester
+Tefluthrin acid pentafluorobenzyl ester
+Telmatoscopus
+Temazepam
+Tembotrione
+Temephos
+Temperature difference
+Temperature, evaporation
+Temperature, sediment
+Temperature, soil
+Temperature, tissue
+Temperature, water
+Temperature, wet bulb
+Teniposide
+Terbufos oxon
+Terbufos oxygen analog sulfone
+Terbutol
+Terbutryn
+Terphenyl
+Terphenyl-d14
+Terphenyl-dl4
+Terpineol
+Terrace height
+Terrace width
+Terrestrial Vegetation Jabs
+tert-Butyl acetate
+tert-Butyl formate
+Testosterone
+Testosterone-d3
+Testosterone-d5
+Testosterone glucuronide
+Testosterone sulfate
+Tetrabromobisphenol A
+Tetrabromodiphenyl ether
+Tetrabromophthalic anhydride
+Tetrabutyltin
+Tetrachlorobenzene
+Tetrachlorobiphenyl
+Tetrachloroethane
+Tetrachloroguaiacol
+Tetrachloro-m-xylene
+Tetrachlorophenol
+Tetracontane
+Tetracosane
+Tetracycline-D6
+Tetradecane
+Tetradecylbenzene
+Tetradifon
+Tetraethyllead
+Tetrahydrocannabinol
+Tetrahydrophthalimide
+Tetraniliprole
+Tetraniliprole quinazolinone
+Tetrapropyl dithiopyrophosphate
+Tetratriacontane
+Tetryl
+Thallium-201
+Thallium-208
+Thalweg Bar Present
+Thalweg Bar Width
+Thalweg Depth
+Thalweg Depth by Pole
+Thalweg Depth by Sonar
+Thalweg Increment
+Thalweg Wetted Width
+Thebaine
+Theobromine
+Theophylline
+Theophylline-13C1-15N2
+Thermocline Present
+Thiabendazole-d6
+Thiacloprid
+Thiamethoxam degradate
+Thiazopyr
+Thidiazuron
+Thiencarbazone-methyl
+Thienemannia
+Thienemanniella
+Thienemannimyia
+Thifensulfuron
+Thifensulfuron-methyl
+Thiocyanic acid
+Thiodicarb
+Thiophanate Methyl
+Thiosulfate
+Thiram
+Thorium-227
+Thorium-234
+Thulium
+Tiamulin
+Ticlopidine
+Tide rate
+Tide stage
+Tilmicosin
+Tin-San
+Tiotropium
+Tipula
+Tipulidae
+Tolerance index
+Tolpyralate
+Toluene diisocyanate
+Toluic acid
+Topiramate
+Top of bank cross-sectional area
+Topramezone
+Topsoil Nitrogen Content
+Torrent Deposition-Massive deposits of sediment, logs, and debris in the reach (Y/N) (choice list)
+Torrent Deposition-Stream has begun to erode newly laid matrix supported deposits (Y/N) (choice list)
+Torrent Scouring and Deposition-No evidence (Y/N) (choice list)
+Torrent Scouring-Channel has little evidence of pool-riffle structure (Y/N) (choice list)
+Torrent Scouring-Downstream of scoured reach are massive deposits of sediment and debris (Y/N) (choice list)
+Torrent Scouring-Riparian trees have fallen in channel due to scouring near their roots (Y/N) (choice list)
+Torrent Scouring-Riparian trees have fresh bark scars unbelievably high above the channel (Y/N) (choice list)
+Torrent Scouring-Stream channel is scoured down to bedrock for substantial portion of reach (Y/N) (choice list)
+Torrent Scouring-Stream channel recently devegetated two or more times the width of low flow channel (Y/N) (choice list)
+Torrent Scouring-Stream substrate cobbles or large gravel particles are NOT imbricated (Y/N) (choice list)
+Torrent Scouring-There are gravel or cobble berms (little levees) above bankfull level (Y/N) (choice list)
+Total BHCs + Lindane
+Total Brominated Flame Retardants
+Total Dioxins
+Total Dioxin TEQ, Bird
+Total Dioxin TEQ, Fish
+Total Dioxin TEQ, Mammalian
+Total dissolved solids
+Total Fenamiphos
+Total Furans
+Total Hexachloronaphthalene
+Total Nitrogen, mixed forms
+Total Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)
+Total nonfecal coliform
+Total PAHs, high wt
+Total PAHs, low wt
+Total Particulate Carbon
+Total Particulate Matter
+Total Particulate Organic Carbon
+Total Particulate Organic Nitrogen***retired***use TOTAL NITROGEN, MIXED FORMS with speciation AS N and fraction SUSPENDED
+Total Particulate Phosphorus
+Total PCBs + PCTs
+Total PCB TEQ, Mammalian
+total PCNs
+Total Petroleum Hydrocarbon - Extended Range Organ
+Total Petroleum Hydrocarbons (C10-C40)
+Total Petroleum Hydrocarbons (C6-C32 TPH)
+Total Petroleum Hydrocarbons - TPH GRO Extraction
+Total Phosphorus, mixed forms
+Total sample area
+Total Sulfate
+Total Sulfur minus Sulfate
+Total Suspended Particulate Matter
+Total suspended solids
+Tox
+Toxaphene Cl10
+Toxaphene Cl6
+Toxaphene Cl7
+Toxaphene Cl8
+Toxaphene Cl9
+Toxaphene Parlar 26
+Toxaphene Parlar 38
+Toxaphene Parlar 40
+Toxaphene Parlar 41
+Toxaphene Parlar 44
+Toxaphene Parlar 50
+Toxaphene Parlar 62
+ToxapheneTMX1
+Toxicity acute
+Toxicity microtox EC50
+Toxicity, sediment, Ampelisca abdita, significant (choice list)
+Toxicity, sediment, Ampelisca abdita, survival**retired**useBiologicalSample,SubjectTaxon,IntentToxicity
+Toxicity sediment control survival
+Toxicity, sediment, microtox, Vibrio fischeri, EC50**retired**useBiologicalSample,SubjectTaxon,IntentToxicity
+Toxicity water LC50
+Toxicity water norm embryo
+Trail Disturbance (choice list)
+Tralkoxydim
+Tralkoxydim acid
+Tralomethrin
+trans-1,2-Cyclohexanediol
+trans-1,2-Dichloropropene
+trans-1,3-Dichloropropene-d4
+trans-1,4-Dichloro-2-butene
+trans-2-Phenyl-2-butene
+trans-Crotonaldehyde
+trans-Diethylstilbestrol
+Transect
+Transect Spacing - Actual
+Transect Spacing - Intended
+Transmittance, Horizontal
+Transparency, tube with disk
+(-)-trans-Permethrin
+Transphilic fraction of organic carbon
+Trazodone
+Treatment category
+Tree Coverage
+Tremolite asbestos
+Trenbolone
+Trenbolone acetate
+Triacontane
+Triacontane-D62
+Triadimenol
+Triaenodes
+Triasulfuron
+Triazolam
+Triazophos
+Tribenuron-methyl
+Tribromoacetaldehyde
+Tribromoacetonitrile
+Tribromonitromethane
+Tributylstannylium
+Tributyltin
+Tributyltin chloride
+Tricamba
+Trichloro-1,3-butadiene
+Trichloroacetic acid, pent-2-en-4-ynyl ester
+Trichloroacetonitrile
+Trichlorobenzene
+Trichlorobiphenyl
+Trichloronaphthalene
+Trichloropropane
+Trichloropropene sulfonic acid ethyl ester
+Trichlorotrifluoroethane
+Trichocerca
+Trichocladius
+Trichotanypus
+Tricladida
+Triclocarban
+Triclocarban-13C6
+Triclopyr-butotyl
+Triclosan-d3
+Tricosane
+Tricosanol
+Tricresyl phosphate
+Tricyclazole
+Tricyclo[3.3.1.13,7]decane
+Tridecane
+Tridecanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,13-pentacosafluoro-***retired***use Perfluorotridecanoic acid
+Tridemethyl hexazinone G
+Triethyl phosphate
+Trifloxystrobin acid
+Trifloxysulfuron-sodium
+Triflumizole
+Trifluralin-d14
+Triiodomethane
+Triisopropanolamine
+Trimethoprim-13C3
+Trimethylbenzene
+Trimethylcyclohexene
+Trimipramine maleate
+Trinexapac-Ethyl
+Trinitrotoluene
+Triphenylene
+Triphenyltin
+Tripropyl phosphate
+Tris(1,3-dichloro-2-propyl) Phosphate-d15
+tris(1-Chloropropan-2-yl) phosphate-d18
+Tris(2,3-dibromopropyl) Phosphate
+Tris(2-ethylhexyl) phosphate
+Tris(2-ethylhexyl) trimellitate
+Trissocladius
+Trissopelopia
+Triticonazole
+Tritriacontane
+Tropocyclops
+Tryptophan
+t-Stat
+Tubifex
+Tubificidae
+Turbellaria
+Turbidity
+Turbidity Field
+Turbidity severity (choice list)
+Tylosin
+Unconfined Compression
+Unconfined compressive strength
+Undecane
+Undecanoic acid, 2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,11-heneicosafluoro-***retired***use Perfluoroundecanoic acid
+% undercut bank
+Undercut Banks (%)
+Understory Cover
+Understory Herbaceous (choice list)
+Undrained Shear Strength
+Unknown Arsenic Species
+Unknown Selenium Species
+Unnatural bottom deposits (choice list)
+Unnatural color (choice list)
+Unnatural floating debris (choice list)
+Unnatural odor (choice list)
+Unnatural oil (choice list)
+Unnatural plant or algal growth (choice list)
+Unnatural turbidity (choice list)
+Uranium-233/234
+Uranium-234/235/238
+Uranium-234/uranium-238
+Uranium-234/Uranium-238 ratio
+Uranium-236
+Uranium 238/234 ratio
+Uranium-238/uranium-235
+Urea
+Uric acid
+USDA Soil Texture Classification (choice list)
+USEPA Habitat score
+Utermohl concentration factor
+UU Triaxial Deviator Stress
+UU Triaxial Strain
+UV Absorption, relative conc. of organic constituents
+Vahlkampfia
+Valacyclovir
+Valeric acid
+Valifenalate
+Valley Width
+Valley Width Index
+Valsartan
+Vanadium-51
+Vanillin
+Vegetation Density, Nudds Board Left
+Vegetation Density, Nudds Board Right
+Venice Salinity Category (choice list)
+Venlafaxine
+Venlafaxine-d6
+Verapamil
+Vernolate
+Verrucarin A
+Vertical Height from waterline to high water mark
+Viable seed count
+Viable seed weight
+Vinclozolin
+Vine Coverage
+Vinyl bromide
+Vinyl chloride-d3
+Vinyltoluene
+Violaxanthin
+Virginiamycin
+Virginiamycin M1
+Virus
+Viruses (enteric)
+Visibility
+Volatile Residue
+Volatile suspended solids
+Volume settled
+Volume Storage
+Voucher Collected (Y/N) (choice list)
+Warfarin
+Warfarin-d5
+Water
+Water appearance (text)
+Waterbody aesthetically degraded (Y/N) (choice list)
+Water Clarity
+Water Column Habitat Type (%)
+Water content of snow
+Watercraft Observed
+Water level
+Water level in well during pumping, MSL
+Water level (probe)
+Water Odor (choice list)
+Water Pressure
+Water Quality Index
+Watershed, predominant surrounding land use
+Water surface slope longitudinally
+Water transparency, Secchi disc
+Wave height (WMO code 1555) (choice list)
+Weak, dissociable cyanide
+Weather comments (text)
+Weather condition, now
+Weather condition past 24 hours
+Weight, volatile portion
+Well condition (choice list)
+Wet Bulk Density of Soils
+Wetted Width
+Whirling Disease Present (Y/N) (choice list)
+Wiedemannia
+Wildlife Trampling or Grazing Disturbance (choice list)
+Wind Condition (choice list)
+Wind direction (direction from, expressed 0-360 deg)
+Wind direction from (choice list)
+Wind Speed (choice list)
+Wind speed, vertical
+Withdrawal rate of ground water
+Wood class (choice list)
+Wood creosote
+Woody Canopy Type (choice list)
+Woody Ground Coverage shrubs (choice list)
+Woody Ground Coverage Type (choice list)
+Woody Understory Grasses (choice list)
+Woody Understory shrubs (choice list)
+Woody Understory Type (choice list)
+Wormaldia
+Xenon-124
+Xenon-124/Xenon-132 error
+Xenon-124/Xenon-132 ratio
+Xenon-126/Xenon-132 error
+Xenon-126/Xenon-132 ratio
+Xenon-128
+Xenon-128/Xenon-132 error
+Xenon-128/Xenon-132 ratio
+Xenon-129
+Xenon-129/Xenon-132 error
+Xenon-129/Xenon-132 ratio
+Xenon-130
+Xenon-131
+Xenon-131/Xenon-132 error
+Xenon-131/Xenon-132 ratio
+Xenon-132
+Xenon-134
+Xenon-134/Xenon-132 error
+Xenon-134/Xenon-132 ratio
+Xenon-136
+Xenon-136/Xenon-132 error
+Xenon-136/Xenon-132 ratio
+Xylenes, m- & p- Mix***retired***use m,p-Xylene
+Yersinia
+Ytterbium-169
+Zavrelia
+Zavrelimyia
+(Z)-Dimethomorph
+Zearalenone
+Zeaxanthin
+Zidovudine
+Zidovudine-d3
+Zinc
+Zinc-65
+Zinc-67
+Zinc-68
+Zinc bacitracin
+Ziram
+Zirconium-95
+Zirconium/Niobium-95
+Zolpidem
+Zolpidem phenyl-4-carboxylic acid
+Zone of Influence
+Zooplankton
+Zooplankton Density
+Zoxamide

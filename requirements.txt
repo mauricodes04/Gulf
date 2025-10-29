@@ -1,0 +1,7 @@
+langchain-openai
+langchain-chroma
+requests
+plotly
+python-dotenv
+pandas
+chromadb
