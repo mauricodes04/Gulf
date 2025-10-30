@@ -8,6 +8,7 @@ import pandas as pd
 from pathlib import Path
 
 
+
 _BAD = re.compile(r'[\\/:*?"<>|]+')
 def _safe_tag(name):
     s = _BAD.sub("_", name)
@@ -34,7 +35,7 @@ def filter_results(raw_path, characteristicName):
 
     #Check if there are sufficient data points
     if len(df) <= 3:
-        print(f"<dev> Insufficient data for {characteristicName}: only {len(df)} data points found. Skipping...")
+        print(f"\r<dev> Insufficient data for {characteristicName}: only {len(df)} data points found. Skipping..." + " " * 20)
         os.remove(raw_path)
         return None
 
@@ -43,7 +44,7 @@ def filter_results(raw_path, characteristicName):
 
     #Save
     df.to_csv(filtered_path, index=False)
-    print(f"<dev> Filtered file saved to: {filtered_path}")
+    print(f"\r<dev> Filtered file saved to: {filtered_path}" + " " * 20)
     return filtered_path
 
 def create_chart(characteristicName: str, input_path: str) -> str:
@@ -69,10 +70,11 @@ def create_chart(characteristicName: str, input_path: str) -> str:
     
     # Sort by date
     df = df.sort_values('ActivityStartDate')
-    
+    '''
     print(f"Chart {characteristicName} has {len(df)} data points")
     print(f"Date range: {df['ActivityStartDate'].min()} to {df['ActivityStartDate'].max()}")
     print(f"Value range: {df['ResultMeasureValue'].min()} to {df['ResultMeasureValue'].max()}")
+    '''
     
     # Get min and max values for y-axis range
     y_min = df['ResultMeasureValue'].min()
@@ -111,7 +113,7 @@ def create_chart(characteristicName: str, input_path: str) -> str:
     output_path = os.path.join(os.getcwd(), f"chart_{safe}.html")
     fig.write_html(output_path)
     
-    print("Chart Created!")
+    print(f"\rChart Created for {characteristicName}!" + " " * 20)
 
 def fetch_API(inVar, inVar2):
     url = "https://www.waterqualitydata.us/data/Result/search?"
@@ -142,7 +144,7 @@ def fetch_API(inVar, inVar2):
 
     with open(raw_path, "wb") as f:
         f.write(response.content)
-    print(f"Saved to path: {raw_path}")
+    print(f"\rSaved to path: {raw_path}" + " " * 20)
 
     return raw_path
 
@@ -154,19 +156,6 @@ def search(inVar):
     values = [v["value"] for v in data.get("codes", [])]
     assert values, "values_filtered.json has no 'codes' or is empty"
     
-    #-=+=--=+=-
-    # Load invalid values list if it exists
-    invalid_path = Path("invalid.txt")
-    invalid_values = set()
-    if invalid_path.exists():
-        with invalid_path.open("r", encoding="utf-8") as f:
-            invalid_values = set(line.strip() for line in f if line.strip())
-        print(f"Loaded {len(invalid_values)} invalid characteristic names to exclude")
-    
-    # Filter out invalid values
-    values = [v for v in values if v not in invalid_values]
-    assert values, "No valid values remaining after filtering"
-    #-=+=--=+=-
 
     # 2) embeddings
     load_dotenv()
@@ -176,7 +165,7 @@ def search(inVar):
 
     # 3) vector store
     persist_dir = "chroma_values_store"
-    print("Creating chroma value storage...")
+    print("Creating chroma value storage...", end='', flush=True)
     vectorstore = Chroma.from_texts(values, embeddings, persist_directory=persist_dir)
 
     # 4) query
@@ -196,20 +185,20 @@ def search(inVar):
 def __init__():
     scenario = input("Input scenario here: ")
     results_list = search(scenario)
-    print(f"<dev> This is the Results List: {results_list}")
+    print(f"\r<dev> Found {len(results_list)} related characteristics" + " " * 50)
 
     for i in results_list:
-        print(f"<dev> STEP 1: Running fetch_API with characteristicname: {i}")
+        print(f"\r<dev> STEP 1: Running fetch_API with characteristicname: {i}" + " " * 20, end='', flush=True)
         raw_path = fetch_API(i, "01-01-1980")
         if not raw_path:
             continue
 
-        print(f"<dev> STEP 2: Running filter_results for {i}")
+        print(f"\r<dev> STEP 2: Running filter_results for {i}" + " " * 20, end='', flush=True)
         filtered_path = filter_results(raw_path, i)
         if not filtered_path:
             continue
 
-        print(f"<dev> STEP 3 Running create_chart for {i}")
+        print(f"\r<dev> STEP 3: Running create_chart for {i}" + " " * 20, end='', flush=True)
         create_chart(i, filtered_path)
         
 
