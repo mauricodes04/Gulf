@@ -22,7 +22,10 @@ def _safe_tag(name):
 
 
 def fetch_API(characteristicName, startDate):
-
+    """
+    Fetch data from Water Quality API for a specific characteristic name.
+    Returns path to saved CSV file, or empty string on error.
+    """
     url = "https://www.waterqualitydata.us/data/Result/search?"
     
     params = {
@@ -45,7 +48,7 @@ def fetch_API(characteristicName, startDate):
     try:
         response = requests.get(full_url)
         if response.status_code != 200:
-            print(f"Error Code {response.status_code}")
+            print(f"  ❌ Error Code {response.status_code}")
             return ""
         
         with open(raw_path, "wb") as f:
@@ -53,12 +56,15 @@ def fetch_API(characteristicName, startDate):
         
         return raw_path
     except Exception as e:
-        print(f"Request failed: {e}")
+        print(f"  ❌ Request failed: {e}")
         return ""
 
 
 def validate_numeric_data(raw_path, characteristicName):
-    
+    """
+    Check if the characteristic has valid numeric data in ResultMeasureValue.
+    Returns True if it has numeric data, False if only text/invalid data.
+    """
     cols = ["ActivityStartDate", "ResultMeasureValue"]
     
     try:
@@ -70,19 +76,19 @@ def validate_numeric_data(raw_path, characteristicName):
             df = pd.read_csv(raw_path)
             df = df[[c for c in cols if c in df.columns]]
         except Exception as e:
-            print(f"Failed to read CSV: {e}")
+            print(f"  ❌ Failed to read CSV: {e}")
             return False
     
     # Check if CSV has any data rows (not just headers)
     if len(df) == 0:
-        print(f"CSV is empty (no data rows)")
+        print(f"  ⚠️  CSV is empty (no data rows)")
         return False
     
     # Drop rows missing critical data
     df = df.dropna(subset=["ActivityStartDate", "ResultMeasureValue"])
     
     if len(df) == 0:
-        print(f"No data rows with valid ActivityStartDate and ResultMeasureValue")
+        print(f"  ⚠️  No data rows with valid ActivityStartDate and ResultMeasureValue")
         return False
     
     # Convert ResultMeasureValue to numeric (same as create_chart does)
@@ -93,15 +99,18 @@ def validate_numeric_data(raw_path, characteristicName):
     
     # Check if we have at least 4 numeric data points
     if len(df_numeric) <= 3:
-        print(f"Only {len(df_numeric)} numeric data points (need >3)")
+        print(f"  ❌ Only {len(df_numeric)} numeric data points (need >3)")
         return False
     
-    print(f"Valid: {len(df_numeric)} numeric data points")
+    print(f"  ✅ Valid: {len(df_numeric)} numeric data points")
     return True
 
 
 def validate_all_values():
-
+    """
+    Main function to validate all characteristic names from values.json
+    and create invalid.txt with those that have no numeric data.
+    """
     # Load values.json
     path = Path("values.json")
     with path.open("r", encoding="utf-8") as f:
@@ -174,9 +183,9 @@ def validate_all_values():
     print(f"Total characteristics in values.json: {len(values)}")
     print(f"Previously processed: {len(processed_values)}")
     print(f"Newly processed: {len(remaining_values)}")
-    print(f"Valid (numeric data): {len(valid_values)}")
-    print(f"Total Invalid (text only or insufficient data): {len(invalid_values)}")
-    print(f"Newly found invalid: {len(invalid_values) - len(processed_values)}")
+    print(f"✅ Valid (numeric data): {len(valid_values)}")
+    print(f"❌ Total Invalid (text only or insufficient data): {len(invalid_values)}")
+    print(f"❌ Newly found invalid: {len(invalid_values) - len(processed_values)}")
     print(f"\nAll invalid values saved to: {invalid_path}")
     print(f"{'='*60}")
     
