@@ -8,7 +8,6 @@ import pandas as pd
 from pathlib import Path
 
 
-
 _BAD = re.compile(r'[\\/:*?"<>|]+')
 def _safe_tag(name):
     s = _BAD.sub("_", name)
@@ -70,6 +69,7 @@ def create_chart(characteristicName: str, input_path: str) -> str:
     
     # Sort by date
     df = df.sort_values('ActivityStartDate')
+    
     '''
     print(f"Chart {characteristicName} has {len(df)} data points")
     print(f"Date range: {df['ActivityStartDate'].min()} to {df['ActivityStartDate'].max()}")
@@ -156,6 +156,19 @@ def search(inVar):
     values = [v["value"] for v in data.get("codes", [])]
     assert values, "values_filtered.json has no 'codes' or is empty"
     
+    #-=+=--=+=-
+    # Load invalid values list if it exists
+    invalid_path = Path("invalid.txt")
+    invalid_values = set()
+    if invalid_path.exists():
+        with invalid_path.open("r", encoding="utf-8") as f:
+            invalid_values = set(line.strip() for line in f if line.strip())
+        print(f"Loaded {len(invalid_values)} invalid characteristic names to exclude")
+    
+    # Filter out invalid values
+    values = [v for v in values if v not in invalid_values]
+    assert values, "No valid values remaining after filtering"
+    #-=+=--=+=-
 
     # 2) embeddings
     load_dotenv()
