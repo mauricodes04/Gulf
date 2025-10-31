@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gulf Water Quality Analysis</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .input-section {
+            margin-bottom: 30px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+            color: #34495e;
+        }
+        
+        #scenarioInput {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #bdc3c7;
+            border-radius: 5px;
+            font-size: 16px;
+            box-sizing: border-box;
+        }
+        
+        #scenarioInput:focus {
+            border-color: #3498db;
+            outline: none;
+        }
+        
+        #analyzeBtn {
+            background-color: #3498db;
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+        
+        #analyzeBtn:hover {
+            background-color: #2980b9;
+        }
+        
+        #analyzeBtn:disabled {
+            background-color: #95a5a6;
+            cursor: not-allowed;
+        }
+        
+        .status-section {
+            margin: 30px 0;
+            padding: 20px;
+            background-color: #ecf0f1;
+            border-radius: 5px;
+            min-height: 60px;
+        }
+        
+        .status-title {
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        
+        #statusText {
+            color: #7f8c8d;
+            font-family: 'Courier New', monospace;
+            font-size: 14px;
+            line-height: 1.4;
+        }
+        
+        .graphs-section {
+            margin-top: 30px;
+        }
+        
+        .graphs-title {
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 15px;
+            font-size: 18px;
+            text-align: center;
+        }
+        
+        .chart-navigation {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding: 0 20px;
+        }
+        
+        .nav-button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+            min-width: 100px;
+        }
+        
+        .nav-button:hover:not(:disabled) {
+            background-color: #2980b9;
+        }
+        
+        .nav-button:disabled {
+            background-color: #bdc3c7;
+            cursor: not-allowed;
+        }
+        
+        .chart-counter {
+            font-weight: bold;
+            color: #2c3e50;
+            font-size: 16px;
+        }
+        
+        .chart-container {
+            border: 1px solid #bdc3c7;
+            border-radius: 5px;
+            padding: 20px;
+            background: white;
+            min-height: 500px;
+            position: relative;
+        }
+        
+        .chart-title {
+            font-weight: bold;
+            margin-bottom: 15px;
+            color: #2c3e50;
+            text-align: center;
+            font-size: 18px;
+        }
+        
+        .chart-frame {
+            width: 100%;
+            height: 450px;
+            border: none;
+            border-radius: 3px;
+        }
+        
+        .no-charts-message {
+            text-align: center;
+            color: #7f8c8d;
+            font-style: italic;
+            padding: 40px;
+        }
+        
+        .loading-chart {
+            text-align: center;
+            color: #3498db;
+            padding: 40px;
+        }
+        
+        .keyboard-hint {
+            text-align: center;
+            color: #95a5a6;
+            font-size: 12px;
+            margin-top: 10px;
+            font-style: italic;
+        }
+        
+        .loading {
+            animation: pulse 2s infinite;
+        }
+        
+        @keyframes pulse {
+            0% { opacity: 1; }
+            50% { opacity: 0.5; }
+            100% { opacity: 1; }
+        }
+        
+        .progress-bar {
+            width: 100%;
+            height: 20px;
+            background-color: #ecf0f1;
+            border-radius: 10px;
+            overflow: hidden;
+            margin: 10px 0;
+        }
+        
+        .progress-fill {
+            height: 100%;
+            background-color: #3498db;
+            width: 0%;
+            transition: width 0.3s ease;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Gulf Water Quality Analysis</h1>
+        
+        <div class="input-section">
+            <label for="scenarioInput">Enter Scenario here:</label>
+            <input type="text" id="scenarioInput" placeholder="e.g., ocean pollution, water temperature, salinity levels...">
+            <button id="analyzeBtn" onclick="startAnalysis()">Analyze Water Quality</button>
+        </div>
+        
+        <div class="status-section">
+            <div class="status-title">Analysis Status:</div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressBar"></div>
+            </div>
+            <div id="statusText">Ready to analyze. Enter a scenario above and click "Analyze Water Quality".</div>
+        </div>
+        
+        <div class="graphs-section" id="graphsSection" style="display: none;">
+            <div class="graphs-title">Generated Charts</div>
+            
+            <div class="chart-navigation">
+                <button class="nav-button" id="prevButton" onclick="previousChart()" disabled>
+                    ← Previous
+                </button>
+                <div class="chart-counter" id="chartCounter">
+                    Chart 1 of 1
+                </div>
+                <button class="nav-button" id="nextButton" onclick="nextChart()" disabled>
+                    Next →
+                </button>
+            </div>
+            
+            <div class="chart-container" id="chartContainer">
+                <div class="no-charts-message">No charts available</div>
+            </div>
+            
+            <div class="keyboard-hint" id="keyboardHint" style="display: none;">
+                Use arrow keys (← →) or navigation buttons to browse charts
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let analysisInProgress = false;
+        let currentCharacteristics = [];
+        let completedCharts = 0;
+        let totalCharacteristics = 0;
+        let availableCharts = [];
+        let currentChartIndex = 0;
+
+        function updateStatus(message, progress = null) {
+            const statusText = document.getElementById('statusText');
+            const progressBar = document.getElementById('progressBar');
+            
+            statusText.textContent = message;
+            
+            if (progress !== null) {
+                progressBar.style.width = progress + '%';
+            }
+        }
+
+        function updateProgress() {
+            if (totalCharacteristics > 0) {
+                const progress = (completedCharts / totalCharacteristics) * 100;
+                updateStatus(`Processing ${completedCharts}/${totalCharacteristics} characteristics completed`, progress);
+            }
+        }
+
+        async function startAnalysis() {
+            const scenario = document.getElementById('scenarioInput').value.trim();
+            const analyzeBtn = document.getElementById('analyzeBtn');
+            const graphsSection = document.getElementById('graphsSection');
+            
+            if (!scenario) {
+                alert('Please enter a scenario to analyze.');
+                return;
+            }
+            
+            if (analysisInProgress) {
+                alert('Analysis is already in progress. Please wait...');
+                return;
+            }
+            
+            // Reset state
+            analysisInProgress = true;
+            analyzeBtn.disabled = true;
+            currentCharacteristics = [];
+            completedCharts = 0;
+            totalCharacteristics = 0;
+            availableCharts = [];
+            currentChartIndex = 0;
+            graphsSection.style.display = 'none';
+            
+            try {
+                updateStatus('Starting analysis...', 0);
+                
+                // Send request to Python backend
+                const response = await fetch('/analyze', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ scenario: scenario })
+                });
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                // Start polling for updates
+                pollForUpdates();
+                
+            } catch (error) {
+                console.error('Error starting analysis:', error);
+                updateStatus('Error: Could not start analysis. Make sure the Python server is running.', 0);
+                analysisInProgress = false;
+                analyzeBtn.disabled = false;
+            }
+        }
+
+        async function pollForUpdates() {
+            try {
+                const response = await fetch('/status');
+                const data = await response.json();
+                
+                if (data.status === 'completed') {
+                    updateStatus('Analysis completed! Loading charts...', 100);
+                    await loadGeneratedCharts();
+                    analysisInProgress = false;
+                    document.getElementById('analyzeBtn').disabled = false;
+                    return;
+                }
+                
+                if (data.status === 'error') {
+                    updateStatus('Error: ' + data.message, 0);
+                    analysisInProgress = false;
+                    document.getElementById('analyzeBtn').disabled = false;
+                    return;
+                }
+                
+                // Update status and progress
+                if (data.message) {
+                    updateStatus(data.message, data.progress || 0);
+                }
+                
+                if (data.total_characteristics) {
+                    totalCharacteristics = data.total_characteristics;
+                }
+                
+                if (data.completed_charts !== undefined) {
+                    completedCharts = data.completed_charts;
+                    updateProgress();
+                }
+                
+                // Continue polling
+                setTimeout(pollForUpdates, 1000);
+                
+            } catch (error) {
+                console.error('Error polling for updates:', error);
+                setTimeout(pollForUpdates, 2000); // Retry in 2 seconds
+            }
+        }
+
+        async function loadGeneratedCharts() {
+            try {
+                const response = await fetch('/charts');
+                const chartFiles = await response.json();
+                
+                if (chartFiles.length === 0) {
+                    updateStatus('Analysis completed, but no charts were generated.', 100);
+                    return;
+                }
+                
+                availableCharts = chartFiles;
+                currentChartIndex = 0;
+                
+                const graphsSection = document.getElementById('graphsSection');
+                graphsSection.style.display = 'block';
+                
+                displayCurrentChart();
+                updateNavigationButtons();
+                updateStatus(`Analysis completed! Generated ${chartFiles.length} charts.`, 100);
+                
+            } catch (error) {
+                console.error('Error loading charts:', error);
+                updateStatus('Error loading generated charts.', 100);
+            }
+        }
+
+        function displayCurrentChart() {
+            const chartContainer = document.getElementById('chartContainer');
+            const chartCounter = document.getElementById('chartCounter');
+            const keyboardHint = document.getElementById('keyboardHint');
+            
+            if (availableCharts.length === 0) {
+                chartContainer.innerHTML = '<div class="no-charts-message">No charts available</div>';
+                chartCounter.textContent = 'No charts';
+                keyboardHint.style.display = 'none';
+                return;
+            }
+            
+            // Show loading message first
+            chartContainer.innerHTML = '<div class="loading-chart">Loading chart...</div>';
+            
+            const currentChart = availableCharts[currentChartIndex];
+            
+            // Load the chart after a brief delay to show loading state
+            setTimeout(() => {
+                chartContainer.innerHTML = `
+                    <div class="chart-title">${currentChart.title}</div>
+                    <iframe class="chart-frame" src="${currentChart.url}"></iframe>
+                `;
+            }, 200);
+            
+            chartCounter.textContent = `Chart ${currentChartIndex + 1} of ${availableCharts.length}`;
+            keyboardHint.style.display = availableCharts.length > 1 ? 'block' : 'none';
+        }
+
+        function updateNavigationButtons() {
+            const prevButton = document.getElementById('prevButton');
+            const nextButton = document.getElementById('nextButton');
+            
+            prevButton.disabled = (currentChartIndex === 0);
+            nextButton.disabled = (currentChartIndex === availableCharts.length - 1);
+        }
+
+        function previousChart() {
+            if (currentChartIndex > 0) {
+                currentChartIndex--;
+                displayCurrentChart();
+                updateNavigationButtons();
+            }
+        }
+
+        function nextChart() {
+            if (currentChartIndex < availableCharts.length - 1) {
+                currentChartIndex++;
+                displayCurrentChart();
+                updateNavigationButtons();
+            }
+        }
+
+        // Allow Enter key to trigger analysis
+        document.getElementById('scenarioInput').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                startAnalysis();
+            }
+        });
+
+        // Add keyboard navigation for charts
+        document.addEventListener('keydown', function(e) {
+            const graphsSection = document.getElementById('graphsSection');
+            
+            // Only allow navigation if charts are displayed
+            if (graphsSection.style.display === 'block' && availableCharts.length > 0) {
+                if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') {
+                    e.preventDefault();
+                    previousChart();
+                } else if (e.key === 'ArrowRight' || e.key === 'ArrowDown') {
+                    e.preventDefault();
+                    nextChart();
+                }
+            }
+        });
+
+        // Utility functions for status updates (can be called from external scripts)
+        window.gulfAnalysis = {
+            updateStatus: updateStatus,
+            setTotalCharacteristics: function(total) {
+                totalCharacteristics = total;
+                updateProgress();
+            },
+            incrementCompletedCharts: function() {
+                completedCharts++;
+                updateProgress();
+            },
+            addChart: function(chartPath, title) {
+                // This can be used if we want to add charts dynamically
+                console.log('Chart added:', title, chartPath);
+            }
+        };
+    </script>
+</body>
+</html>

@@ -1,11 +1,24 @@
-Create file called ".env" with content:
-OPENAI_API_KEY= "YOUR_API_KEY_HERE"
 
+### 1. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
 
-Then run in cmd:
+### 2. Configure Environment
+Create a `.env` file with your OpenAI API key:
+```
+OPENAI_API_KEY=YOUR_API_KEY_HERE
+```
 
-    pip install -r requirements.txt
-    python main.py
+### 3. Run the Application
 
-All charts will be created in root folder.
-- Mauricio M.
+**Option A: Web Interface (Recommended)**
+```bash
+python web_server.py
+```
+Then open your browser to `http://localhost:5000`
+
+**Option B: Command Line**
+```bash
+python main.py
+```
